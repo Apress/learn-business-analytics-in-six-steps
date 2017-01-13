@@ -1,0 +1,587 @@
+Year, Month,Quarter,CustomerType,TypeOfCalling,Vertical,Monthly Reccuring Revenue in INR
+2014,January,Q1,New Customer,Inbound,Media & Entertainment,0
+2014,January,Q1,New Customer,Inbound,Education,1200
+2014,January,Q1,New Customer,Outbound,Manufacturing,3838
+2014,January,Q1,New Customer,Inbound,High Technology,8013
+2014,January,Q1,New Customer,Outbound,Public Sector,18618
+2014,January,Q1,New Customer,Inbound,Retail,1450
+2014,January,Q1,New Customer,Outbound,High Technology,4500
+2014,January,Q1,New Customer,Outbound,Public Sector,8750
+2014,January,Q1,New Customer,Outbound,Foundation-Not for Profit,2700
+2014,January,Q1,New Customer,Inbound,High Technology,4283
+2014,January,Q1,Existing Customer,Outbound,Retail,12000
+2014,January,Q1,Existing Customer,Outbound,Retail,1550
+2014,January,Q1,Existing Customer,Outbound,Financial Services,6599
+2014,January,Q1,Existing Customer,Inbound,Pharma/Health Care,3004
+2014,January,Q1,New Customer,Outbound,Media & Entertainment,180000
+2014,January,Q1,New Customer,Inbound,Media & Entertainment,92500
+2014,January,Q1,New Customer,Outbound,Media & Entertainment,149500
+2014,January,Q1,New Customer,Outbound,Media & Entertainment,3200
+2014,January,Q1,New Customer,Outbound,High Technology,7000
+2014,January,Q1,New Customer,Outbound,Gaming,125000
+2014,January,Q1,Existing Customer,Outbound,Gaming,1667
+2014,January,Q1,New Customer,Outbound,Financial Services,5168
+2014,January,Q1,New Customer,Inbound,Education,1443
+2014,January,Q1,New Customer,Inbound,High Technology,7172
+2014,January,Q1,New Customer,Outbound,Gaming,8138
+2014,January,Q1,New Customer,Outbound,Retail,6151
+2014,January,Q1,New Customer,Inbound,Business Services,8180
+2014,January,Q1,New Customer,Outbound,Media & Entertainment,900
+2014,January,Q1,New Customer,Outbound,Financial Services,1545
+2014,January,Q1,New Customer,Outbound,Consumer Goods,15500
+2014,January,Q1,New Customer,Inbound,High Technology,7200
+2014,January,Q1,New Customer,Outbound,Retail,5311
+2014,January,Q1,Existing Customer,Outbound,Automotive,304
+2014,January,Q1,Existing Customer,Outbound,Retail,1140
+2014,January,Q1,Existing Customer,Inbound,Miscellaneous,2800
+2014,January,Q1,Existing Customer,Outbound,Media & Entertainment,310000
+2014,January,Q1,Existing Customer,Outbound,Media & Entertainment,87000
+2014,January,Q1,New Customer,Outbound,Gaming,6750
+2014,February,Q1,New Customer,Outbound,High Technology,4915
+2014,February,Q1,New Customer,Outbound,Manufacturing,200000
+2014,February,Q1,New Customer,Outbound,Gaming,2160
+2014,February,Q1,New Customer,Inbound,Software as a Service,5250
+2014,February,Q1,New Customer,Outbound,Media & Entertainment,250014
+2014,February,Q1,New Customer,Outbound,Retail,4480
+2014,February,Q1,New Customer,Outbound,Media & Entertainment,3490
+2014,February,Q1,New Customer,Outbound,Media & Entertainment,227895
+2014,February,Q1,New Customer,Outbound,Business Services,17859
+2014,February,Q1,New Customer,Outbound,Retail,5060
+2014,February,Q1,New Customer,Inbound,Media & Entertainment,4000
+2014,February,Q1,New Customer,Inbound,Media & Entertainment,0
+2014,February,Q1,New Customer,Inbound,Business Services,1000
+2014,February,Q1,New Customer,Outbound,Media & Entertainment,5250000
+2014,February,Q1,New Customer,Inbound,Business Services,1000
+2014,February,Q1,New Customer,Outbound,Business Services,5000
+2014,February,Q1,New Customer,Inbound,Business Services,338733
+2014,February,Q1,New Customer,Inbound,Media & Entertainment,2392
+2014,February,Q1,New Customer,Outbound,Consumer Goods,39692
+2014,February,Q1,New Customer,Inbound,Financial Services,2100
+2014,February,Q1,New Customer,Outbound,Media & Entertainment,385
+2014,February,Q1,New Customer,Outbound,Media & Entertainment,9850
+2014,February,Q1,New Customer,Outbound,High Technology,14000
+2014,February,Q1,New Customer,Inbound,High Technology,2100
+2014,February,Q1,New Customer,Outbound,Media & Entertainment,38000000
+2014,February,Q1,New Customer,Inbound,Media & Entertainment,30000
+2014,February,Q1,New Customer,Inbound,Business Services,1025
+2014,February,Q1,New Customer,Outbound,Media & Entertainment,100000
+2014,February,Q1,New Customer,Inbound,Pharma/Health Care,3500
+2014,February,Q1,New Customer,Outbound,Manufacturing,2500
+2014,February,Q1,New Customer,Outbound,Media & Entertainment,9893
+2014,February,Q1,New Customer,Inbound,Media & Entertainment,429
+2014,February,Q1,New Customer,Inbound,Media & Entertainment,79167
+2014,February,Q1,New Customer,Inbound,Business Services,5283
+2014,February,Q1,New Customer,Outbound,High Technology,1000
+2014,February,Q1,New Customer,Outbound,Media & Entertainment,4500000
+2014,February,Q1,New Customer,Outbound,High Technology,1056
+2014,February,Q1,New Customer,Outbound,Media & Entertainment,800
+2014,February,Q1,New Customer,Outbound,Media & Entertainment,6650
+2014,February,Q1,New Customer,Inbound,Media & Entertainment,1000
+2014,February,Q1,New Customer,Inbound,High Technology,1784
+2014,February,Q1,New Customer,Inbound,Pharma/Health Care,6000
+2014,February,Q1,New Customer,Outbound,Business Services,4950
+2014,February,Q1,New Customer,Inbound,Public Sector,6970
+2014,February,Q1,New Customer,Outbound,High Technology,7050
+2014,February,Q1,Existing Customer,Outbound,Public Sector,0
+2014,February,Q1,Existing Customer,Outbound,Financial Services,13668
+2014,February,Q1,Existing Customer,Outbound,Media & Entertainment,22900
+2014,February,Q1,Existing Customer,Outbound,Automotive,5608
+2014,February,Q1,Existing Customer,Outbound,Manufacturing,44744
+2014,February,Q1,Existing Customer,Outbound,Retail,4120000
+2014,February,Q1,Existing Customer,Outbound,Retail,6292
+2014,February,Q1,Existing Customer,Outbound,Retail,8068
+2014,February,Q1,Existing Customer,Outbound,Media & Entertainment,750
+2014,February,Q1,Existing Customer,Inbound,High Technology,1250
+2014,February,Q1,Existing Customer,Outbound,High Technology,763
+2014,February,Q1,Existing Customer,Outbound,High Technology,8902
+2014,February,Q1,Existing Customer,Outbound,Hotel & Travel,17499
+2014,February,Q1,Existing Customer,Outbound,Automotive,1543
+2014,February,Q1,Existing Customer,Outbound,Retail,3115
+2014,February,Q1,Existing Customer,Outbound,Financial Services,2175
+2014,February,Q1,Existing Customer,Outbound,Hotel & Travel,28560
+2014,February,Q1,Existing Customer,Outbound,Public Sector,22671
+2014,February,Q1,Existing Customer,Outbound,Media & Entertainment,593750
+2014,February,Q1,Existing Customer,Outbound,Media & Entertainment,860
+2014,February,Q1,Existing Customer,Outbound,Media & Entertainment,2670
+2014,February,Q1,Existing Customer,Outbound,Business Services,938
+2014,February,Q1,New Customer,Outbound,Retail,4750
+2014,February,Q1,New Customer,Inbound,Gaming,0
+2014,February,Q1,New Customer,Outbound,Public Sector,10584
+2014,February,Q1,New Customer,Outbound,Public Sector,10450
+2014,February,Q1,New Customer,Outbound,Business Services,10250
+2014,February,Q1,Existing Customer,Outbound,Manufacturing,4900
+2014,February,Q1,Existing Customer,Outbound,Media & Entertainment,475
+2014,March,Q1,New Customer,Outbound,Retail,5522
+2014,March,Q1,New Customer,Inbound,Media & Entertainment,5290
+2014,March,Q1,New Customer,Inbound,Business Services,49583
+2014,March,Q1,New Customer,Outbound,Pharma/Health Care,2800
+2014,March,Q1,New Customer,Outbound,Software as a Service,6000
+2014,March,Q1,New Customer,Outbound,Gaming,1155000
+2014,March,Q1,New Customer,Inbound,Business Services,11403
+2014,March,Q1,New Customer,Outbound,Miscellaneous,2767
+2014,March,Q1,New Customer,Outbound,Consumer Services,417000
+2014,March,Q1,New Customer,Outbound,High Technology,5708350
+2014,March,Q1,New Customer,Outbound,High Technology,3502
+2014,March,Q1,New Customer,Inbound,Media & Entertainment,0
+2014,March,Q1,New Customer,Outbound,Public Sector,7314
+2014,March,Q1,New Customer,Inbound,Business Services,1500
+2014,March,Q1,New Customer,Inbound,Business Services,1500
+2014,March,Q1,New Customer,Inbound,Media & Entertainment,1850
+2014,March,Q1,New Customer,Inbound,Media & Entertainment,2063
+2014,March,Q1,New Customer,Outbound,Business Services,1406000
+2014,March,Q1,New Customer,Outbound,Retail,22050
+2014,March,Q1,New Customer,Outbound,Public Sector,2855
+2014,March,Q1,New Customer,Outbound,Foundation-Not for Profit,4200
+2014,March,Q1,New Customer,Inbound,Media & Entertainment,999
+2014,March,Q1,New Customer,Outbound,Media & Entertainment,3060
+2014,March,Q1,New Customer,Outbound,Gaming,8750
+2014,March,Q1,New Customer,Outbound,Public Sector,10100
+2014,March,Q1,New Customer,Inbound,Media & Entertainment,445769
+2014,March,Q1,New Customer,Inbound,Business Services,0
+2014,March,Q1,New Customer,Outbound,Software as a Service,250000
+2014,March,Q1,New Customer,Inbound,Media & Entertainment,4650
+2014,March,Q1,New Customer,Inbound,Retail,1980
+2014,March,Q1,New Customer,Outbound,Financial Services,23025
+2014,March,Q1,New Customer,Outbound,Retail,24840
+2014,March,Q1,New Customer,Outbound,Business Services,1100
+2014,March,Q1,New Customer,Outbound,High Technology,5200
+2014,March,Q1,New Customer,Outbound,High Technology,79890
+2014,March,Q1,New Customer,Outbound,Hotel & Travel,12276
+2014,March,Q1,New Customer,Outbound,Retail,762
+2014,March,Q1,New Customer,Inbound,Consumer Services,1500
+2014,March,Q1,New Customer,Outbound,Retail,2100
+2014,March,Q1,New Customer,Outbound,Media & Entertainment,9015
+2014,March,Q1,New Customer,Outbound,Public Sector,7152825
+2014,March,Q1,New Customer,Outbound,Gaming,3465000
+2014,March,Q1,New Customer,Outbound,Software as a Service,9818
+2014,March,Q1,New Customer,Outbound,Media & Entertainment,80000
+2014,March,Q1,New Customer,Outbound,Retail,3880
+2014,March,Q1,New Customer,Outbound,Gaming,12500
+2014,March,Q1,New Customer,Outbound,Gaming,12480
+2014,March,Q1,New Customer,Outbound,Financial Services,21023
+2014,March,Q1,New Customer,Outbound,Retail,3953
+2014,March,Q1,New Customer,Outbound,Manufacturing,11000
+2014,March,Q1,New Customer,Outbound,Hotel & Travel,2000
+2014,March,Q1,New Customer,Outbound,Public Sector,5670
+2014,March,Q1,New Customer,Outbound,Pharma/Health Care,3000
+2014,March,Q1,New Customer,Outbound,Financial Services,2500
+2014,March,Q1,New Customer,Outbound,Public Sector,9081
+2014,March,Q1,New Customer,Outbound,Public Sector,1200
+2014,March,Q1,New Customer,Outbound,Business Services,6525
+2014,March,Q1,New Customer,Outbound,Hotel & Travel,1500
+2014,March,Q1,New Customer,Outbound,High Technology,30000
+2014,March,Q1,New Customer,Outbound,Public Sector,2196
+2014,March,Q1,New Customer,Inbound,Public Sector,900
+2014,March,Q1,Existing Customer,Outbound,Retail,5603
+2014,March,Q1,Existing Customer,Outbound,Media & Entertainment,500
+2014,March,Q1,Existing Customer,Outbound,Retail,31801
+2014,March,Q1,Existing Customer,Outbound,Gaming,136500
+2014,March,Q1,Existing Customer,Outbound,Retail,10250
+2014,March,Q1,Existing Customer,Outbound,High Technology,53
+2014,March,Q1,Existing Customer,Outbound,Media & Entertainment,1900
+2014,March,Q1,Existing Customer,Outbound,Financial Services,64225
+2014,March,Q1,Existing Customer,Outbound,Retail,850
+2014,March,Q1,Existing Customer,Outbound,Retail,2500
+2014,March,Q1,Existing Customer,Outbound,Retail,10000
+2014,March,Q1,Existing Customer,Outbound,Media & Entertainment,890
+2014,March,Q1,Existing Customer,Outbound,Consumer Goods,5400
+2014,March,Q1,Existing Customer,Outbound,Media & Entertainment,287
+2014,March,Q1,Existing Customer,Outbound,Business Services,634
+2014,March,Q1,Existing Customer,Outbound,Public Sector,1000
+2014,March,Q1,Existing Customer,Outbound,Hotel & Travel,9415
+2014,March,Q1,Existing Customer,Outbound,Media & Entertainment,460
+2014,March,Q1,Existing Customer,Outbound,Public Sector,3162
+2014,March,Q1,Existing Customer,Outbound,Financial Services,27465
+2014,March,Q1,New Customer,Outbound,Media & Entertainment,17880
+2014,March,Q1,New Customer,Outbound,Media & Entertainment,2000
+2014,March,Q1,New Customer,Outbound,High Technology,3160
+2014,March,Q1,Existing Customer,Outbound,Retail,7225
+2014,March,Q1,New Customer,Outbound,Financial Services,5556
+2014,March,Q1,New Customer,Outbound,High Technology,252000
+2014,March,Q1,New Customer,Outbound,Retail,260000
+2014,March,Q1,Existing Customer,Outbound,Public Sector,79479
+2014,March,Q1,New Customer,Outbound,Consumer Goods,2500
+2014,March,Q1,New Customer,Outbound,Business Services,2400
+2014,March,Q1,New Customer,Outbound,High Technology,2363
+2014,March,Q1,Existing Customer,Outbound,High Technology,8348
+2014,April,Q2,New Customer,Outbound,Retail,2103
+2014,April,Q2,New Customer,Outbound,Retail,2420
+2014,April,Q2,New Customer,Outbound,Foundation-Not for Profit,3450
+2014,April,Q2,New Customer,Inbound,Business Services,0
+2014,April,Q2,New Customer,Inbound,Financial Services,4160
+2014,April,Q2,New Customer,Inbound,Consumer Goods,1200
+2014,April,Q2,New Customer,Inbound,Media & Entertainment,260000
+2014,April,Q2,New Customer,Outbound,Gaming,500000
+2014,April,Q2,New Customer,Inbound,Media & Entertainment,650
+2014,April,Q2,New Customer,Inbound,High Technology,180000
+2014,April,Q2,New Customer,Outbound,Miscellaneous,8000
+2014,April,Q2,New Customer,Outbound,Gaming,13501
+2014,April,Q2,New Customer,Inbound,Media & Entertainment,4870
+2014,April,Q2,New Customer,Inbound,Media & Entertainment,3750
+2014,April,Q2,New Customer,Inbound,High Technology,1000
+2014,April,Q2,New Customer,Outbound,High Technology,5518
+2014,April,Q2,New Customer,Outbound,Consumer Goods,2125
+2014,April,Q2,New Customer,Outbound,Media & Entertainment,229803
+2014,April,Q2,New Customer,Inbound,Consumer Goods,2000
+2014,April,Q2,New Customer,Inbound,Foundation-Not for Profit,1100
+2014,April,Q2,New Customer,Inbound,Media & Entertainment,8625
+2014,April,Q2,New Customer,Outbound,Gaming,91667
+2014,April,Q2,New Customer,Outbound,Media & Entertainment,0
+2014,April,Q2,New Customer,Outbound,Manufacturing,20943
+2014,April,Q2,New Customer,Inbound,Retail,3000
+2014,April,Q2,New Customer,Inbound,Media & Entertainment,4000
+2014,April,Q2,New Customer,Outbound,Gaming,481994
+2014,April,Q2,New Customer,Outbound,Software as a Service,65000
+2014,April,Q2,New Customer,Inbound,Media & Entertainment,8000
+2014,April,Q2,New Customer,Inbound,Media & Entertainment,6000
+2014,April,Q2,New Customer,Outbound,Gaming,0
+2014,April,Q2,New Customer,Outbound,Education,2875
+2014,April,Q2,New Customer,Outbound,Retail,9453
+2014,April,Q2,New Customer,Inbound,Manufacturing,4396
+2014,April,Q2,New Customer,Outbound,Media & Entertainment,0
+2014,April,Q2,New Customer,Inbound,Financial Services,5000
+2014,April,Q2,New Customer,Outbound,Retail,5861
+2014,April,Q2,New Customer,Outbound,Consumer Goods,4850000
+2014,April,Q2,New Customer,Outbound,Retail,495000
+2014,April,Q2,New Customer,Outbound,Retail,800
+2014,April,Q2,New Customer,Outbound,Education,374955
+2014,April,Q2,New Customer,Inbound,Public Sector,15786
+2014,April,Q2,New Customer,Outbound,Media & Entertainment,16275000
+2014,April,Q2,New Customer,Outbound,Manufacturing,3500
+2014,April,Q2,New Customer,Outbound,Gaming,0
+2014,April,Q2,New Customer,Outbound,Hotel & Travel,10980
+2014,April,Q2,New Customer,Outbound,Media & Entertainment,4200
+2014,April,Q2,New Customer,Outbound,Media & Entertainment,2430
+2014,April,Q2,New Customer,Outbound,High Technology,2550
+2014,April,Q2,Existing Customer,Outbound,Retail,2511
+2014,April,Q2,Existing Customer,Outbound,Financial Services,18000
+2014,April,Q2,Existing Customer,Outbound,Financial Services,940
+2014,April,Q2,Existing Customer,Inbound,Retail,19336
+2014,April,Q2,Existing Customer,Outbound,Media & Entertainment,600
+2014,April,Q2,Existing Customer,Outbound,Financial Services,5000
+2014,April,Q2,Existing Customer,Outbound,Public Sector,12411
+2014,April,Q2,Existing Customer,Outbound,Hotel & Travel,22897
+2014,April,Q2,Existing Customer,Outbound,Retail,1866
+2014,April,Q2,Existing Customer,Outbound,Gaming,450
+2014,April,Q2,Existing Customer,Outbound,Manufacturing,2000
+2014,April,Q2,Existing Customer,Outbound,Media & Entertainment,750
+2014,April,Q2,Existing Customer,Outbound,Consumer Goods,34916
+2014,April,Q2,Existing Customer,Outbound,Financial Services,11170
+2014,April,Q2,Existing Customer,Outbound,Hotel & Travel,26537
+2014,April,Q2,Existing Customer,Outbound,Financial Services,14500
+2014,April,Q2,Existing Customer,Outbound,Retail,1000
+2014,April,Q2,Existing Customer,Outbound,Retail,25500
+2014,April,Q2,Existing Customer,Outbound,Financial Services,4512
+2014,April,Q2,Existing Customer,Outbound,Hotel & Travel,23400
+2014,April,Q2,Existing Customer,Outbound,Business Services,1100
+2014,April,Q2,Existing Customer,Outbound,Gaming,2325
+2014,April,Q2,Existing Customer,Outbound,Media & Entertainment,10400
+2014,April,Q2,Existing Customer,Outbound,Media & Entertainment,900
+2014,April,Q2,Existing Customer,Outbound,Manufacturing,2738
+2014,April,Q2,Existing Customer,Outbound,Retail,4225
+2014,April,Q2,Existing Customer,Outbound,High Technology,1000
+2014,April,Q2,Existing Customer,Outbound,High Technology,500
+2014,April,Q2,New Customer,Outbound,Financial Services,11878
+2014,April,Q2,New Customer,Outbound,Media & Entertainment,28550
+2014,April,Q2,New Customer,Outbound,Media & Entertainment,2950
+2014,April,Q2,New Customer,Outbound,High Technology,6317
+2014,April,Q2,Existing Customer,Outbound,Retail,2500
+2014,April,Q2,Existing Customer,Outbound,Business Services,3800
+2014,April,Q2,New Customer,Outbound,Retail,14185
+2014,April,Q2,New Customer,Outbound,Media & Entertainment,10535
+2014,April,Q2,New Customer,Outbound,Media & Entertainment,2230
+2014,April,Q2,Existing Customer,Outbound,Hotel & Travel,7917
+2014,April,Q2,Existing Customer,Outbound,Pharma/Health Care,300
+2014,May,Q2,New Customer,Inbound,Consumer Goods,750
+2014,May,Q2,New Customer,Outbound,Hotel & Travel,8002
+2014,May,Q2,New Customer,Outbound,Media & Entertainment,4375
+2014,May,Q2,New Customer,Outbound,Retail,4944
+2014,May,Q2,New Customer,Outbound,Retail,13000000
+2014,May,Q2,New Customer,Outbound,0,84372
+2014,May,Q2,New Customer,Outbound,Gaming,268000
+2014,May,Q2,New Customer,Inbound,Media & Entertainment,0
+2014,May,Q2,New Customer,Outbound,Gaming,100000
+2014,May,Q2,New Customer,Outbound,Public Sector,2000
+2014,May,Q2,New Customer,Inbound,Media & Entertainment,0
+2014,May,Q2,New Customer,Outbound,Gaming,100000
+2014,May,Q2,New Customer,Inbound,Business Services,3767
+2014,May,Q2,New Customer,Inbound,High Technology,3525
+2014,May,Q2,New Customer,Outbound,Gaming,0
+2014,May,Q2,New Customer,Inbound,Retail,3400
+2014,May,Q2,New Customer,Inbound,Software as a Service,3450
+2014,May,Q2,New Customer,Inbound,Media & Entertainment,1800
+2014,May,Q2,New Customer,Inbound,Gaming,2100
+2014,May,Q2,New Customer,Outbound,Not Defined,1650
+2014,May,Q2,New Customer,Outbound,High Technology,97055
+2014,May,Q2,New Customer,Inbound,Financial Services,10500
+2014,May,Q2,New Customer,Outbound,Media & Entertainment,7789950
+2014,May,Q2,New Customer,Outbound,0,3004
+2014,May,Q2,New Customer,Outbound,Financial Services,1500
+2014,May,Q2,New Customer,Outbound,0,0
+2014,May,Q2,New Customer,Outbound,Media & Entertainment,5224
+2014,May,Q2,New Customer,Inbound,Consumer Goods,324000
+2014,May,Q2,New Customer,Outbound,Retail,4163
+2014,May,Q2,New Customer,Outbound,Retail,6800
+2014,May,Q2,New Customer,Outbound,Media & Entertainment,0
+2014,May,Q2,New Customer,Outbound,Gaming,11800
+2014,May,Q2,New Customer,Outbound,Business Services,1000
+2014,May,Q2,New Customer,Outbound,Financial Services,250000
+2014,May,Q2,New Customer,Inbound,High Technology,2231
+2014,May,Q2,New Customer,Outbound,Gaming,6274
+2014,May,Q2,New Customer,Outbound,Media & Entertainment,1563
+2014,May,Q2,New Customer,Outbound,Media & Entertainment,26318
+2014,May,Q2,New Customer,Outbound,Retail,3000
+2014,May,Q2,New Customer,Outbound,Manufacturing,2800
+2014,May,Q2,New Customer,Inbound,Manufacturing,2865
+2014,May,Q2,New Customer,Outbound,Manufacturing,2334
+2014,May,Q2,New Customer,Outbound,Gaming,76930
+2014,May,Q2,New Customer,Outbound,Consumer Goods,22000
+2014,May,Q2,New Customer,Outbound,Software as a Service,3150
+2014,May,Q2,New Customer,Outbound,High Technology,6250
+2014,May,Q2,New Customer,Outbound,Business Services,4266
+2014,May,Q2,New Customer,Inbound,Business Services,2000
+2014,May,Q2,New Customer,Outbound,Manufacturing,2258
+2014,May,Q2,New Customer,Outbound,Retail,2200
+2014,May,Q2,New Customer,Outbound,Financial Services,285000
+2014,May,Q2,Existing Customer,Outbound,Retail,62372
+2014,May,Q2,Existing Customer,Outbound,High Technology,3125
+2014,May,Q2,Existing Customer,Inbound,Retail,2825
+2014,May,Q2,Existing Customer,Outbound,Media & Entertainment,48490
+2014,May,Q2,Existing Customer,Outbound,Media & Entertainment,40706
+2014,May,Q2,Existing Customer,Inbound,Financial Services,1188
+2014,May,Q2,Existing Customer,Outbound,High Technology,17356
+2014,May,Q2,Existing Customer,Outbound,Media & Entertainment,1575
+2014,May,Q2,Existing Customer,Outbound,Retail,3000
+2014,May,Q2,Existing Customer,Outbound,Media & Entertainment,501
+2014,May,Q2,Existing Customer,Outbound,Media & Entertainment,143625
+2014,May,Q2,Existing Customer,Outbound,Retail,2435
+2014,May,Q2,Existing Customer,Outbound,Media & Entertainment,1048
+2014,May,Q2,Existing Customer,Outbound,Hotel & Travel,6500
+2014,May,Q2,Existing Customer,Outbound,Retail,6867
+2014,May,Q2,Existing Customer,Inbound,Business Services,3000
+2014,May,Q2,Existing Customer,Outbound,Media & Entertainment,2280
+2014,May,Q2,Existing Customer,Outbound,Retail,1000
+2014,May,Q2,Existing Customer,Outbound,Financial Services,800
+2014,May,Q2,Existing Customer,Outbound,Financial Services,35703
+2014,May,Q2,Existing Customer,Outbound,Financial Services,1800
+2014,May,Q2,Existing Customer,Outbound,Media & Entertainment,400
+2014,May,Q2,Existing Customer,Outbound,Media & Entertainment,2680
+2014,May,Q2,Existing Customer,Outbound,Retail,6853
+2014,May,Q2,Existing Customer,Outbound,Retail,4298
+2014,June,Q2,0,Inbound,High Technology,1500
+2014,June,Q2,0,Outbound,Gaming,25500
+2014,June,Q2,0,Outbound,Media & Entertainment,0
+2014,June,Q2,0,Outbound,Retail,3976
+2014,June,Q2,0,Outbound,Financial Services,4166
+2014,June,Q2,0,Outbound,Gaming,0
+2014,June,Q2,0,Outbound,Media & Entertainment,3000
+2014,June,Q2,0,Outbound,Retail,3491
+2014,June,Q2,0,Inbound,High Technology,6523
+2014,June,Q2,0,Inbound,Media & Entertainment,0
+2014,June,Q2,0,Outbound,Manufacturing,18705
+2014,June,Q2,0,Inbound,Business Services,1500
+2014,June,Q2,0,Outbound,Gaming,374000
+2014,June,Q2,0,Inbound,Retail,549990
+2014,June,Q2,0,Outbound,High Technology,2036
+2014,June,Q2,0,Inbound,Public Sector,900000
+2014,June,Q2,0,Outbound,Hotel & Travel,90000
+2014,June,Q2,0,Inbound,Media & Entertainment,0
+2014,June,Q2,0,Outbound,High Technology,1880
+2014,June,Q2,0,Outbound,Retail,978
+2014,June,Q2,0,Outbound,Gaming,100000
+2014,June,Q2,0,Outbound,Gaming,5150
+2014,June,Q2,0,Outbound,High Technology,1080
+2014,June,Q2,0,Outbound,Manufacturing,1000
+2014,June,Q2,0,Outbound,Consumer Goods,2000
+2014,June,Q2,0,Outbound,Gaming,9000
+2014,June,Q2,0,Inbound,Business Services,1000
+2014,June,Q2,0,Outbound,Hotel & Travel,19382
+2014,June,Q2,0,Outbound,Media & Entertainment,0
+2014,June,Q2,0,Outbound,Media & Entertainment,0
+2014,June,Q2,0,Outbound,Miscellaneous,4726
+2014,June,Q2,0,Outbound,Gaming,0
+2014,June,Q2,0,Inbound,High Technology,1950
+2014,June,Q2,0,Inbound,Business Services,3000
+2014,June,Q2,0,Inbound,Media & Entertainment,5900
+2014,June,Q2,0,Inbound,Media & Entertainment,2933
+2014,June,Q2,New Customer,Outbound,Business Services,13333
+2014,June,Q2,0,Inbound,Media & Entertainment,620500
+2014,June,Q2,0,Outbound,Manufacturing,10163
+2014,June,Q2,0,Inbound,Education,13650
+2014,June,Q2,0,Outbound,Media & Entertainment,2550000
+2014,June,Q2,0,Outbound,Business Services,100050
+2014,June,Q2,0,Inbound,Business Services,3465
+2014,June,Q2,0,Inbound,Pharma/Health Care,1000
+2014,June,Q2,0,Outbound,Financial Services,4626500
+2014,June,Q2,0,Outbound,Financial Services,6800
+2014,June,Q2,0,Outbound,Retail,1943
+2014,June,Q2,0,Outbound,High Technology,2063
+2014,June,Q2,0,Outbound,Financial Services,1674
+2014,June,Q2,0,Outbound,Business Services,1440
+2014,June,Q2,0,Outbound,Software as a Service,4900
+2014,June,Q2,0,Outbound,Gaming,188340
+2014,June,Q2,0,Outbound,Gaming,0
+2014,June,Q2,0,Outbound,Media & Entertainment,2524
+2014,June,Q2,0,Outbound,Gaming,260000
+2014,June,Q2,0,Outbound,Retail,9260
+2014,June,Q2,0,Outbound,Financial Services,7000
+2014,June,Q2,0,Outbound,Media & Entertainment,959
+2014,June,Q2,0,Outbound,High Technology,13525
+2014,June,Q2,0,Outbound,Retail,95975
+2014,June,Q2,0,Inbound,Media & Entertainment,12000
+2014,June,Q2,0,Outbound,Media & Entertainment,2167
+2014,June,Q2,0,Outbound,Business Services,8665
+2014,June,Q2,0,Outbound,Business Services,637
+2014,June,Q2,0,Inbound,High Technology,2700
+2014,June,Q2,0,Outbound,Media & Entertainment,1725
+2014,June,Q2,0,Inbound,High Technology,1000
+2014,June,Q2,0,Outbound,Retail,204750
+2014,June,Q2,0,Inbound,Media & Entertainment,1000
+2014,June,Q2,0,Inbound,High Technology,2900
+2014,June,Q2,0,Outbound,High Technology,461100
+2014,June,Q2,0,Outbound,High Technology,1266300
+2014,June,Q2,0,Outbound,Consumer Goods,21300
+2014,June,Q2,0,Outbound,Retail,7000
+2014,June,Q2,0,Inbound,Hotel & Travel,159000
+2014,June,Q2,0,Outbound,Media & Entertainment,0
+2014,June,Q2,0,Outbound,Financial Services,22927
+2014,June,Q2,0,Inbound,High Technology,13341
+2014,June,Q2,0,Outbound,Manufacturing,5000
+2014,June,Q2,0,Inbound,Media & Entertainment,0
+2014,June,Q2,0,Inbound,Media & Entertainment,0
+2014,June,Q2,0,Outbound,Business Services,1252506
+2014,June,Q2,0,Outbound,Media & Entertainment,3715000
+2014,June,Q2,0,Outbound,Retail,5500
+2014,June,Q2,0,Outbound,Hotel & Travel,8095
+2014,June,Q2,0,Inbound,Software as a Service,1000
+2014,June,Q2,0,Outbound,Business Services,5000
+2014,June,Q2,0,Outbound,Gaming,787500
+2014,June,Q2,0,Outbound,High Technology,157500
+2014,June,Q2,Existing Customer,Outbound,Media & Entertainment,26250
+2014,June,Q2,Existing Customer,Outbound,Media & Entertainment,1700
+2014,June,Q2,Existing Customer,Outbound,Retail,3958
+2014,June,Q2,Existing Customer,Outbound,Hotel & Travel,10094
+2014,June,Q2,Existing Customer,Inbound,Public Sector,2220
+2014,June,Q2,Existing Customer,Outbound,High Technology,251
+2014,June,Q2,Existing Customer,Outbound,Public Sector,3450
+2014,June,Q2,Existing Customer,Outbound,Consumer Goods,1200
+2014,June,Q2,Existing Customer,Outbound,Energy & Utilities,2500
+2014,June,Q2,Existing Customer,Outbound,Media & Entertainment,375
+2014,June,Q2,Existing Customer,Outbound,Gaming,330000
+2014,June,Q2,Existing Customer,Outbound,Retail,1000
+2014,June,Q2,Existing Customer,Outbound,Media & Entertainment,11813
+2014,June,Q2,Existing Customer,Outbound,High Technology,73000
+2014,June,Q2,Existing Customer,Outbound,High Technology,520200
+2014,June,Q2,Existing Customer,Outbound,Media & Entertainment,170107
+2014,June,Q2,Existing Customer,Outbound,Business Services,5595
+2014,June,Q2,Existing Customer,Outbound,Media & Entertainment,375
+2014,June,Q2,Existing Customer,Outbound,High Technology,4000
+2014,June,Q2,Existing Customer,Outbound,Retail,1412
+2014,June,Q2,Existing Customer,Outbound,Retail,7869
+2014,June,Q2,Existing Customer,Outbound,Retail,58008
+2014,June,Q2,Existing Customer,Outbound,Financial Services,31187
+2014,June,Q2,Existing Customer,Outbound,Retail,5111
+2014,June,Q2,Existing Customer,Outbound,Retail,18300
+2014,June,Q2,Existing Customer,Outbound,High Technology,3500
+2014,June,Q2,Existing Customer,Outbound,Gaming,1954000
+2014,June,Q2,Existing Customer,Outbound,Media & Entertainment,620
+2014,June,Q2,Existing Customer,Outbound,Public Sector,4836
+2014,June,Q2,Existing Customer,Outbound,High Technology,3188
+2014,June,Q2,Existing Customer,Outbound,Retail,1565
+2014,June,Q2,Existing Customer,Outbound,Public Sector,12292
+2014,June,Q2,Existing Customer,Outbound,Public Sector,1000
+2014,June,Q2,Existing Customer,Outbound,Pharma/Health Care,7800
+2014,June,Q2,Existing Customer,Outbound,Retail,12010
+2014,June,Q2,Existing Customer,Outbound,Retail,11775
+2014,June,Q2,Existing Customer,Outbound,Media & Entertainment,5000
+2014,June,Q2,Existing Customer,Outbound,High Technology,52400
+2014,June,Q2,Existing Customer,Outbound,Software as a Service,500
+2014,June,Q2,Existing Customer,Outbound,Retail,25700
+2014,June,Q2,Existing Customer,Outbound,Financial Services,5032
+2014,July,Q3,New Customer,Inbound,Software as a Service,1000
+2014,July,Q3,New Customer,Outbound,Financial Services,4632651
+2014,July,Q3,New Customer,Outbound,Media & Entertainment,18100
+2014,July,Q3,New Customer,Outbound,Consumer Goods,2778
+2014,July,Q3,New Customer,Outbound,Software as a Service,8768
+2014,July,Q3,New Customer,Inbound,Retail,2500
+2014,July,Q3,New Customer,Outbound,Manufacturing,1957647
+2014,July,Q3,New Customer,Inbound,Media & Entertainment,1000
+2014,July,Q3,New Customer,Inbound,Gaming,1000
+2014,July,Q3,New Customer,Outbound,Public Sector,8780
+2014,July,Q3,New Customer,Inbound,Media & Entertainment,0
+2014,July,Q3,New Customer,Outbound,Gaming,0
+2014,July,Q3,New Customer,Outbound,Gaming,0
+2014,July,Q3,New Customer,Outbound,Gaming,7500
+2014,July,Q3,New Customer,Outbound,Gaming,0
+2014,July,Q3,New Customer,Inbound,Gaming,0
+2014,July,Q3,New Customer,Outbound,Manufacturing,2100
+2014,July,Q3,New Customer,Inbound,Business Services,2000
+2014,July,Q3,New Customer,Inbound,Consumer Goods,186000
+2014,July,Q3,New Customer,Outbound,Gaming,0
+2014,July,Q3,New Customer,Inbound,Media & Entertainment,500
+2014,July,Q3,New Customer,Outbound,Media & Entertainment,291667
+2014,July,Q3,New Customer,Inbound,Media & Entertainment,1000
+2014,July,Q3,New Customer,Outbound,Media & Entertainment,2325
+2014,July,Q3,New Customer,Outbound,Business Services,2000
+2014,July,Q3,New Customer,Outbound,Media & Entertainment,700000
+2014,July,Q3,New Customer,Outbound,Gaming,2232
+2014,July,Q3,New Customer,Outbound,Gaming,0
+2014,July,Q3,New Customer,Outbound,Software as a Service,540
+2014,July,Q3,New Customer,Inbound,Media & Entertainment,2190
+2014,July,Q3,New Customer,Outbound,Gaming,6300
+2014,July,Q3,New Customer,Outbound,Media & Entertainment,64000
+2014,July,Q3,New Customer,Outbound,Media & Entertainment,1750
+2014,July,Q3,New Customer,Outbound,Financial Services,0
+2014,July,Q3,New Customer,Outbound,Media & Entertainment,12700
+2014,July,Q3,New Customer,Outbound,Financial Services,11241
+2014,July,Q3,New Customer,Outbound,Financial Services,2021
+2014,July,Q3,New Customer,Outbound,Gaming,800
+2014,July,Q3,New Customer,Outbound,Gaming,0
+2014,July,Q3,New Customer,Inbound,Gaming,0
+2014,July,Q3,New Customer,Outbound,Retail,1200
+2014,July,Q3,New Customer,Outbound,Media & Entertainment,50000
+2014,July,Q3,New Customer,Outbound,Media & Entertainment,26000
+2014,July,Q3,New Customer,Outbound,Consumer Goods,2858
+2014,July,Q3,New Customer,Outbound,Gaming,0
+2014,July,Q3,New Customer,Outbound,Media & Entertainment,0
+2014,July,Q3,New Customer,Outbound,High Technology,0
+2014,July,Q3,New Customer,Inbound,Retail,5000
+2014,July,Q3,New Customer,Inbound,Financial Services,12274
+2014,July,Q3,New Customer,Outbound,Automotive,180000
+2014,July,Q3,New Customer,Outbound,Software as a Service,10596
+2014,July,Q3,Existing Customer,Outbound,Retail,5068
+2014,July,Q3,Existing Customer,Outbound,Media & Entertainment,1500
+2014,July,Q3,Existing Customer,Outbound,High Technology,504167
+2014,July,Q3,Existing Customer,Outbound,Business Services,3895
+2014,July,Q3,Existing Customer,Outbound,Retail,6499
+2014,July,Q3,Existing Customer,Outbound,Retail,850
+2014,July,Q3,Existing Customer,Outbound,Financial Services,4551
+2014,July,Q3,Existing Customer,Outbound,Business Services,500
+2014,July,Q3,Existing Customer,Outbound,Media & Entertainment,46132500
+2014,July,Q3,Existing Customer,Outbound,Financial Services,7437
+2014,July,Q3,Existing Customer,Outbound,Manufacturing,354
+2014,July,Q3,Existing Customer,Outbound,High Technology,1200
+2014,July,Q3,Existing Customer,Outbound,Consumer Goods,302000
+2014,July,Q3,Existing Customer,Outbound,High Technology,1500
+2014,July,Q3,Existing Customer,Outbound,Education,947
+2014,July,Q3,Existing Customer,Outbound,Media & Entertainment,5109
+2014,July,Q3,Existing Customer,Outbound,Retail,498
+2014,July,Q3,Existing Customer,Outbound,Retail,5071
+2014,July,Q3,Existing Customer,Inbound,Retail,0
+2014,July,Q3,Existing Customer,Outbound,Retail,1937
+2014,July,Q3,Existing Customer,Outbound,Retail,54092
+2014,July,Q3,Existing Customer,Outbound,Media & Entertainment,27518
+2014,July,Q3,Existing Customer,Outbound,Financial Services,23907
+2014,July,Q3,Existing Customer,Outbound,Retail,39250
+2014,July,Q3,Existing Customer,Outbound,Retail,9862
+2014,July,Q3,Existing Customer,Outbound,Manufacturing,0
+2014,July,Q3,Existing Customer,Outbound,Retail,1265
+2014,July,Q3,Existing Customer,Outbound,Business Services,6646
+2014,July,Q3,Existing Customer,Inbound,High Technology,8605
+2014,July,Q3,Existing Customer,Outbound,Retail,2191617
+2014,July,Q3,Existing Customer,Outbound,Retail,3500
+2014,July,Q3,Existing Customer,Outbound,Retail,14500
+2014,July,Q3,Existing Customer,Outbound,Business Services,2000
+2014,July,Q3,Existing Customer,Outbound,Public Sector,1000
+2014,July,Q3,Existing Customer,Outbound,Business Services,22525
+2014,July,Q3,Existing Customer,Outbound,Media & Entertainment,1050

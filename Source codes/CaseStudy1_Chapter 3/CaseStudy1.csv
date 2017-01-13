@@ -1,0 +1,2016 @@
+ServiceRequestNo,ServiceRequestStatus,TypeOfEnagagement,Incident/ Problem,SR Priority,SR Open Date,SR Close Date,Product,Geography,Country
+2090,Closed,Project,Incident,3-Medium,41647.00,41648.00,Oper,Asia-Pacific,Australia
+2863,Closed,Contract,Problem,3-Medium,41655.00,41659.00,Busi,Asia-Pacific,India
+1517,Closed,Project,Problem,3-Medium,41649.00,41663.00,AAM ,Asia-Pacific,New Zealand
+2864,Closed,No Charge Support,Request for Fulfillment,3-Medium,41666.00,41667.00,Busi,Asia-Pacific,India
+2865,Closed,No Charge Support,Request for Fulfillment,3-Medium,41666.00,41667.00,Busi,Asia-Pacific,India
+2866,Closed,No Charge Support,Request for Fulfillment,3-Medium,41666.00,41667.00,Busi,Asia-Pacific,India
+2022,Closed,Project,Incident,3-Medium,41645.00,41668.00,Blen,Asia-Pacific,India
+2061,Canceled,No Charge Support,Problem,3-Medium,41669.00,41669.00,Busi,Asia-Pacific,Australia
+2954,Closed,Contract,Incident,3-Medium,41667.00,41674.00,AAM ,Asia-Pacific,Singapore
+2996,Closed,Project,Incident,3-Medium,41655.00,41677.00,Blen,Asia-Pacific,India
+2840,Closed,Project,Incident,3-Medium,41652.00,41682.00,Unsp,Asia-Pacific,Singapore
+2841,Closed,Project,Incident,3-Medium,41652.00,41682.00,Unsp,Asia-Pacific,Singapore
+1633,Closed,Project,Incident,2-High,41667.00,41688.00,PHD ,Asia-Pacific,Japan
+1989,Closed,Project,Incident,3-Medium,41647.00,41688.00,Unsp,Asia-Pacific,Singapore
+1528,Closed,Project,Problem,2-High,41688.00,41689.00,AAM ,Asia-Pacific,Australia
+1635,Closed,Contract,Incident,3-Medium,41688.00,41689.00,PHD ,Asia-Pacific,Japan
+1523,Closed,Contract,Problem,3-Medium,41666.00,41694.00,AAM ,Asia-Pacific,Singapore
+1524,Closed,Project,Incident,3-Medium,41667.00,41694.00,AAM ,Asia-Pacific,Japan
+1827,Closed,Project,Incident,3-Medium,41681.00,41695.00,Oper,Asia-Pacific,Korea South
+1001,Closed,Project,Incident,2-High,41641.00,41699.00,APC ,Asia-Pacific,Thailand
+1002,Closed,Project,Incident,2-High,41641.00,41699.00,APC ,Asia-Pacific,Thailand
+1636,Closed,Contract,Incident,3-Medium,41697.00,41703.00,PHD ,Asia-Pacific,Japan
+2839,Closed,Project,Request for Fulfillment,3-Medium,41645.00,41704.00,Blen,Asia-Pacific,India
+1527,Closed,Project,Problem,3-Medium,41682.00,41710.00,AAM ,Asia-Pacific,Australia
+1637,Closed,Contract,Incident,2-High,41703.00,41710.00,PHD ,Asia-Pacific,Japan
+2144,Closed,Project,Incident,3-Medium,41688.00,41717.00,Oper,Asia-Pacific,Korea South
+2145,Closed,Project,Incident,3-Medium,41688.00,41717.00,Oper,Asia-Pacific,Korea South
+2146,Closed,Project,Incident,3-Medium,41688.00,41717.00,Oper,Asia-Pacific,Korea South
+2147,Closed,Project,Incident,3-Medium,41688.00,41717.00,Oper,Asia-Pacific,Korea South
+2148,Closed,Project,Incident,3-Medium,41688.00,41717.00,Oper,Asia-Pacific,Korea South
+2149,Closed,Project,Incident,3-Medium,41688.00,41717.00,Oper,Asia-Pacific,Korea South
+2150,Closed,Project,Incident,3-Medium,41688.00,41717.00,Oper,Asia-Pacific,Korea South
+2151,Closed,Project,Incident,3-Medium,41688.00,41717.00,Oper,Asia-Pacific,Korea South
+2152,Closed,Project,Incident,3-Medium,41688.00,41717.00,Oper,Asia-Pacific,Korea South
+2153,Closed,Project,Incident,3-Medium,41688.00,41717.00,Oper,Asia-Pacific,Korea South
+2154,Closed,Project,Incident,3-Medium,41688.00,41717.00,Oper,Asia-Pacific,Korea South
+2223,Closed,No Charge Support,Incident,3-Medium,41716.00,41717.00,USD ,Asia-Pacific,India
+2224,Closed,No Charge Support,Incident,3-Medium,41716.00,41717.00,USD ,Asia-Pacific,India
+2225,Closed,No Charge Support,Incident,3-Medium,41716.00,41717.00,USD ,Asia-Pacific,India
+1004,Closed,Contract,Incident,3-Medium,41663.00,41722.00,APC ,Asia-Pacific,Singapore
+2024,Closed,Project,Incident,3-Medium,41696.00,41722.00,Unsp,Asia-Pacific,Singapore
+2025,Closed,Project,Incident,3-Medium,41705.00,41722.00,Blen,Asia-Pacific,India
+1533,Closed,Project,Problem,2-High,41701.00,41723.00,AAM ,Asia-Pacific,New Zealand
+1632,Closed,Project,Incident,3-Medium,41652.00,41729.00,PHD ,Asia-Pacific,Taiwan
+1639,Closed,Billable,Problem,3-Medium,41716.00,41729.00,PHD ,Asia-Pacific,Australia
+1007,Closed,Contract,Incident,2-High,41703.00,41733.00,APC ,Asia-Pacific,Japan
+1009,Closed,Contract,Incident,2-High,41723.00,41733.00,APC ,Asia-Pacific,Japan
+1010,Closed,Contract,Incident,2-High,41723.00,41733.00,APC ,Asia-Pacific,Japan
+1014,Closed,Contract,Incident,2-High,41726.00,41733.00,APC ,Asia-Pacific,India
+1845,Closed,Project,Incident,3-Medium,41698.00,41733.00,USD ,Asia-Pacific,India
+1846,Closed,Project,Incident,3-Medium,41698.00,41733.00,USD ,Asia-Pacific,India
+1847,Closed,Project,Incident,3-Medium,41698.00,41733.00,USD ,Asia-Pacific,India
+1848,Closed,Project,Incident,3-Medium,41698.00,41733.00,USD ,Asia-Pacific,India
+1849,Closed,Project,Incident,3-Medium,41698.00,41733.00,USD ,Asia-Pacific,India
+1850,Closed,Project,Incident,3-Medium,41698.00,41733.00,USD ,Asia-Pacific,India
+2879,Closed,Contract,Incident,3-Medium,41725.00,41733.00,Busi,Asia-Pacific,India
+2204,Closed,Project,Incident,3-Medium,41704.00,41736.00,Oper,Asia-Pacific,Korea South
+2205,Closed,Project,Incident,3-Medium,41704.00,41736.00,Oper,Asia-Pacific,Korea South
+2206,Closed,Project,Incident,3-Medium,41704.00,41736.00,Oper,Asia-Pacific,Korea South
+1532,Closed,Contract,Incident,2-High,41698.00,41737.00,AAM ,Asia-Pacific,India
+1630,Closed,Project,Incident,3-Medium,41646.00,41739.00,PHD ,Asia-Pacific,Singapore
+1804,Closed,Project,Incident,3-Medium,41666.00,41739.00,USD ,Asia-Pacific,Singapore
+1805,Closed,Project,Incident,3-Medium,41666.00,41739.00,USD ,Asia-Pacific,Singapore
+1806,Closed,Project,Incident,3-Medium,41666.00,41739.00,USD ,Asia-Pacific,Singapore
+1807,Closed,Project,Incident,3-Medium,41666.00,41739.00,USD ,Asia-Pacific,Singapore
+1839,Closed,Project,Incident,3-Medium,41696.00,41739.00,USD ,Asia-Pacific,Singapore
+1840,Closed,Project,Incident,3-Medium,41696.00,41739.00,USD ,Asia-Pacific,Singapore
+1841,Closed,Project,Incident,3-Medium,41696.00,41739.00,USD ,Asia-Pacific,Singapore
+1842,Closed,Project,Incident,3-Medium,41696.00,41739.00,USD ,Asia-Pacific,Singapore
+1843,Closed,Project,Incident,3-Medium,41696.00,41739.00,USD ,Asia-Pacific,Singapore
+1844,Closed,Project,Incident,3-Medium,41696.00,41739.00,USD ,Asia-Pacific,Singapore
+1851,Closed,Project,Incident,3-Medium,41698.00,41739.00,USD ,Asia-Pacific,Singapore
+1852,Closed,Project,Incident,3-Medium,41698.00,41739.00,USD ,Asia-Pacific,Singapore
+1816,Closed,Project,Incident,3-Medium,41669.00,41741.00,USD ,Asia-Pacific,Malaysia
+1817,Closed,Project,Incident,3-Medium,41669.00,41741.00,USD ,Asia-Pacific,Malaysia
+1818,Closed,Project,Incident,3-Medium,41669.00,41741.00,USD ,Asia-Pacific,Malaysia
+1819,Closed,Project,Incident,3-Medium,41669.00,41741.00,USD ,Asia-Pacific,Malaysia
+1820,Closed,Project,Incident,3-Medium,41669.00,41741.00,USD ,Asia-Pacific,Malaysia
+1821,Closed,Project,Incident,3-Medium,41669.00,41741.00,USD ,Asia-Pacific,Malaysia
+1822,Closed,Project,Incident,3-Medium,41669.00,41741.00,USD ,Asia-Pacific,Malaysia
+1823,Closed,Project,Incident,3-Medium,41669.00,41741.00,USD ,Asia-Pacific,Malaysia
+1828,Closed,Project,Incident,3-Medium,41696.00,41741.00,USD ,Asia-Pacific,Malaysia
+1829,Closed,Project,Incident,3-Medium,41696.00,41741.00,USD ,Asia-Pacific,Malaysia
+1830,Closed,Project,Incident,3-Medium,41696.00,41741.00,USD ,Asia-Pacific,Malaysia
+2875,Closed,Project,Incident,3-Medium,41711.00,41743.00,Busi,Asia-Pacific,Australia
+2843,Closed,No Charge Support,Incident,2-High,41743.00,41745.00,Busi,Asia-Pacific,India
+2959,Closed,No Charge Support,Incident,2-High,41743.00,41745.00,AAM ,Asia-Pacific,India
+2885,Closed,Contract,Incident,3-Medium,41747.00,41747.00,Busi,Asia-Pacific,India
+1529,Closed,Project,Problem,2-High,41690.00,41748.00,AAM ,Asia-Pacific,Australia
+1005,Closed,Contract,Problem,3-Medium,41667.00,41752.00,APC ,Asia-Pacific,India
+1011,Closed,Contract,Problem,2-High,41723.00,41752.00,Unsp,Asia-Pacific,Japan
+1526,Closed,Contract,Incident,3-Medium,41681.00,41752.00,AAM ,Asia-Pacific,Singapore
+2844,Closed,Project,Incident,2-High,41753.00,41754.00,Blen,Asia-Pacific,India
+2845,Closed,Project,Incident,2-High,41753.00,41754.00,Blen,Asia-Pacific,India
+2960,Closed,Project,Problem,2-High,41753.00,41758.00,AAM ,Asia-Pacific,Australia
+1631,Closed,Billable,Incident,3-Medium,41647.00,41762.00,PHD ,Asia-Pacific,Indonesia
+2889,Closed,Contract,Problem,2-High,41751.00,41762.00,Busi,Asia-Pacific,India
+1548,Closed,Project,Request for Fulfillment,2-High,41759.00,41765.00,AAM ,Asia-Pacific,Australia
+1642,Closed,Billable,Request for Fulfillment,3-Medium,41722.00,41765.00,PHD ,Asia-Pacific,Vietnam
+2930,Closed,Contract,Problem,3-Medium,41765.00,41766.00,Unsp,Asia-Pacific,India
+1541,Closed,Contract,Incident,3-Medium,41740.00,41767.00,AAM ,Asia-Pacific,India
+1638,Closed,Contract,Incident,2-High,41716.00,41767.00,PHD ,Asia-Pacific,Australia
+2916,Closed,Contract,Incident,2-High,41768.00,41768.00,Busi,Asia-Pacific,Japan
+2929,Closed,Contract,Incident,3-Medium,41768.00,41768.00,Unsp,Asia-Pacific,India
+2232,Closed,Project,Incident,3-Medium,41718.00,41771.00,USD ,Asia-Pacific,India
+2233,Closed,Project,Incident,3-Medium,41718.00,41771.00,USD ,Asia-Pacific,India
+2234,Closed,Project,Incident,3-Medium,41718.00,41771.00,USD ,Asia-Pacific,India
+2235,Closed,Project,Incident,3-Medium,41718.00,41771.00,USD ,Asia-Pacific,India
+2245,Closed,Project,Incident,2-High,41724.00,41771.00,Oper,Asia-Pacific,Australia
+2246,Closed,Project,Incident,2-High,41724.00,41771.00,Oper,Asia-Pacific,Australia
+2247,Closed,Project,Incident,2-High,41724.00,41771.00,Oper,Asia-Pacific,Australia
+2248,Closed,Project,Incident,2-High,41724.00,41771.00,Oper,Asia-Pacific,Australia
+2258,Closed,No Charge Support,Incident,4-Low,41736.00,41771.00,USD ,Asia-Pacific,India
+2259,Closed,Project,Incident,2-High,41737.00,41771.00,Oper,Asia-Pacific,Indonesia
+2260,Closed,Project,Incident,2-High,41737.00,41771.00,Oper,Asia-Pacific,Indonesia
+2261,Closed,Project,Incident,2-High,41737.00,41771.00,Oper,Asia-Pacific,Indonesia
+2262,Closed,Project,Incident,2-High,41737.00,41771.00,Oper,Asia-Pacific,Indonesia
+2263,Closed,Project,Incident,2-High,41737.00,41771.00,Oper,Asia-Pacific,Indonesia
+2269,Closed,Project,Incident,4-Low,41740.00,41771.00,Oper,Asia-Pacific,India
+2270,Closed,Project,Incident,4-Low,41740.00,41771.00,Oper,Asia-Pacific,India
+2271,Closed,Project,Incident,2-High,41743.00,41771.00,Oper,Asia-Pacific,Australia
+2272,Closed,Project,Incident,2-High,41743.00,41771.00,Oper,Asia-Pacific,Australia
+2273,Closed,Project,Incident,2-High,41743.00,41771.00,Oper,Asia-Pacific,Australia
+2274,Closed,Project,Incident,2-High,41743.00,41771.00,Oper,Asia-Pacific,Australia
+2275,Closed,Project,Incident,2-High,41743.00,41771.00,Oper,Asia-Pacific,Australia
+2276,Closed,Project,Incident,2-High,41743.00,41771.00,Oper,Asia-Pacific,Australia
+2277,Closed,Project,Incident,2-High,41743.00,41771.00,Oper,Asia-Pacific,Australia
+2278,Closed,Project,Incident,2-High,41743.00,41771.00,Oper,Asia-Pacific,Australia
+2279,Closed,Project,Incident,2-High,41743.00,41771.00,Oper,Asia-Pacific,Australia
+2280,Closed,Project,Incident,2-High,41743.00,41771.00,Oper,Asia-Pacific,Australia
+2281,Closed,Project,Incident,2-High,41743.00,41771.00,Oper,Asia-Pacific,Australia
+2282,Closed,Project,Incident,2-High,41743.00,41771.00,Oper,Asia-Pacific,Australia
+2283,Closed,Project,Incident,2-High,41743.00,41771.00,Oper,Asia-Pacific,Australia
+2284,Closed,Project,Incident,2-High,41743.00,41771.00,Oper,Asia-Pacific,Australia
+2285,Closed,Project,Incident,2-High,41743.00,41771.00,Oper,Asia-Pacific,Australia
+2842,Closed,Project,Incident,3-Medium,41690.00,41771.00,Blen,Asia-Pacific,India
+2317,Closed,Project,Incident,3-Medium,41765.00,41772.00,USD ,Asia-Pacific,India
+2318,Closed,Project,Incident,3-Medium,41765.00,41772.00,USD ,Asia-Pacific,India
+2319,Closed,Project,Incident,3-Medium,41765.00,41772.00,USD ,Asia-Pacific,India
+2872,Closed,Contract,Incident,2-High,41691.00,41772.00,Busi,Asia-Pacific,India
+2023,Closed,Billable,Problem,3-Medium,41659.00,41773.00,Blen,Asia-Pacific,Malaysia
+1646,Closed,Project,Incident,3-Medium,41730.00,41774.00,Unsp,Asia-Pacific,Philippines
+2027,Closed,Project,Incident,3-Medium,41775.00,41775.00,Blen,Asia-Pacific,India
+2911,Closed,Contract,Incident,3-Medium,41775.00,41775.00,Busi,Asia-Pacific,India
+2913,Closed,Contract,Incident,4-Low,41775.00,41775.00,Busi,Asia-Pacific,India
+2918,Closed,Contract,Incident,3-Medium,41775.00,41775.00,Busi,Asia-Pacific,India
+2922,Closed,Contract,Request for Fulfillment,3-Medium,41774.00,41775.00,Busi,Asia-Pacific,India
+2933,Closed,Contract,Incident,2-High,41750.00,41775.00,Busi,Asia-Pacific,India
+1550,Closed,Project,Request for Fulfillment,4-Low,41772.00,41778.00,AAM ,Asia-Pacific,Australia
+2891,Closed,Contract,Incident,1-Critical,41761.00,41778.00,Unsp,Asia-Pacific,India
+2910,Closed,Contract,Incident,3-Medium,41779.00,41779.00,Busi,Asia-Pacific,India
+2925,Closed,Contract,Incident,3-Medium,41770.00,41779.00,Busi,Asia-Pacific,India
+2928,Closed,Contract,Incident,3-Medium,41770.00,41779.00,Busi,Asia-Pacific,India
+2026,Closed,Project,Problem,2-High,41775.00,41780.00,Blen,Asia-Pacific,Korea South
+2309,Closed,Project,Incident,1-Critical,41758.00,41780.00,USD ,Asia-Pacific,Bangladesh
+2310,Closed,Project,Incident,1-Critical,41758.00,41780.00,USD ,Asia-Pacific,Bangladesh
+2311,Closed,Project,Incident,1-Critical,41758.00,41780.00,USD ,Asia-Pacific,Bangladesh
+2028,Closed,Project,Incident,3-Medium,41779.00,41781.00,Blen,Asia-Pacific,India
+1546,Closed,Project,Problem,2-High,41751.00,41782.00,AAM ,Asia-Pacific,New Zealand
+2029,Closed,Project,Incident,3-Medium,41781.00,41782.00,Blen,Asia-Pacific,India
+2374,Closed,Project,Incident,2-High,41782.00,41782.00,Oper,Asia-Pacific,India
+2375,Closed,Project,Incident,2-High,41782.00,41782.00,Oper,Asia-Pacific,India
+2376,Closed,Project,Incident,2-High,41782.00,41782.00,Oper,Asia-Pacific,India
+2377,Closed,Project,Incident,2-High,41782.00,41782.00,Oper,Asia-Pacific,India
+2378,Closed,Project,Incident,2-High,41782.00,41782.00,Oper,Asia-Pacific,India
+2379,Closed,Project,Incident,2-High,41782.00,41782.00,Oper,Asia-Pacific,India
+2380,Closed,Project,Incident,2-High,41782.00,41782.00,Oper,Asia-Pacific,India
+2919,Closed,Contract,Incident,3-Medium,41775.00,41785.00,Busi,Asia-Pacific,India
+2857,Closed,Project,Incident,3-Medium,41781.00,41786.00,Blen,Asia-Pacific,India
+1547,Closed,Project,Incident,3-Medium,41756.00,41788.00,AAM ,Asia-Pacific,Japan
+2084,Closed,Project,Problem,3-Medium,41646.00,41788.00,Oper,Asia-Pacific,Australia
+2085,Closed,Project,Problem,3-Medium,41646.00,41788.00,Oper,Asia-Pacific,Australia
+2086,Closed,Project,Problem,3-Medium,41646.00,41788.00,Oper,Asia-Pacific,Australia
+2088,Closed,Project,Problem,3-Medium,41647.00,41788.00,Oper,Asia-Pacific,Australia
+2089,Closed,Project,Problem,3-Medium,41647.00,41788.00,Oper,Asia-Pacific,Australia
+2137,Closed,Project,Incident,3-Medium,41682.00,41788.00,Oper,Asia-Pacific,Singapore
+2138,Closed,Project,Incident,3-Medium,41682.00,41788.00,Oper,Asia-Pacific,Singapore
+2139,Closed,Project,Incident,3-Medium,41682.00,41788.00,Oper,Asia-Pacific,Singapore
+2140,Closed,Project,Incident,3-Medium,41682.00,41788.00,Oper,Asia-Pacific,Singapore
+2141,Closed,Project,Incident,3-Medium,41682.00,41788.00,Oper,Asia-Pacific,Singapore
+2142,Closed,Project,Incident,3-Medium,41682.00,41788.00,Oper,Asia-Pacific,Singapore
+2143,Closed,Project,Incident,3-Medium,41682.00,41788.00,Oper,Asia-Pacific,Singapore
+2207,Closed,Project,Incident,3-Medium,41708.00,41788.00,USD ,Asia-Pacific,Australia
+2208,Closed,Project,Incident,3-Medium,41708.00,41788.00,USD ,Asia-Pacific,Australia
+2209,Closed,Project,Incident,3-Medium,41708.00,41788.00,USD ,Asia-Pacific,Australia
+2210,Closed,Project,Incident,3-Medium,41708.00,41788.00,USD ,Asia-Pacific,Australia
+2211,Closed,Project,Incident,3-Medium,41708.00,41788.00,USD ,Asia-Pacific,Australia
+2257,Closed,Project,Incident,2-High,41730.00,41788.00,Oper,Asia-Pacific,India
+2956,Closed,Project,Incident,3-Medium,41719.00,41788.00,AAM ,Asia-Pacific,Japan
+2961,Closed,Contract,Request for Fulfillment,3-Medium,41767.00,41788.00,AAM ,Asia-Pacific,Australia
+1008,Closed,Contract,Incident,3-Medium,41723.00,41789.00,APC ,Asia-Pacific,Singapore
+2934,Closed,Contract,Problem,1-Critical,41744.00,41789.00,Busi,Asia-Pacific,India
+1544,Closed,Project,Problem,2-High,41744.00,41792.00,AAM ,Asia-Pacific,Australia
+1643,Closed,Project,Incident,2-High,41723.00,41793.00,PHD ,Asia-Pacific,Australia
+1644,Closed,Project,Incident,2-High,41723.00,41793.00,PHD ,Asia-Pacific,Australia
+2030,Closed,Project,Incident,3-Medium,41782.00,41794.00,Blen,Asia-Pacific,India
+2899,Closed,Contract,Request for Fulfillment,3-Medium,41788.00,41794.00,Busi,Asia-Pacific,India
+2963,Closed,Project,Incident,3-Medium,41781.00,41795.00,AAM ,Asia-Pacific,Australia
+2373,Closed,Project,Incident,2-High,41794.00,41796.00,AAM ,Asia-Pacific,India
+2890,Closed,Contract,Request for Fulfillment,3-Medium,41796.00,41796.00,Unsp,Asia-Pacific,India
+2892,Closed,Contract,Incident,4-Low,41796.00,41796.00,Unsp,Asia-Pacific,India
+2893,Closed,Contract,Request for Fulfillment,4-Low,41796.00,41796.00,Unsp,Asia-Pacific,India
+2895,Closed,Contract,Request for Fulfillment,3-Medium,41796.00,41796.00,Unsp,Asia-Pacific,India
+2553,Closed,Contract,Incident,2-High,41797.00,41797.00,Busi,Asia-Pacific,India
+2554,Closed,Contract,Request for Fulfillment,2-High,41797.00,41797.00,Busi,Asia-Pacific,India
+2555,Closed,Contract,Request for Fulfillment,2-High,41797.00,41797.00,Busi,Asia-Pacific,India
+2556,Closed,Contract,Request for Fulfillment,2-High,41797.00,41797.00,Busi,Asia-Pacific,India
+2372,Closed,Project,Incident,2-High,41795.00,41799.00,AAM ,Asia-Pacific,India
+2370,Closed,Contract,Incident,2-High,41799.00,41800.00,Busi,Asia-Pacific,India
+2544,Closed,Contract,Incident,3-Medium,41800.00,41800.00,Busi,Asia-Pacific,India
+2552,Closed,Contract,Incident,2-High,41799.00,41800.00,Busi,Asia-Pacific,India
+2545,Closed,Contract,Request for Fulfillment,3-Medium,41799.00,41801.00,Busi,Asia-Pacific,India
+2871,Closed,Contract,Incident,3-Medium,41799.00,41801.00,Busi,Asia-Pacific,India
+2881,Closed,Contract,Incident,3-Medium,41796.00,41801.00,Unsp,Asia-Pacific,India
+2894,Closed,Contract,Incident,2-High,41767.00,41801.00,Busi,Asia-Pacific,Singapore
+2898,Closed,Contract,Incident,3-Medium,41792.00,41801.00,Busi,Asia-Pacific,India
+2902,Closed,Contract,Problem,3-Medium,41794.00,41802.00,AAM ,Asia-Pacific,Malaysia
+2964,Closed,Contract,Problem,3-Medium,41794.00,41802.00,AAM ,Asia-Pacific,Malaysia
+2543,Closed,Contract,Incident,3-Medium,41802.00,41806.00,Busi,Asia-Pacific,India
+2542,Closed,Contract,Incident,3-Medium,41807.00,41807.00,Busi,Asia-Pacific,India
+2541,Closed,Contract,Incident,3-Medium,41808.00,41808.00,PHD ,Asia-Pacific,India
+2031,Closed,Project,Incident,3-Medium,41808.00,41809.00,Blen,Asia-Pacific,India
+1557,Closed,Project,Problem,3-Medium,41807.00,41810.00,AAM ,Asia-Pacific,Indonesia
+2032,Closed,Project,Incident,3-Medium,41809.00,41810.00,Blen,Asia-Pacific,India
+2368,Closed,Contract,Incident,3-Medium,41802.00,41813.00,Busi,Asia-Pacific,India
+2870,Closed,Contract,Incident,2-High,41802.00,41813.00,Busi,Asia-Pacific,India
+1525,Closed,Project,Incident,3-Medium,41667.00,41815.00,AAM ,Asia-Pacific,Japan
+2958,Closed,Project,Incident,2-High,41724.00,41815.00,AAM ,Asia-Pacific,Japan
+2970,Closed,Project,Incident,3-Medium,41814.00,41817.00,AAM ,Asia-Pacific,Japan
+1802,Closed,Project,Incident,3-Medium,41641.00,41818.00,USD ,Asia-Pacific,Australia
+1808,Closed,Project,Incident,3-Medium,41668.00,41818.00,USD ,Asia-Pacific,Korea South
+1811,Closed,Project,Incident,3-Medium,41668.00,41818.00,USD ,Asia-Pacific,Malaysia
+1812,Closed,Project,Incident,3-Medium,41668.00,41818.00,USD ,Asia-Pacific,Malaysia
+1814,Closed,Project,Incident,3-Medium,41669.00,41818.00,USD ,Asia-Pacific,Malaysia
+1815,Closed,Project,Incident,3-Medium,41669.00,41818.00,USD ,Asia-Pacific,Malaysia
+1824,Closed,Project,Incident,3-Medium,41669.00,41818.00,USD ,Asia-Pacific,Singapore
+1825,Closed,Project,Incident,3-Medium,41669.00,41818.00,USD ,Asia-Pacific,Singapore
+1826,Closed,Project,Incident,3-Medium,41669.00,41818.00,USD ,Asia-Pacific,Singapore
+1854,Closed,Project,Problem,3-Medium,41708.00,41818.00,USD ,Asia-Pacific,Korea South
+1855,Closed,Project,Problem,3-Medium,41708.00,41818.00,USD ,Asia-Pacific,Korea South
+1858,Closed,Project,Incident,2-High,41722.00,41818.00,USD ,Asia-Pacific,Australia
+1859,Closed,Project,Incident,2-High,41722.00,41818.00,USD ,Asia-Pacific,Australia
+1876,Closed,Project,Incident,3-Medium,41768.00,41818.00,USD ,Asia-Pacific,Singapore
+1877,Closed,Project,Incident,3-Medium,41768.00,41818.00,USD ,Asia-Pacific,Singapore
+1883,Closed,Project,Incident,2-High,41794.00,41818.00,USD ,Asia-Pacific,India
+1884,Closed,Project,Incident,2-High,41794.00,41818.00,USD ,Asia-Pacific,India
+2367,Closed,Contract,Incident,3-Medium,41814.00,41820.00,Busi,Asia-Pacific,India
+2904,Closed,Contract,Problem,3-Medium,41802.00,41820.00,AAM ,Asia-Pacific,Malaysia
+2827,Closed,Contract,Incident,3-Medium,41816.00,41822.00,Busi,Asia-Pacific,India
+2992,Closed,Project,Incident,3-Medium,41820.00,41824.00,Blen,Asia-Pacific,India
+2993,Closed,Project,Incident,3-Medium,41817.00,41824.00,Blen,Asia-Pacific,India
+2874,Closed,Billable,Problem,2-High,41708.00,41828.00,Busi,Asia-Pacific,Australia
+2438,Closed,Project,Incident,2-High,41829.00,41830.00,USD ,Asia-Pacific,Unspecified
+2439,Closed,Project,Incident,2-High,41829.00,41830.00,USD ,Asia-Pacific,Unspecified
+2991,Closed,Project,Incident,3-Medium,41831.00,41831.00,Blen,Asia-Pacific,India
+1673,Closed,Project,Incident,2-High,41830.00,41834.00,PHD ,Asia-Pacific,Japan
+2366,Closed,Project,Incident,2-High,41815.00,41834.00,Busi,Asia-Pacific,India
+2369,Closed,Contract,Incident,3-Medium,41800.00,41834.00,Busi,Asia-Pacific,India
+2862,Closed,Contract,Incident,3-Medium,41803.00,41834.00,Busi,Asia-Pacific,India
+2458,Closed,No Charge Support,Incident,2-High,41835.00,41835.00,USD ,Asia-Pacific,Singapore
+2459,Closed,No Charge Support,Incident,2-High,41835.00,41835.00,USD ,Asia-Pacific,Singapore
+2908,Closed,Project,Incident,3-Medium,41821.00,41835.00,Unsp,Asia-Pacific,Indonesia
+2814,Closed,Contract,Incident,3-Medium,41829.00,41838.00,Busi,Asia-Pacific,India
+2858,Closed,Project,Incident,3-Medium,41827.00,41838.00,Blen,Asia-Pacific,India
+2363,Closed,Contract,Incident,2-High,41829.00,41842.00,Busi,Asia-Pacific,India
+2365,Closed,Project,Incident,2-High,41817.00,41842.00,Busi,Asia-Pacific,India
+2452,Closed,Contract,Incident,2-High,41835.00,41848.00,USD ,Asia-Pacific,India
+2453,Closed,Contract,Incident,2-High,41835.00,41848.00,USD ,Asia-Pacific,India
+2454,Closed,No Charge Support,Incident,2-High,41835.00,41848.00,USD ,Asia-Pacific,Singapore
+2455,Closed,No Charge Support,Incident,2-High,41835.00,41848.00,USD ,Asia-Pacific,Singapore
+2456,Closed,No Charge Support,Incident,2-High,41835.00,41848.00,USD ,Asia-Pacific,Singapore
+2457,Closed,No Charge Support,Incident,2-High,41835.00,41848.00,USD ,Asia-Pacific,Singapore
+2460,Closed,Contract,Incident,3-Medium,41836.00,41848.00,USD ,Asia-Pacific,India
+2461,Closed,No Charge Support,Incident,2-High,41838.00,41848.00,USD ,Asia-Pacific,India
+2462,Closed,No Charge Support,Incident,2-High,41838.00,41848.00,USD ,Asia-Pacific,India
+2856,Closed,Contract,Incident,3-Medium,41807.00,41848.00,Busi,Asia-Pacific,India
+2861,Closed,Contract,Incident,3-Medium,41807.00,41848.00,Busi,Asia-Pacific,India
+2873,Closed,Contract,Incident,3-Medium,41705.00,41848.00,Busi,Asia-Pacific,India
+2882,Closed,Contract,Incident,3-Medium,41726.00,41848.00,Busi,Asia-Pacific,India
+2901,Closed,Contract,Incident,3-Medium,41785.00,41848.00,Busi,Asia-Pacific,India
+2033,Closed,Project,Incident,3-Medium,41842.00,41850.00,Unsp,Asia-Pacific,Singapore
+2475,Closed,No Charge Support,Incident,3-Medium,41843.00,41850.00,USD ,Asia-Pacific,Korea South
+2476,Closed,No Charge Support,Incident,3-Medium,41843.00,41850.00,USD ,Asia-Pacific,Unspecified
+2477,Closed,No Charge Support,Incident,2-High,41844.00,41850.00,USD ,Asia-Pacific,Korea South
+2478,Closed,No Charge Support,Incident,2-High,41844.00,41850.00,USD ,Asia-Pacific,Korea South
+2479,Closed,No Charge Support,Incident,2-High,41844.00,41850.00,USD ,Asia-Pacific,China
+2480,Closed,No Charge Support,Incident,2-High,41844.00,41850.00,USD ,Asia-Pacific,China
+2546,Closed,Contract,Request for Fulfillment,3-Medium,41799.00,41850.00,Busi,Asia-Pacific,India
+2846,Closed,Project,Incident,3-Medium,41842.00,41850.00,Unsp,Asia-Pacific,Singapore
+2878,Closed,Contract,Request for Fulfillment,3-Medium,41799.00,41850.00,Busi,Asia-Pacific,India
+2501,Closed,Project,Incident,2-High,41850.00,41851.00,Oper,Asia-Pacific,Thailand
+2502,Closed,Project,Incident,2-High,41850.00,41851.00,Oper,Asia-Pacific,Thailand
+2503,Closed,Project,Incident,2-High,41850.00,41851.00,Oper,Asia-Pacific,Thailand
+2491,Closed,No Charge Support,Incident,3-Medium,41848.00,41854.00,USD ,Asia-Pacific,India
+2492,Closed,No Charge Support,Incident,3-Medium,41848.00,41854.00,USD ,Asia-Pacific,India
+2493,Closed,No Charge Support,Incident,3-Medium,41848.00,41854.00,USD ,Asia-Pacific,India
+2361,Closed,Contract,Incident,2-High,41838.00,41855.00,Busi,Asia-Pacific,India
+2371,Closed,Contract,Incident,2-High,41797.00,41855.00,Busi,Asia-Pacific,India
+2537,Closed,Contract,Incident,3-Medium,41851.00,41855.00,Busi,Asia-Pacific,India
+2538,Closed,Contract,Incident,3-Medium,41850.00,41855.00,Busi,Asia-Pacific,India
+2539,Closed,Contract,Incident,3-Medium,41850.00,41855.00,Busi,Asia-Pacific,India
+2815,Closed,Contract,Incident,3-Medium,41823.00,41855.00,Busi,Asia-Pacific,India
+2909,Closed,Contract,Incident,3-Medium,41783.00,41855.00,Busi,Asia-Pacific,India
+2981,Closed,Contract,Incident,1-Critical,41863.00,41864.00,AAM ,Asia-Pacific,Malaysia
+1555,Closed,Project,Incident,3-Medium,41808.00,41865.00,Busi,Asia-Pacific,Australia
+1556,Closed,Project,Incident,3-Medium,41808.00,41865.00,Busi,Asia-Pacific,Australia
+2877,Closed,Contract,Incident,2-High,41722.00,41865.00,Busi,Asia-Pacific,Singapore
+2896,Closed,Contract,Incident,2-High,41778.00,41865.00,Busi,Asia-Pacific,Japan
+2905,Closed,Project,Incident,3-Medium,41808.00,41865.00,Busi,Asia-Pacific,Australia
+1566,Closed,Project,Incident,3-Medium,41655.00,41869.00,Busi,Asia-Pacific,India
+2197,Closed,Project,Incident,2-High,41849.00,41869.00,Busi,Asia-Pacific,India
+2360,Closed,Project,Request for Fulfillment,3-Medium,41862.00,41869.00,Busi,Asia-Pacific,India
+2384,Closed,Contract,Incident,1-Critical,41759.00,41869.00,Busi,Asia-Pacific,India
+2387,Closed,Contract,Incident,1-Critical,41673.00,41869.00,Busi,Asia-Pacific,India
+2523,Closed,No Charge Support,Incident,3-Medium,41859.00,41869.00,USD ,Asia-Pacific,India
+2557,Closed,Contract,Incident,1-Critical,41759.00,41869.00,Busi,Asia-Pacific,India
+2869,Closed,Contract,Incident,1-Critical,41673.00,41869.00,Busi,Asia-Pacific,India
+2982,Closed,Contract,Incident,3-Medium,41866.00,41869.00,AAM ,Asia-Pacific,Malaysia
+1552,Closed,Project,Problem,3-Medium,41778.00,41870.00,AAM ,Asia-Pacific,Australia
+1682,Closed,Contract,Request for Fulfillment,3-Medium,41851.00,41870.00,PHD ,Asia-Pacific,Singapore
+1686,Closed,Contract,Incident,4-Low,41856.00,41870.00,PHD ,Asia-Pacific,Japan
+2906,Closed,No Charge Support,Incident,2-High,41810.00,41870.00,Busi,Asia-Pacific,India
+1684,Closed,Project,Incident,3-Medium,41852.00,41872.00,Unsp,Asia-Pacific,Thailand
+2198,Closed,Project,Incident,2-High,41817.00,41872.00,Busi,Asia-Pacific,India
+2509,Closed,Project,Problem,1-Critical,41851.00,41872.00,USD ,Asia-Pacific,Korea South
+2510,Closed,Project,Problem,1-Critical,41851.00,41872.00,USD ,Asia-Pacific,Korea South
+2511,Closed,Project,Problem,1-Critical,41851.00,41872.00,USD ,Asia-Pacific,Korea South
+2532,Closed,Project,Problem,1-Critical,41869.00,41873.00,Oper,Asia-Pacific,Australia
+2533,Closed,Project,Problem,1-Critical,41869.00,41873.00,Oper,Asia-Pacific,Australia
+2782,Closed,Contract,Request for Fulfillment,3-Medium,41876.00,41876.00,Busi,Asia-Pacific,India
+2785,Closed,Contract,Incident,3-Medium,41855.00,41876.00,Busi,Asia-Pacific,India
+2849,Closed,Project,Incident,3-Medium,41876.00,41876.00,Blen,Asia-Pacific,India
+2064,Closed,Project,Incident,2-High,41876.00,41877.00,Busi,Asia-Pacific,Australia
+1629,Closed,Project,Problem,3-Medium,41645.00,41883.00,PHD ,Asia-Pacific,China
+2427,Closed,Project,Problem,1-Critical,41823.00,41883.00,Oper,Asia-Pacific,Australia
+2428,Closed,Project,Problem,1-Critical,41823.00,41883.00,Oper,Asia-Pacific,Australia
+2429,Closed,Project,Problem,1-Critical,41823.00,41883.00,Oper,Asia-Pacific,Australia
+2536,Closed,Contract,Incident,2-High,41883.00,41883.00,Busi,Asia-Pacific,India
+2784,Closed,Contract,Incident,3-Medium,41856.00,41883.00,Busi,Asia-Pacific,India
+2903,Closed,Contract,Incident,4-Low,41801.00,41883.00,Adva,Asia-Pacific,Japan
+2195,Closed,Project,Incident,3-Medium,41871.00,41885.00,Busi,Asia-Pacific,Australia
+2780,Closed,Contract,Request for Fulfillment,3-Medium,41878.00,41885.00,Busi,Asia-Pacific,India
+2781,Closed,Contract,Incident,3-Medium,41877.00,41885.00,Busi,Asia-Pacific,India
+2359,Closed,Contract,Incident,3-Medium,41869.00,41886.00,Busi,Asia-Pacific,India
+2912,Closed,Contract,Incident,3-Medium,41831.00,41886.00,Busi,Asia-Pacific,Australia
+2976,Closed,Contract,Incident,2-High,41828.00,41886.00,AAM ,Asia-Pacific,Singapore
+2194,Closed,Contract,Incident,3-Medium,41876.00,41887.00,Busi,Asia-Pacific,India
+1640,Closed,Project,Incident,3-Medium,41721.00,41890.00,PHD ,Asia-Pacific,Singapore
+1641,Closed,Project,Incident,3-Medium,41721.00,41890.00,PHD ,Asia-Pacific,Singapore
+1648,Closed,Contract,Problem,3-Medium,41746.00,41890.00,PHD ,Asia-Pacific,Singapore
+2063,Closed,No Charge Support,Request for Fulfillment,2-High,41859.00,41890.00,Busi,Asia-Pacific,India
+2568,Closed,Project,Problem,1-Critical,41890.00,41890.00,USD ,Asia-Pacific,India
+1679,Closed,Billable,Incident,3-Medium,41847.00,41893.00,Proc,Asia-Pacific,Malaysia
+2748,Closed,Contract,Incident,3-Medium,41891.00,41894.00,Busi,Asia-Pacific,India
+2749,Closed,Contract,Incident,3-Medium,41893.00,41894.00,Busi,Asia-Pacific,India
+2535,Closed,Contract,Request for Fulfillment,3-Medium,41892.00,41897.00,Busi,Asia-Pacific,India
+2572,Closed,No Charge Support,Problem,2-High,41891.00,41897.00,USD ,Asia-Pacific,India
+2761,Closed,Contract,Incident,3-Medium,41887.00,41897.00,Busi,Asia-Pacific,India
+1543,Closed,Project,Problem,2-High,41869.00,41898.00,Busi,Asia-Pacific,India
+1549,Closed,Project,Problem,2-High,41869.00,41898.00,Busi,Asia-Pacific,India
+2917,Closed,Contract,Incident,4-Low,41781.00,41898.00,Blen,Asia-Pacific,Japan
+1551,Closed,Project,Incident,3-Medium,41869.00,41899.00,Busi,Asia-Pacific,Australia
+2520,Closed,Project,Incident,1-Critical,41857.00,41899.00,Oper,Asia-Pacific,Australia
+2521,Closed,Project,Incident,1-Critical,41857.00,41899.00,Oper,Asia-Pacific,Australia
+2522,Closed,Project,Incident,1-Critical,41857.00,41899.00,Oper,Asia-Pacific,Australia
+1027,Closed,Contract,Problem,3-Medium,41782.00,41900.00,APC ,Asia-Pacific,Australia
+1028,Closed,Contract,Incident,3-Medium,41782.00,41900.00,APC ,Asia-Pacific,Australia
+1537,Closed,Project,Request for Fulfillment,3-Medium,41900.00,41900.00,Unsp,Asia-Pacific,Australia
+1634,Closed,Project,Incident,3-Medium,41668.00,41900.00,Unsp,Asia-Pacific,Singapore
+1692,Closed,Project,Incident,3-Medium,41866.00,41900.00,Unsp,Asia-Pacific,Singapore
+2583,Closed,Project,Incident,2-High,41900.00,41900.00,Oper,Asia-Pacific,India
+2984,Closed,Contract,Incident,2-High,41894.00,41900.00,AAM ,Asia-Pacific,Malaysia
+2986,Closed,Project,Incident,3-Medium,41894.00,41900.00,Blen,Asia-Pacific,Korea South
+2987,Closed,Project,Incident,3-Medium,41891.00,41900.00,Blen,Asia-Pacific,Korea South
+2988,Closed,Project,Problem,2-High,41864.00,41900.00,Blen,Asia-Pacific,India
+2990,Closed,Project,Incident,3-Medium,41849.00,41900.00,Unsp,Asia-Pacific,Singapore
+1536,Closed,Contract,Incident,2-High,41901.00,41901.00,Busi,Asia-Pacific,India
+1718,Closed,Project,Incident,3-Medium,41900.00,41901.00,PHD ,Asia-Pacific,Singapore
+1719,Closed,Project,Incident,3-Medium,41900.00,41901.00,PHD ,Asia-Pacific,Singapore
+1891,Closed,Project,Problem,3-Medium,41885.00,41901.00,Unsp,Asia-Pacific,India
+2586,Closed,Contract,Incident,1-Critical,41901.00,41901.00,USD ,Asia-Pacific,Japan
+2747,Closed,Unverified,Incident,3-Medium,41900.00,41904.00,Busi,Asia-Pacific,India
+1721,Closed,Contract,Incident,4-Low,41904.00,41906.00,PHD ,Asia-Pacific,Japan
+2859,Closed,Project,Incident,3-Medium,41867.00,41906.00,Blen,Asia-Pacific,Korea South
+1012,Closed,Contract,Incident,2-High,41723.00,41907.00,APC ,Asia-Pacific,India
+1013,Closed,Contract,Incident,2-High,41723.00,41907.00,APC ,Asia-Pacific,India
+1676,Closed,Project,Incident,2-High,41842.00,41909.00,PHD ,Asia-Pacific,Japan
+1677,Closed,Project,Incident,2-High,41842.00,41909.00,PHD ,Asia-Pacific,India
+1681,Closed,Project,Request for Fulfillment,4-Low,41848.00,41909.00,Unsp,Asia-Pacific,Australia
+1698,Closed,Project,Incident,3-Medium,41871.00,41909.00,PHD ,Asia-Pacific,Indonesia
+1702,Closed,Contract,Incident,3-Medium,41878.00,41909.00,PHD ,Asia-Pacific,Australia
+1711,Closed,Contract,Problem,1-Critical,41893.00,41909.00,PHD ,Asia-Pacific,India
+2551,Closed,Project,Problem,1-Critical,41877.00,41909.00,Oper,Asia-Pacific,Singapore
+2564,Closed,Project,Incident,1-Critical,41886.00,41909.00,USD ,Asia-Pacific,India
+2569,Closed,No Charge Support,Problem,3-Medium,41890.00,41909.00,USD ,Asia-Pacific,India
+2570,Closed,No Charge Support,Incident,3-Medium,41890.00,41909.00,USD ,Asia-Pacific,India
+2571,Closed,No Charge Support,Incident,3-Medium,41890.00,41909.00,USD ,Asia-Pacific,India
+2577,Closed,No Charge Support,Problem,3-Medium,41897.00,41909.00,USD ,Asia-Pacific,Brunei Darussalam
+2847,Closed,Project,Problem,2-High,41871.00,41909.00,Blen,Asia-Pacific,Korea South
+2848,Closed,Project,Problem,2-High,41872.00,41909.00,Blen,Asia-Pacific,India
+2860,Closed,Project,Problem,2-High,41871.00,41909.00,Blen,Asia-Pacific,Korea South
+1018,Closed,Contract,Incident,3-Medium,41753.00,41911.00,APC ,Asia-Pacific,Australia
+1046,Closed,Contract,Problem,3-Medium,41838.00,41911.00,APC ,Asia-Pacific,Australia
+1047,Closed,Contract,Problem,3-Medium,41838.00,41911.00,APC ,Asia-Pacific,Australia
+2173,Closed,Project,Incident,1-Critical,41904.00,41911.00,Busi,Asia-Pacific,Singapore
+2174,Closed,No Charge Support,Incident,1-Critical,41899.00,41911.00,Busi,Asia-Pacific,India
+2196,Closed,Project,Problem,3-Medium,41862.00,41911.00,Busi,Asia-Pacific,China
+2597,Closed,No Charge Support,Problem,1-Critical,41906.00,41911.00,USD ,Asia-Pacific,India
+2598,Closed,No Charge Support,Problem,1-Critical,41906.00,41911.00,USD ,Asia-Pacific,India
+2599,Closed,No Charge Support,Problem,1-Critical,41906.00,41911.00,USD ,Asia-Pacific,India
+2612,Closed,No Charge Support,Problem,2-High,41911.00,41911.00,USD ,Asia-Pacific,China
+1535,Closed,Contract,Incident,2-High,41908.00,41912.00,Busi,Asia-Pacific,India
+1573,Closed,Contract,Problem,2-High,41906.00,41918.00,AAM ,Asia-Pacific,Malaysia
+1653,Closed,Project,Incident,3-Medium,41779.00,41918.00,Unsp,Asia-Pacific,India
+1655,Closed,Project,Incident,3-Medium,41779.00,41918.00,Unsp,Asia-Pacific,India
+1656,Closed,Project,Incident,3-Medium,41779.00,41918.00,Unsp,Asia-Pacific,India
+2172,Closed,Project,Incident,2-High,41904.00,41919.00,Busi,Asia-Pacific,Singapore
+2178,Closed,Project,Request for Fulfillment,2-High,41893.00,41919.00,Blen,Asia-Pacific,Korea South
+2179,Closed,Project,Request for Fulfillment,2-High,41893.00,41919.00,Blen,Asia-Pacific,Korea South
+1687,Closed,Project,Incident,2-High,41859.00,41920.00,Unsp,Asia-Pacific,Japan
+2876,Closed,Contract,Incident,3-Medium,41712.00,41920.00,Busi,Asia-Pacific,Australia
+2915,Closed,Contract,Incident,2-High,41905.00,41920.00,Busi,Asia-Pacific,Australia
+2182,Closed,Contract,Request for Fulfillment,3-Medium,41879.00,41921.00,Busi,Asia-Pacific,Australia
+2920,Closed,Project,Incident,3-Medium,41921.00,41921.00,Blen,Asia-Pacific,India
+1571,Closed,Contract,Incident,3-Medium,41886.00,41925.00,AAM ,Asia-Pacific,Malaysia
+2718,Closed,Billable,Incident,3-Medium,41921.00,41925.00,Busi,Asia-Pacific,India
+2719,Closed,Billable,Incident,3-Medium,41921.00,41925.00,Busi,Asia-Pacific,India
+2721,Closed,Billable,Incident,3-Medium,41913.00,41925.00,Busi,Asia-Pacific,India
+2745,Closed,Billable,Incident,3-Medium,41913.00,41925.00,Busi,Asia-Pacific,India
+2980,Closed,No Charge Support,Incident,3-Medium,41919.00,41925.00,Blen,Asia-Pacific,Korea South
+2985,Closed,Project,Incident,3-Medium,41913.00,41925.00,AAM ,Asia-Pacific,Vietnam
+1522,Closed,Project,Incident,3-Medium,41926.00,41926.00,Busi,Asia-Pacific,Australia
+1736,Closed,Contract,Incident,2-High,41916.00,41926.00,PHD ,Asia-Pacific,Australia
+2099,Closed,No Charge Support,Incident,2-High,41925.00,41926.00,USD ,Asia-Pacific,Indonesia
+1060,Closed,Contract,Incident,3-Medium,41894.00,41927.00,APC ,Asia-Pacific,Thailand
+1061,Closed,Contract,Incident,3-Medium,41894.00,41927.00,APC ,Asia-Pacific,Thailand
+1062,Closed,Contract,Incident,3-Medium,41894.00,41927.00,APC ,Asia-Pacific,Thailand
+1063,Closed,Contract,Incident,3-Medium,41894.00,41927.00,APC ,Asia-Pacific,Thailand
+1064,Closed,Contract,Incident,3-Medium,41894.00,41927.00,APC ,Asia-Pacific,Thailand
+1065,Closed,Contract,Incident,3-Medium,41894.00,41927.00,APC ,Asia-Pacific,Thailand
+1066,Closed,Contract,Incident,3-Medium,41894.00,41927.00,APC ,Asia-Pacific,Thailand
+1067,Closed,Contract,Incident,3-Medium,41894.00,41927.00,APC ,Asia-Pacific,Thailand
+1521,Closed,Project,Incident,3-Medium,41927.00,41927.00,Busi,Asia-Pacific,Singapore
+1534,Closed,Project,Incident,3-Medium,41709.00,41927.00,AAM ,Asia-Pacific,Thailand
+2951,Closed,Project,Incident,3-Medium,41824.00,41927.00,AAM ,Asia-Pacific,Japan
+2968,Closed,Project,Request for Fulfillment,3-Medium,41884.00,41927.00,AAM ,Asia-Pacific,Vietnam
+1053,Closed,Contract,Incident,3-Medium,41893.00,41928.00,APC ,Asia-Pacific,Australia
+1054,Closed,Contract,Incident,3-Medium,41893.00,41928.00,APC ,Asia-Pacific,Australia
+2952,Closed,Project,Request for Fulfillment,4-Low,41828.00,41928.00,Oper,Asia-Pacific,Korea South
+1892,Closed,Project,Problem,2-High,41920.00,41929.00,PHD ,Asia-Pacific,Malaysia
+1893,Closed,Project,Problem,2-High,41920.00,41929.00,PHD ,Asia-Pacific,Malaysia
+2362,Closed,Contract,Request for Fulfillment,3-Medium,41830.00,41932.00,Busi,Asia-Pacific,India
+2385,Closed,Contract,Incident,2-High,41750.00,41932.00,Unsp,Asia-Pacific,India
+2623,Closed,Project,Incident,3-Medium,41928.00,41932.00,Oper,Asia-Pacific,India
+2671,Closed,Billable,Incident,3-Medium,41922.00,41932.00,Busi,Asia-Pacific,India
+2672,Closed,Billable,Incident,3-Medium,41922.00,41932.00,Busi,Asia-Pacific,India
+2886,Closed,Contract,Incident,2-High,41750.00,41932.00,Unsp,Asia-Pacific,India
+2949,Closed,Contract,Problem,3-Medium,41758.00,41932.00,Busi,Asia-Pacific,India
+1645,Closed,Billable,Incident,3-Medium,41729.00,41933.00,PHD ,Asia-Pacific,Papua New Guinea
+1003,Closed,Contract,Problem,2-High,41662.00,41934.00,APC ,Asia-Pacific,Japan
+1006,Closed,Contract,Problem,3-Medium,41703.00,41934.00,APC ,Asia-Pacific,Japan
+1015,Closed,Contract,Problem,3-Medium,41753.00,41934.00,APC ,Asia-Pacific,Australia
+1016,Closed,Contract,Problem,3-Medium,41753.00,41934.00,APC ,Asia-Pacific,Australia
+1017,Closed,Contract,Incident,2-High,41753.00,41934.00,APC ,Asia-Pacific,Australia
+1031,Closed,Contract,Incident,3-Medium,41800.00,41934.00,APC ,Asia-Pacific,Australia
+1032,Closed,Contract,Incident,3-Medium,41800.00,41934.00,APC ,Asia-Pacific,Australia
+1033,Closed,Contract,Incident,3-Medium,41800.00,41934.00,APC ,Asia-Pacific,Australia
+1039,Closed,Contract,Incident,2-High,41814.00,41934.00,APC ,Asia-Pacific,Australia
+1040,Closed,Contract,Incident,2-High,41814.00,41934.00,APC ,Asia-Pacific,Australia
+1055,Closed,Contract,Incident,2-High,41893.00,41934.00,APC ,Asia-Pacific,Australia
+1056,Closed,Contract,Incident,2-High,41893.00,41934.00,APC ,Asia-Pacific,Australia
+1057,Closed,Contract,Incident,2-High,41893.00,41934.00,APC ,Asia-Pacific,Australia
+1058,Closed,Contract,Incident,2-High,41893.00,41934.00,APC ,Asia-Pacific,Australia
+2356,Closed,Contract,Incident,3-Medium,41876.00,41937.00,Busi,Asia-Pacific,India
+2624,Closed,Project,Incident,4-Low,41929.00,41937.00,USD ,Asia-Pacific,India
+2625,Closed,Project,Incident,4-Low,41929.00,41937.00,USD ,Asia-Pacific,India
+2626,Closed,Project,Incident,4-Low,41929.00,41937.00,USD ,Asia-Pacific,India
+2627,Closed,No Charge Support,Problem,3-Medium,41932.00,41937.00,USD ,Asia-Pacific,India
+2330,Closed,Project,Incident,3-Medium,41927.00,41939.00,Busi,Asia-Pacific,India
+1019,Closed,Project,Incident,3-Medium,41766.00,41940.00,AAM ,Asia-Pacific,Japan
+1020,Closed,Project,Incident,3-Medium,41766.00,41940.00,AAM ,Asia-Pacific,Japan
+1663,Closed,Contract,Incident,2-High,41814.00,41940.00,PHD ,Asia-Pacific,Australia
+2164,Closed,Project,Incident,3-Medium,41929.00,41940.00,Busi,Asia-Pacific,Singapore
+2171,Closed,Project,Incident,3-Medium,41905.00,41940.00,Busi,Asia-Pacific,Singapore
+2199,Closed,Contract,Incident,2-High,41814.00,41940.00,PHD ,Asia-Pacific,Australia
+2496,Closed,Project,Incident,2-High,41849.00,41940.00,Oper,Asia-Pacific,Bangladesh
+2497,Closed,Project,Incident,2-High,41849.00,41940.00,Oper,Asia-Pacific,Bangladesh
+2498,Closed,Project,Incident,2-High,41849.00,41940.00,Oper,Asia-Pacific,Bangladesh
+2619,Closed,No Charge Support,Incident,3-Medium,41925.00,41940.00,USD ,Asia-Pacific,Korea South
+2907,Closed,Contract,Incident,2-High,41814.00,41940.00,PHD ,Asia-Pacific,Australia
+2979,Closed,Project,Problem,2-High,41926.00,41940.00,Blen,Asia-Pacific,India
+1530,Closed,No Charge Support,Incident,2-High,41922.00,41941.00,Busi,Asia-Pacific,India
+2166,Closed,No Charge Support,Incident,2-High,41922.00,41941.00,Busi,Asia-Pacific,India
+2339,Closed,Contract,Incident,4-Low,41920.00,41941.00,Busi,Asia-Pacific,India
+2348,Closed,Contract,Incident,2-High,41884.00,41941.00,Busi,Asia-Pacific,India
+2620,Closed,Project,Problem,1-Critical,41925.00,41941.00,USD ,Asia-Pacific,India
+2621,Closed,Project,Problem,1-Critical,41925.00,41941.00,USD ,Asia-Pacific,India
+1727,Closed,Project,Incident,3-Medium,41912.00,41942.00,Unsp,Asia-Pacific,Indonesia
+2445,Closed,Project,Problem,1-Critical,41834.00,41942.00,USD ,Asia-Pacific,Korea South
+2446,Closed,Project,Problem,1-Critical,41834.00,41942.00,USD ,Asia-Pacific,Korea South
+2447,Closed,Project,Problem,1-Critical,41834.00,41942.00,USD ,Asia-Pacific,Korea South
+2448,Closed,Project,Problem,1-Critical,41834.00,41942.00,USD ,Asia-Pacific,Korea South
+2974,Closed,Project,Incident,4-Low,41940.00,41942.00,Blen,Asia-Pacific,India
+2983,Closed,No Charge Support,Incident,3-Medium,41906.00,41942.00,Blen,Asia-Pacific,Korea South
+1226,Closed,Project,Incident,2-High,41855.00,41943.00,Oper,Asia-Pacific,Indonesia
+1227,Closed,Project,Incident,2-High,41855.00,41943.00,Oper,Asia-Pacific,Indonesia
+1348,Closed,Project,Problem,2-High,41934.00,41943.00,USD ,Asia-Pacific,China
+2977,Closed,No Charge Support,Incident,3-Medium,41939.00,41943.00,Blen,Asia-Pacific,Korea South
+2638,Closed,No Charge Support,Problem,2-High,41944.00,41944.00,USD ,Asia-Pacific,Vietnam
+2639,Closed,No Charge Support,Incident,1-Critical,41944.00,41944.00,USD ,Asia-Pacific,India
+2640,Closed,No Charge Support,Incident,1-Critical,41944.00,41944.00,USD ,Asia-Pacific,India
+2641,Closed,No Charge Support,Incident,1-Critical,41944.00,41944.00,USD ,Asia-Pacific,India
+2420,Closed,Project,Incident,4-Low,41822.00,41945.00,USD ,Asia-Pacific,Japan
+2437,Closed,Project,Problem,2-High,41829.00,41945.00,Oper,Asia-Pacific,Unspecified
+2469,Closed,Project,Incident,2-High,41841.00,41945.00,Oper,Asia-Pacific,India
+2470,Closed,Project,Incident,2-High,41841.00,41945.00,Oper,Asia-Pacific,India
+2471,Closed,Project,Incident,2-High,41841.00,41945.00,Oper,Asia-Pacific,India
+2472,Closed,Project,Incident,2-High,41841.00,41945.00,Oper,Asia-Pacific,India
+2473,Closed,No Charge Support,Incident,2-High,41842.00,41945.00,USD ,Asia-Pacific,India
+2474,Closed,No Charge Support,Incident,2-High,41842.00,41945.00,USD ,Asia-Pacific,India
+2482,Closed,Project,Problem,2-High,41844.00,41945.00,Oper,Asia-Pacific,India
+2483,Closed,Project,Problem,2-High,41844.00,41945.00,Oper,Asia-Pacific,India
+2484,Closed,Project,Problem,2-High,41844.00,41945.00,Oper,Asia-Pacific,India
+2494,Closed,No Charge Support,Problem,3-Medium,41849.00,41945.00,USD ,Asia-Pacific,India
+2495,Closed,No Charge Support,Problem,3-Medium,41849.00,41945.00,USD ,Asia-Pacific,India
+2499,Closed,No Charge Support,Problem,3-Medium,41850.00,41945.00,USD ,Asia-Pacific,Singapore
+2500,Closed,No Charge Support,Problem,3-Medium,41850.00,41945.00,USD ,Asia-Pacific,Singapore
+2507,Closed,Project,Problem,2-High,41851.00,41945.00,USD ,Asia-Pacific,India
+2508,Closed,Project,Problem,2-High,41851.00,41945.00,USD ,Asia-Pacific,India
+2616,Closed,No Charge Support,Problem,2-High,41913.00,41945.00,USD ,Asia-Pacific,Indonesia
+1092,Closed,Contract,Incident,3-Medium,41941.00,41946.00,APC ,Asia-Pacific,Japan
+1093,Closed,Contract,Incident,3-Medium,41941.00,41946.00,APC ,Asia-Pacific,Japan
+1094,Closed,Contract,Incident,3-Medium,41941.00,41946.00,APC ,Asia-Pacific,Japan
+1095,Closed,Contract,Incident,3-Medium,41941.00,41946.00,APC ,Asia-Pacific,Japan
+1096,Closed,Contract,Incident,3-Medium,41941.00,41946.00,APC ,Asia-Pacific,Japan
+1898,Closed,No Charge Support,Incident,4-Low,41939.00,41946.00,Proc,Asia-Pacific,Unspecified
+2306,Closed,Contract,Incident,3-Medium,41946.00,41946.00,Busi,Asia-Pacific,India
+2631,Closed,No Charge Support,Problem,3-Medium,41941.00,41946.00,USD ,Asia-Pacific,Korea South
+2632,Closed,No Charge Support,Problem,3-Medium,41941.00,41946.00,USD ,Asia-Pacific,Korea South
+2633,Closed,No Charge Support,Problem,3-Medium,41941.00,41946.00,USD ,Asia-Pacific,Korea South
+2091,Closed,Project,Problem,3-Medium,41649.00,41947.00,Oper,Asia-Pacific,Australia
+2264,Closed,Project,Problem,2-High,41739.00,41947.00,Oper,Asia-Pacific,Indonesia
+2549,Closed,No Charge Support,Problem,3-Medium,41876.00,41947.00,USD ,Asia-Pacific,Singapore
+2550,Closed,Project,Incident,2-High,41877.00,41947.00,USD ,Asia-Pacific,Bangladesh
+2563,Closed,Project,Problem,1-Critical,41884.00,41947.00,USD ,Asia-Pacific,Bangladesh
+1101,Closed,No Charge Support,Incident,3-Medium,41943.00,41948.00,APC ,Asia-Pacific,Australia
+1102,Closed,Contract,Problem,3-Medium,41946.00,41948.00,APC ,Asia-Pacific,Japan
+1103,Closed,Contract,Problem,3-Medium,41946.00,41948.00,APC ,Asia-Pacific,Japan
+2717,Closed,Billable,Incident,3-Medium,41922.00,41949.00,Busi,Asia-Pacific,India
+1570,Closed,Contract,Incident,2-High,41878.00,41950.00,AAM ,Asia-Pacific,Papua New Guinea
+2665,Closed,Contract,Incident,3-Medium,41949.00,41951.00,Busi,Asia-Pacific,India
+2670,Closed,Billable,Incident,3-Medium,41946.00,41951.00,Busi,Asia-Pacific,India
+2393,Closed,Project,Incident,4-Low,41947.00,41953.00,Blen,Asia-Pacific,India
+2897,Closed,Project,Incident,2-High,41779.00,41953.00,Adva,Asia-Pacific,Korea South
+1515,Closed,Project,Incident,3-Medium,41928.00,41954.00,Busi,Asia-Pacific,Australia
+1516,Closed,Project,Incident,3-Medium,41928.00,41954.00,Busi,Asia-Pacific,Australia
+1579,Closed,Project,Incident,2-High,41949.00,41956.00,AAM ,Asia-Pacific,Japan
+2534,Closed,Contract,Incident,3-Medium,41953.00,41957.00,Busi,Asia-Pacific,India
+1079,Closed,Contract,Incident,2-High,41932.00,41961.00,APC ,Asia-Pacific,New Zealand
+1080,Closed,Contract,Incident,2-High,41932.00,41961.00,APC ,Asia-Pacific,New Zealand
+1081,Closed,Contract,Incident,2-High,41932.00,41961.00,APC ,Asia-Pacific,New Zealand
+1082,Closed,Contract,Incident,2-High,41932.00,41961.00,APC ,Asia-Pacific,New Zealand
+1097,Closed,Contract,Incident,2-High,41943.00,41961.00,APC ,Asia-Pacific,Australia
+1098,Closed,Contract,Incident,2-High,41943.00,41961.00,APC ,Asia-Pacific,Australia
+1099,Closed,Contract,Incident,2-High,41943.00,41961.00,APC ,Asia-Pacific,Australia
+1100,Closed,Contract,Incident,2-High,41943.00,41961.00,APC ,Asia-Pacific,Australia
+1110,Closed,Contract,Incident,2-High,41956.00,41961.00,APC ,Asia-Pacific,New Zealand
+1111,Closed,Contract,Incident,2-High,41956.00,41961.00,APC ,Asia-Pacific,New Zealand
+1353,Closed,Project,Incident,2-High,41950.00,41961.00,USD ,Asia-Pacific,China
+1354,Closed,Project,Incident,2-High,41950.00,41961.00,USD ,Asia-Pacific,China
+1581,Closed,Contract,Incident,1-Critical,41953.00,41961.00,AAM ,Asia-Pacific,Malaysia
+2098,Closed,Project,Incident,2-High,41950.00,41961.00,USD ,Asia-Pacific,China
+2312,Closed,Project,Incident,3-Medium,41941.00,41961.00,PHD ,Asia-Pacific,Singapore
+2658,Closed,Contract,Incident,3-Medium,41961.00,41961.00,Busi,Asia-Pacific,India
+2975,Closed,Project,Incident,3-Medium,41939.00,41961.00,Blen,Asia-Pacific,Singapore
+2635,Closed,No Charge Support,Problem,4-Low,41944.00,41962.00,USD ,Asia-Pacific,Singapore
+2636,Closed,No Charge Support,Problem,4-Low,41944.00,41962.00,USD ,Asia-Pacific,Singapore
+2637,Closed,No Charge Support,Problem,4-Low,41944.00,41962.00,USD ,Asia-Pacific,Singapore
+1513,Closed,Contract,Incident,2-High,41957.00,41963.00,Busi,Asia-Pacific,India
+1578,Closed,Project,Incident,3-Medium,41939.00,41963.00,AAM ,Asia-Pacific,Japan
+1670,Closed,Project,Incident,2-High,41962.00,41963.00,Proc,Asia-Pacific,India
+1678,Closed,Project,Incident,2-High,41962.00,41963.00,Proc,Asia-Pacific,India
+2324,Closed,Contract,Incident,2-High,41927.00,41963.00,Busi,Asia-Pacific,India
+2328,Closed,Contract,Incident,4-Low,41927.00,41963.00,Busi,Asia-Pacific,India
+2333,Closed,Contract,Incident,4-Low,41920.00,41963.00,AAM ,Asia-Pacific,India
+2336,Closed,Contract,Incident,3-Medium,41920.00,41963.00,Busi,Asia-Pacific,India
+2350,Closed,Contract,Incident,2-High,41884.00,41963.00,Busi,Asia-Pacific,India
+2972,Closed,Project,Incident,3-Medium,41960.00,41963.00,Unsp,Asia-Pacific,Singapore
+2850,Closed,Project,Incident,2-High,41962.00,41964.00,Blen,Asia-Pacific,India
+2973,Closed,Project,Problem,3-Medium,41948.00,41964.00,Blen,Asia-Pacific,Korea South
+2652,Closed,Contract,Incident,3-Medium,41963.00,41967.00,Busi,Asia-Pacific,India
+2900,Closed,Contract,Problem,1-Critical,41788.00,41967.00,Busi,Asia-Pacific,India
+1024,Closed,Contract,Incident,3-Medium,41767.00,41968.00,APC ,Asia-Pacific,Japan
+1025,Closed,Contract,Incident,3-Medium,41767.00,41968.00,APC ,Asia-Pacific,Japan
+1026,Closed,Contract,Incident,3-Medium,41767.00,41968.00,APC ,Asia-Pacific,Japan
+1034,Closed,Project,Incident,3-Medium,41809.00,41968.00,APC ,Asia-Pacific,Thailand
+1035,Closed,Project,Incident,3-Medium,41809.00,41968.00,APC ,Asia-Pacific,Thailand
+1036,Closed,Project,Incident,3-Medium,41809.00,41968.00,APC ,Asia-Pacific,Thailand
+1114,Closed,Contract,Incident,2-High,41962.00,41968.00,APC ,Asia-Pacific,New Zealand
+1115,Closed,Contract,Incident,2-High,41962.00,41968.00,APC ,Asia-Pacific,New Zealand
+1116,Closed,Contract,Incident,2-High,41962.00,41968.00,APC ,Asia-Pacific,New Zealand
+1514,Closed,Contract,Incident,3-Medium,41942.00,41968.00,Busi,Asia-Pacific,India
+2388,Closed,Contract,Incident,1-Critical,41673.00,41968.00,Busi,Asia-Pacific,India
+2868,Closed,Contract,Incident,1-Critical,41673.00,41968.00,Busi,Asia-Pacific,India
+1234,Closed,Project,Incident,1-Critical,41892.00,41969.00,Oper,Asia-Pacific,Singapore
+2103,Closed,Project,Incident,2-High,41886.00,41969.00,USD ,Asia-Pacific,India
+2573,Closed,Project,Incident,1-Critical,41892.00,41969.00,Oper,Asia-Pacific,Singapore
+2096,Closed,Project,Incident,3-Medium,41955.00,41970.00,Oper,Asia-Pacific,China
+2168,Closed,Contract,Incident,4-Low,41920.00,41970.00,Busi,Asia-Pacific,India
+2169,Closed,Contract,Incident,2-High,41920.00,41970.00,Busi,Asia-Pacific,India
+2170,Closed,Contract,Incident,3-Medium,41920.00,41970.00,Busi,Asia-Pacific,India
+2181,Closed,Contract,Request for Fulfillment,3-Medium,41884.00,41970.00,Busi,Asia-Pacific,India
+2305,Closed,No Charge Support,Incident,2-High,41950.00,41970.00,Busi,Asia-Pacific,India
+2340,Closed,Contract,Incident,4-Low,41920.00,41970.00,Busi,Asia-Pacific,India
+2343,Closed,Contract,Incident,2-High,41920.00,41970.00,Busi,Asia-Pacific,India
+2344,Closed,Contract,Incident,3-Medium,41920.00,41970.00,Busi,Asia-Pacific,India
+2352,Closed,Contract,Request for Fulfillment,3-Medium,41884.00,41970.00,Busi,Asia-Pacific,India
+2921,Closed,Contract,Incident,4-Low,41955.00,41970.00,Busi,Asia-Pacific,Japan
+2289,Closed,Contract,Incident,2-High,41970.00,41974.00,Busi,Asia-Pacific,India
+2292,Closed,Project,Problem,2-High,41750.00,41974.00,Oper,Asia-Pacific,Australia
+2293,Closed,Project,Problem,2-High,41750.00,41974.00,Oper,Asia-Pacific,Australia
+2294,Closed,Project,Problem,2-High,41750.00,41974.00,Oper,Asia-Pacific,Australia
+2295,Closed,Project,Problem,2-High,41750.00,41974.00,Oper,Asia-Pacific,Australia
+2296,Closed,Project,Problem,2-High,41750.00,41974.00,Oper,Asia-Pacific,Australia
+2297,Closed,Project,Problem,2-High,41750.00,41974.00,Oper,Asia-Pacific,Australia
+2298,Closed,Project,Problem,2-High,41750.00,41974.00,Oper,Asia-Pacific,Australia
+2584,Closed,Project,Problem,2-High,41900.00,41974.00,USD ,Asia-Pacific,China
+2585,Closed,Project,Problem,2-High,41900.00,41974.00,USD ,Asia-Pacific,China
+2851,Closed,Project,Incident,2-High,41969.00,41974.00,Blen,Asia-Pacific,India
+1376,Closed,Project,Incident,3-Medium,41955.00,41975.00,Oper,Asia-Pacific,Indonesia
+2163,Closed,Contract,Incident,3-Medium,41940.00,41975.00,Busi,Asia-Pacific,Singapore
+2322,Closed,Project,Incident,3-Medium,41935.00,41975.00,Busi,Asia-Pacific,Australia
+1585,Closed,Contract,Request for Fulfillment,3-Medium,41964.00,41976.00,Unsp,Asia-Pacific,Singapore
+1650,Closed,Project,Incident,3-Medium,41767.00,41976.00,PHD ,Asia-Pacific,Singapore
+1652,Closed,Project,Incident,3-Medium,41778.00,41976.00,Unsp,Asia-Pacific,Singapore
+1657,Closed,Project,Incident,3-Medium,41780.00,41976.00,Unsp,Asia-Pacific,Singapore
+1667,Closed,Project,Incident,3-Medium,41975.00,41976.00,Proc,Asia-Pacific,Japan
+1701,Closed,Project,Incident,3-Medium,41877.00,41976.00,Unsp,Asia-Pacific,Singapore
+1761,Closed,Project,Incident,3-Medium,41953.00,41976.00,PHD ,Asia-Pacific,Singapore
+2097,Closed,Project,Problem,3-Medium,41954.00,41976.00,Oper,Asia-Pacific,India
+2647,Closed,Project,Problem,3-Medium,41954.00,41976.00,Oper,Asia-Pacific,India
+2648,Closed,Project,Problem,3-Medium,41954.00,41976.00,Oper,Asia-Pacific,India
+1915,Closed,Contract,Problem,3-Medium,41974.00,41978.00,PHD ,Asia-Pacific,Australia
+1021,Closed,Project,Problem,3-Medium,41766.00,41979.00,APC ,Asia-Pacific,India
+1022,Closed,Project,Problem,3-Medium,41766.00,41979.00,APC ,Asia-Pacific,India
+1023,Closed,Project,Problem,3-Medium,41766.00,41979.00,APC ,Asia-Pacific,India
+1029,Closed,Contract,Problem,3-Medium,41792.00,41979.00,APC ,Asia-Pacific,India
+1030,Closed,Contract,Problem,3-Medium,41792.00,41979.00,APC ,Asia-Pacific,India
+1037,Closed,Contract,Problem,2-High,41814.00,41979.00,APC ,Asia-Pacific,India
+1038,Closed,Contract,Problem,2-High,41814.00,41979.00,APC ,Asia-Pacific,India
+1045,Closed,Contract,Incident,3-Medium,41817.00,41979.00,APC ,Asia-Pacific,India
+1117,Closed,Contract,Incident,2-High,41964.00,41980.00,APC ,Asia-Pacific,Australia
+1118,Closed,Contract,Incident,2-High,41964.00,41980.00,APC ,Asia-Pacific,Australia
+1119,Closed,Contract,Incident,2-High,41964.00,41980.00,APC ,Asia-Pacific,Australia
+1120,Closed,Contract,Incident,2-High,41964.00,41980.00,APC ,Asia-Pacific,Australia
+1121,Closed,Contract,Incident,2-High,41964.00,41980.00,APC ,Asia-Pacific,Australia
+1658,Closed,Project,Problem,3-Medium,41786.00,41981.00,PHD ,Asia-Pacific,Singapore
+1659,Closed,Project,Incident,3-Medium,41788.00,41981.00,PHD ,Asia-Pacific,Singapore
+1661,Closed,Project,Incident,4-Low,41801.00,41981.00,PHD ,Asia-Pacific,Singapore
+1196,Closed,Contract,Incident,3-Medium,41815.00,41982.00,Busi,Asia-Pacific,India
+1577,Closed,Project,Problem,3-Medium,41929.00,41982.00,Busi,Asia-Pacific,Australia
+1860,Closed,Project,Problem,2-High,41722.00,41982.00,USD ,Asia-Pacific,Australia
+2104,Closed,Project,Problem,2-High,41722.00,41982.00,USD ,Asia-Pacific,Australia
+2291,Closed,Contract,Incident,2-High,41961.00,41982.00,Busi,Asia-Pacific,India
+2346,Closed,Contract,Incident,3-Medium,41907.00,41982.00,Busi,Asia-Pacific,India
+2527,Closed,Contract,Incident,3-Medium,41978.00,41982.00,Busi,Asia-Pacific,India
+2540,Closed,Contract,Incident,2-High,41824.00,41982.00,Busi,Asia-Pacific,India
+2561,Closed,Project,Problem,3-Medium,41884.00,41982.00,Oper,Asia-Pacific,India
+2562,Closed,Project,Problem,3-Medium,41884.00,41982.00,Oper,Asia-Pacific,India
+2724,Closed,No Charge Support,Incident,1-Critical,41982.00,41982.00,USD ,Asia-Pacific,Malaysia
+2725,Closed,No Charge Support,Incident,1-Critical,41982.00,41982.00,USD ,Asia-Pacific,Malaysia
+1545,Closed,Project,Problem,2-High,41745.00,41983.00,AAM ,Asia-Pacific,Australia
+2286,Closed,Contract,Incident,3-Medium,41978.00,41983.00,Busi,Asia-Pacific,Australia
+2528,Closed,Project,Problem,2-High,41859.00,41983.00,Oper,Asia-Pacific,India
+2529,Closed,Project,Problem,2-High,41859.00,41983.00,Oper,Asia-Pacific,India
+2530,Closed,Project,Problem,2-High,41859.00,41983.00,Oper,Asia-Pacific,India
+2531,Closed,Project,Problem,2-High,41859.00,41983.00,Oper,Asia-Pacific,India
+2888,Closed,Contract,Request for Fulfillment,3-Medium,41796.00,41983.00,Unsp,Asia-Pacific,India
+2971,Closed,Project,Problem,3-Medium,41982.00,41983.00,Blen,Asia-Pacific,India
+2079,Closed,No Charge Support,Incident,2-High,41981.00,41984.00,USD ,Asia-Pacific,India
+2092,Closed,No Charge Support,Incident,1-Critical,41975.00,41984.00,USD ,Asia-Pacific,India
+2093,Closed,Project,Incident,1-Critical,41975.00,41984.00,USD ,Asia-Pacific,Unspecified
+2094,Closed,Project,Incident,1-Critical,41974.00,41984.00,USD ,Asia-Pacific,Singapore
+2095,Closed,Project,Incident,1-Critical,41974.00,41984.00,USD ,Asia-Pacific,Korea South
+2290,Closed,Contract,Incident,3-Medium,41964.00,41984.00,Busi,Asia-Pacific,India
+2526,Closed,Contract,Incident,3-Medium,41984.00,41984.00,Busi,Asia-Pacific,India
+2646,Closed,Contract,Incident,3-Medium,41964.00,41984.00,Busi,Asia-Pacific,India
+2653,Closed,Contract,Incident,3-Medium,41962.00,41984.00,Busi,Asia-Pacific,India
+2660,Closed,Contract,Incident,3-Medium,41954.00,41984.00,Busi,Asia-Pacific,India
+2989,Closed,Contract,Problem,3-Medium,41963.00,41984.00,AAM ,Asia-Pacific,Singapore
+1920,Closed,Project,Request for Fulfillment,3-Medium,41984.00,41985.00,PHD ,Asia-Pacific,Indonesia
+2078,Closed,No Charge Support,Incident,2-High,41985.00,41985.00,USD ,Asia-Pacific,India
+2743,Closed,No Charge Support,Incident,2-High,41985.00,41985.00,USD ,Asia-Pacific,India
+2744,Closed,No Charge Support,Incident,2-High,41985.00,41985.00,USD ,Asia-Pacific,India
+1582,Closed,Contract,Request for Fulfillment,3-Medium,41954.00,41987.00,AAM ,Asia-Pacific,Malaysia
+2307,Closed,Contract,Incident,3-Medium,41942.00,41988.00,Busi,Asia-Pacific,India
+2525,Closed,Contract,Incident,3-Medium,41985.00,41988.00,Busi,Asia-Pacific,India
+1510,Closed,Project,Incident,3-Medium,41978.00,41989.00,PHD ,Asia-Pacific,China
+1680,Closed,Project,Incident,4-Low,41845.00,41989.00,PHD ,Asia-Pacific,Japan
+1122,Closed,Contract,Incident,2-High,41966.00,41990.00,APC ,Asia-Pacific,New Zealand
+1123,Closed,Contract,Incident,2-High,41966.00,41990.00,APC ,Asia-Pacific,New Zealand
+1124,Closed,Contract,Incident,2-High,41974.00,41990.00,APC ,Asia-Pacific,Australia
+1787,Closed,Contract,Incident,3-Medium,41987.00,41990.00,PHD ,Asia-Pacific,Australia
+2969,Closed,Project,Problem,2-High,41990.00,41990.00,Blen,Asia-Pacific,Korea South
+1591,Closed,Project,Problem,3-Medium,41990.00,41991.00,AAM ,Asia-Pacific,Singapore
+1106,Closed,Contract,Incident,2-High,41956.00,41992.00,APC ,Asia-Pacific,Australia
+1107,Closed,Contract,Incident,2-High,41956.00,41992.00,APC ,Asia-Pacific,Australia
+1108,Closed,Contract,Incident,2-High,41956.00,41992.00,APC ,Asia-Pacific,Australia
+1109,Closed,Contract,Incident,2-High,41956.00,41992.00,APC ,Asia-Pacific,Australia
+1926,Closed,Billable,Request for Fulfillment,3-Medium,41991.00,41995.00,PHD ,Asia-Pacific,Philippines
+2072,Closed,Project,Incident,2-High,41995.00,41995.00,USD ,Asia-Pacific,India
+2645,Closed,Contract,Incident,3-Medium,41983.00,41995.00,Busi,Asia-Pacific,India
+2649,Closed,No Charge Support,Incident,3-Medium,41961.00,41995.00,USD ,Asia-Pacific,India
+2650,Closed,No Charge Support,Incident,3-Medium,41961.00,41995.00,USD ,Asia-Pacific,India
+2651,Closed,No Charge Support,Incident,4-Low,41961.00,41995.00,USD ,Asia-Pacific,India
+1520,Closed,Contract,Incident,3-Medium,41927.00,41996.00,Busi,Asia-Pacific,India
+1914,Closed,Project,Request for Fulfillment,3-Medium,41970.00,41996.00,PHD ,Asia-Pacific,Indonesia
+2165,Closed,No Charge Support,Request for Fulfillment,3-Medium,41928.00,41996.00,Busi,Asia-Pacific,Australia
+2674,Closed,No Charge Support,Problem,4-Low,41976.00,41996.00,USD ,Asia-Pacific,Korea South
+2675,Closed,No Charge Support,Problem,4-Low,41976.00,41996.00,USD ,Asia-Pacific,Korea South
+2676,Closed,No Charge Support,Problem,4-Low,41976.00,41996.00,USD ,Asia-Pacific,Korea South
+2697,Closed,No Charge Support,Incident,2-High,41981.00,41996.00,USD ,Asia-Pacific,New Zealand
+2698,Closed,No Charge Support,Incident,2-High,41981.00,41996.00,USD ,Asia-Pacific,New Zealand
+1918,Closed,Billable,Problem,2-High,41983.00,41997.00,PHD ,Asia-Pacific,Papua New Guinea
+2628,Closed,Project,Problem,2-High,41933.00,41997.00,Oper,Asia-Pacific,India
+2629,Closed,Project,Problem,2-High,41933.00,41997.00,Oper,Asia-Pacific,India
+2699,Closed,Project,Incident,2-High,41981.00,41997.00,USD ,Asia-Pacific,China
+2700,Closed,Project,Incident,2-High,41981.00,41997.00,USD ,Asia-Pacific,China
+1691,Closed,Project,Problem,2-High,41865.00,41998.00,PHD ,Asia-Pacific,Japan
+1728,Closed,Project,Problem,4-Low,41912.00,41998.00,PHD ,Asia-Pacific,Japan
+1768,Closed,No Charge Support,Problem,3-Medium,41962.00,41998.00,PHD ,Asia-Pacific,Japan
+2764,Closed,No Charge Support,Incident,2-High,41997.00,41998.00,USD ,Asia-Pacific,Japan
+2765,Closed,No Charge Support,Incident,2-High,41997.00,41998.00,USD ,Asia-Pacific,Japan
+1689,Closed,Project,Incident,3-Medium,41863.00,41999.00,PHD ,Asia-Pacific,Japan
+1739,Closed,Project,Problem,3-Medium,41921.00,41999.00,PHD ,Asia-Pacific,Japan
+1755,Closed,Project,Problem,3-Medium,41941.00,41999.00,PHD ,Asia-Pacific,Japan
+2071,Closed,Project,Incident,1-Critical,41996.00,42001.00,USD ,Asia-Pacific,India
+2074,Closed,No Charge Support,Incident,2-High,41995.00,42001.00,USD ,Asia-Pacific,India
+1518,Closed,Project,Incident,3-Medium,41653.00,42002.00,AAM ,Asia-Pacific,Japan
+1660,Closed,Project,Incident,2-High,41799.00,42002.00,PHD ,Asia-Pacific,Japan
+1668,Closed,Project,Problem,3-Medium,41823.00,42002.00,PHD ,Asia-Pacific,Japan
+1669,Closed,Project,Problem,3-Medium,41823.00,42002.00,PHD ,Asia-Pacific,Japan
+1685,Closed,Project,Problem,3-Medium,41853.00,42002.00,PHD ,Asia-Pacific,Japan
+1902,Closed,Contract,Incident,3-Medium,41940.00,42002.00,PHD ,Asia-Pacific,Japan
+2383,Closed,Project,Problem,2-High,41788.00,42002.00,Oper,Asia-Pacific,China
+2950,Closed,Billable,Request for Fulfillment,3-Medium,41999.00,42002.00,DynA,Asia-Pacific,China
+2994,Closed,Project,Incident,3-Medium,41996.00,42002.00,AAM ,Asia-Pacific,Singapore
+2287,Closed,Contract,Incident,3-Medium,41974.00,42003.00,Busi,Asia-Pacific,India
+2288,Closed,Contract,Incident,3-Medium,41974.00,42003.00,Busi,Asia-Pacific,India
+2303,Closed,Contract,Incident,2-High,41953.00,42003.00,Busi,Asia-Pacific,India
+2304,Closed,Contract,Request for Fulfillment,3-Medium,41953.00,42003.00,Busi,Asia-Pacific,India
+2308,Closed,Project,Problem,3-Medium,41941.00,42003.00,Busi,Asia-Pacific,Australia
+2325,Closed,Contract,Incident,2-High,41927.00,42003.00,Busi,Asia-Pacific,India
+2326,Closed,Contract,Incident,2-High,41927.00,42003.00,Busi,Asia-Pacific,India
+2338,Closed,Contract,Incident,3-Medium,41920.00,42003.00,AAM ,Asia-Pacific,India
+2345,Closed,Contract,Incident,3-Medium,41919.00,42003.00,AAM ,Asia-Pacific,India
+2351,Closed,Contract,Incident,4-Low,41884.00,42003.00,Busi,Asia-Pacific,India
+2353,Closed,Contract,Incident,3-Medium,41884.00,42003.00,Busi,Asia-Pacific,India
+2354,Closed,Contract,Incident,4-Low,41884.00,42003.00,Busi,Asia-Pacific,India
+2355,Closed,Contract,Incident,3-Medium,41884.00,42003.00,Busi,Asia-Pacific,India
+2524,Closed,Contract,Incident,3-Medium,42003.00,42003.00,Busi,Asia-Pacific,India
+2962,Closed,Project,Problem,4-Low,41772.00,42004.00,AAM ,Asia-Pacific,Australia
+1041,Closed,Contract,Incident,3-Medium,41814.00,42006.00,APC ,Asia-Pacific,Australia
+1042,Closed,Contract,Incident,3-Medium,41814.00,42006.00,APC ,Asia-Pacific,Australia
+1043,Closed,Contract,Incident,3-Medium,41814.00,42006.00,APC ,Asia-Pacific,Australia
+1044,Closed,Contract,Incident,3-Medium,41814.00,42006.00,APC ,Asia-Pacific,Australia
+2967,Closed,Project,Incident,3-Medium,41922.00,42006.00,Oper,Asia-Pacific,Japan
+2008,Closed,No Charge Support,Incident,2-High,42003.00,42007.00,USD ,Asia-Pacific,India
+2014,Closed,No Charge Support,Incident,2-High,42003.00,42007.00,USD ,Asia-Pacific,India
+2016,Closed,No Charge Support,Incident,2-High,42003.00,42007.00,USD ,Asia-Pacific,India
+2062,Closed,No Charge Support,Incident,2-High,42003.00,42007.00,USD ,Asia-Pacific,India
+2068,Closed,No Charge Support,Incident,2-High,42003.00,42007.00,USD ,Asia-Pacific,India
+2069,Closed,No Charge Support,Incident,2-High,42003.00,42007.00,USD ,Asia-Pacific,India
+1505,Closed,Contract,Incident,3-Medium,41985.00,42009.00,Busi,Asia-Pacific,Australia
+1671,Closed,Contract,Incident,2-High,41827.00,42009.00,PHD ,Asia-Pacific,Australia
+2161,Closed,Project,Request for Fulfillment,3-Medium,41970.00,42009.00,Unsp,Asia-Pacific,China
+2771,Closed,No Charge Support,Request for Fulfillment,2-High,42009.00,42009.00,USD ,Asia-Pacific,Singapore
+2772,Closed,No Charge Support,Request for Fulfillment,2-High,42009.00,42009.00,USD ,Asia-Pacific,Singapore
+2773,Closed,No Charge Support,Request for Fulfillment,2-High,42009.00,42009.00,USD ,Asia-Pacific,Singapore
+2774,Closed,No Charge Support,Request for Fulfillment,2-High,42009.00,42009.00,USD ,Asia-Pacific,Singapore
+1504,Closed,Project,Incident,2-High,41988.00,42010.00,Unsp,Asia-Pacific,India
+1931,Closed,Contract,Incident,2-High,42009.00,42010.00,PHD ,Asia-Pacific,Vietnam
+1994,Closed,Project,Incident,2-High,42004.00,42010.00,USD ,Asia-Pacific,Korea South
+2184,Closed,Project,Problem,3-Medium,41695.00,42010.00,Oper,Asia-Pacific,Australia
+2185,Closed,Project,Problem,3-Medium,41695.00,42010.00,Oper,Asia-Pacific,Australia
+2186,Closed,Project,Problem,3-Medium,41695.00,42010.00,Oper,Asia-Pacific,Australia
+2187,Closed,Project,Problem,3-Medium,41695.00,42010.00,Oper,Asia-Pacific,Australia
+2188,Closed,Project,Problem,3-Medium,41695.00,42010.00,Oper,Asia-Pacific,Australia
+2189,Closed,Project,Problem,3-Medium,41695.00,42010.00,Oper,Asia-Pacific,Australia
+2190,Closed,Project,Problem,3-Medium,41695.00,42010.00,Oper,Asia-Pacific,Australia
+2191,Closed,Project,Problem,3-Medium,41695.00,42010.00,Oper,Asia-Pacific,Australia
+2192,Closed,Project,Problem,3-Medium,41695.00,42010.00,Oper,Asia-Pacific,Australia
+2193,Closed,Project,Problem,3-Medium,41695.00,42010.00,Oper,Asia-Pacific,Australia
+2434,Closed,Project,Problem,2-High,41828.00,42010.00,Oper,Asia-Pacific,Unspecified
+2435,Closed,Project,Problem,2-High,41828.00,42010.00,Oper,Asia-Pacific,Unspecified
+2436,Closed,Project,Problem,2-High,41828.00,42010.00,Oper,Asia-Pacific,Unspecified
+2519,Closed,Contract,Incident,3-Medium,42010.00,42010.00,Busi,Asia-Pacific,India
+2634,Closed,Unverified,Request for Fulfillment,3-Medium,42010.00,42010.00,Busi,Asia-Pacific,India
+2644,Closed,Contract,Incident,3-Medium,42009.00,42010.00,Busi,Asia-Pacific,India
+2766,Closed,No Charge Support,Request for Fulfillment,3-Medium,42009.00,42010.00,USD ,Asia-Pacific,China
+2767,Closed,No Charge Support,Request for Fulfillment,3-Medium,42009.00,42010.00,USD ,Asia-Pacific,China
+2768,Closed,No Charge Support,Request for Fulfillment,3-Medium,42009.00,42010.00,USD ,Asia-Pacific,China
+2769,Closed,No Charge Support,Request for Fulfillment,3-Medium,42009.00,42010.00,USD ,Asia-Pacific,China
+2770,Closed,No Charge Support,Request for Fulfillment,3-Medium,42009.00,42010.00,USD ,Asia-Pacific,China
+2953,Closed,Billable,Request for Fulfillment,3-Medium,41997.00,42010.00,DynA,Asia-Pacific,China
+1737,Closed,Project,Problem,3-Medium,41918.00,42011.00,Unsp,Asia-Pacific,Australia
+1785,Closed,Contract,Incident,3-Medium,41999.00,42011.00,PHD ,Asia-Pacific,Japan
+2776,Closed,Project,Incident,2-High,42011.00,42012.00,Oper,Asia-Pacific,Australia
+2777,Closed,No Charge Support,Incident,1-Critical,42012.00,42012.00,USD ,Asia-Pacific,India
+2778,Closed,No Charge Support,Incident,1-Critical,42012.00,42012.00,USD ,Asia-Pacific,India
+2779,Closed,No Charge Support,Incident,1-Critical,42012.00,42012.00,USD ,Asia-Pacific,India
+1789,Closed,Contract,Incident,3-Medium,41983.00,42013.00,Unsp,Asia-Pacific,Japan
+1558,Closed,Project,Incident,3-Medium,41793.00,42016.00,Busi,Asia-Pacific,Singapore
+1720,Closed,Project,Incident,3-Medium,41900.00,42016.00,Unsp,Asia-Pacific,Singapore
+1780,Closed,Project,Problem,3-Medium,42011.00,42016.00,PHD ,Asia-Pacific,Australia
+2115,Closed,No Charge Support,Problem,3-Medium,42013.00,42016.00,Unsp,Asia-Pacific,Taiwan
+2440,Closed,No Charge Support,Incident,2-High,41830.00,42016.00,USD ,Asia-Pacific,Malaysia
+2441,Closed,No Charge Support,Incident,2-High,41830.00,42016.00,USD ,Asia-Pacific,Malaysia
+2442,Closed,No Charge Support,Incident,2-High,41830.00,42016.00,USD ,Asia-Pacific,Malaysia
+2574,Closed,No Charge Support,Incident,2-High,41892.00,42016.00,USD ,Asia-Pacific,Malaysia
+2685,Closed,No Charge Support,Problem,2-High,41977.00,42016.00,Oper,Asia-Pacific,Singapore
+2686,Closed,No Charge Support,Problem,2-High,41977.00,42016.00,Oper,Asia-Pacific,Singapore
+2687,Closed,No Charge Support,Problem,2-High,41977.00,42016.00,Oper,Asia-Pacific,Singapore
+2688,Closed,No Charge Support,Problem,2-High,41977.00,42016.00,Oper,Asia-Pacific,Singapore
+2689,Closed,No Charge Support,Problem,2-High,41977.00,42016.00,Oper,Asia-Pacific,Singapore
+2701,Closed,Project,Incident,2-High,41981.00,42016.00,USD ,Asia-Pacific,India
+2702,Closed,Project,Incident,2-High,41981.00,42016.00,USD ,Asia-Pacific,India
+2703,Closed,Project,Incident,2-High,41981.00,42016.00,USD ,Asia-Pacific,India
+2722,Closed,Project,Incident,2-High,41982.00,42016.00,USD ,Asia-Pacific,India
+2723,Closed,Project,Incident,2-High,41982.00,42016.00,USD ,Asia-Pacific,India
+2746,Closed,Contract,Incident,3-Medium,41912.00,42016.00,Busi,Asia-Pacific,India
+2955,Closed,Billable,Request for Fulfillment,3-Medium,41995.00,42016.00,AAM ,Asia-Pacific,Malaysia
+2931,Closed,Project,Incident,4-Low,41975.00,42017.00,DynA,Asia-Pacific,Japan
+1503,Closed,Project,Incident,3-Medium,41989.00,42018.00,Busi,Asia-Pacific,China
+1519,Closed,Contract,Incident,3-Medium,41927.00,42018.00,Busi,Asia-Pacific,India
+2001,Closed,No Charge Support,Incident,2-High,41982.00,42018.00,Busi,Asia-Pacific,India
+2158,Closed,Project,Incident,3-Medium,42010.00,42018.00,Busi,Asia-Pacific,Australia
+1765,Closed,Contract,Problem,2-High,41956.00,42019.00,PHD ,Asia-Pacific,Australia
+1932,Closed,No Charge Support,Request for Fulfillment,2-High,42013.00,42020.00,PHD ,Asia-Pacific,Malaysia
+2313,Closed,Project,Incident,3-Medium,41941.00,42020.00,PHD ,Asia-Pacific,China
+2481,Closed,No Charge Support,Incident,3-Medium,41844.00,42020.00,USD ,Asia-Pacific,China
+2595,Closed,Unverified,Incident,3-Medium,42016.00,42020.00,Busi,Asia-Pacific,India
+1500,Closed,Contract,Incident,3-Medium,42018.00,42023.00,Busi,Asia-Pacific,India
+1984,Closed,No Charge Support,Incident,2-High,42016.00,42023.00,USD ,Asia-Pacific,India
+1993,Closed,Contract,Incident,3-Medium,41829.00,42024.00,Busi,Asia-Pacific,Japan
+2002,Closed,No Charge Support,Incident,2-High,42016.00,42024.00,Busi,Asia-Pacific,India
+2003,Closed,No Charge Support,Incident,2-High,42016.00,42024.00,Busi,Asia-Pacific,India
+2101,Closed,Project,Problem,2-High,41913.00,42024.00,Oper,Asia-Pacific,China
+2750,Closed,No Charge Support,Problem,3-Medium,41990.00,42024.00,USD ,Asia-Pacific,Japan
+2751,Closed,No Charge Support,Problem,3-Medium,41990.00,42024.00,USD ,Asia-Pacific,Japan
+2752,Closed,No Charge Support,Problem,3-Medium,41990.00,42024.00,USD ,Asia-Pacific,Japan
+2753,Closed,No Charge Support,Problem,3-Medium,41990.00,42024.00,USD ,Asia-Pacific,Japan
+2754,Closed,No Charge Support,Problem,3-Medium,41990.00,42024.00,USD ,Asia-Pacific,Japan
+2755,Closed,No Charge Support,Problem,3-Medium,41990.00,42024.00,USD ,Asia-Pacific,Japan
+2756,Closed,No Charge Support,Problem,3-Medium,41990.00,42024.00,USD ,Asia-Pacific,Japan
+2783,Closed,Contract,Request for Fulfillment,4-Low,41864.00,42024.00,Busi,Asia-Pacific,India
+2793,Closed,Contract,Request for Fulfillment,4-Low,41837.00,42024.00,Busi,Asia-Pacific,India
+2880,Closed,Contract,Request for Fulfillment,4-Low,41796.00,42024.00,Unsp,Asia-Pacific,India
+2883,Closed,Contract,Request for Fulfillment,4-Low,41796.00,42024.00,Unsp,Asia-Pacific,India
+2884,Closed,Contract,Request for Fulfillment,4-Low,41796.00,42024.00,Unsp,Asia-Pacific,India
+2887,Closed,Contract,Request for Fulfillment,4-Low,41796.00,42024.00,Unsp,Asia-Pacific,India
+1972,Closed,No Charge Support,Incident,2-High,42025.00,42025.00,USD ,Asia-Pacific,Brunei Darussalam
+1973,Closed,No Charge Support,Incident,2-High,42025.00,42025.00,USD ,Asia-Pacific,Brunei Darussalam
+2159,Closed,Project,Incident,3-Medium,42003.00,42025.00,Busi,Asia-Pacific,Singapore
+1975,Closed,Project,Incident,2-High,42025.00,42026.00,Oper,Asia-Pacific,Singapore
+1977,Closed,Project,Incident,2-High,42025.00,42026.00,Oper,Asia-Pacific,Singapore
+2443,Closed,Project,Problem,4-Low,41830.00,42026.00,USD ,Asia-Pacific,Unspecified
+2444,Closed,Project,Problem,4-Low,41830.00,42026.00,USD ,Asia-Pacific,Unspecified
+1996,Closed,Project,Incident,2-High,41883.00,42027.00,Busi,Asia-Pacific,India
+2005,Closed,No Charge Support,Incident,1-Critical,42023.00,42027.00,Busi,Asia-Pacific,India
+1662,Closed,Project,Problem,2-High,41808.00,42028.00,PHD ,Asia-Pacific,Malaysia
+1674,Closed,Project,Incident,3-Medium,41837.00,42031.00,Unsp,Asia-Pacific,China
+1772,Closed,Project,Incident,3-Medium,41989.00,42031.00,PHD ,Asia-Pacific,China
+2266,Closed,Contract,Incident,3-Medium,41990.00,42031.00,Busi,Asia-Pacific,India
+2517,Closed,Contract,Incident,3-Medium,42027.00,42031.00,Busi,Asia-Pacific,India
+2167,Closed,Contract,Problem,3-Medium,41920.00,42032.00,Busi,Asia-Pacific,India
+2334,Closed,Contract,Problem,3-Medium,41920.00,42032.00,Busi,Asia-Pacific,India
+2342,Closed,Contract,Incident,2-High,41920.00,42032.00,Busi,Asia-Pacific,India
+2364,Closed,Project,Incident,2-High,41820.00,42032.00,Busi,Asia-Pacific,India
+1722,Closed,Billable,Incident,2-High,41905.00,42033.00,PHD ,Asia-Pacific,Australia
+1723,Closed,Billable,Incident,2-High,41905.00,42033.00,PHD ,Asia-Pacific,Australia
+1771,Closed,Project,Problem,2-High,41964.00,42033.00,PHD ,Asia-Pacific,China
+1786,Closed,Contract,Problem,3-Medium,41989.00,42033.00,PHD ,Asia-Pacific,Australia
+1982,Closed,Project,Incident,3-Medium,42020.00,42033.00,USD ,Asia-Pacific,Korea South
+1986,Closed,No Charge Support,Incident,2-High,42016.00,42033.00,USD ,Asia-Pacific,Japan
+2547,Closed,Project,Problem,2-High,41873.00,42033.00,Oper,Asia-Pacific,India
+2548,Closed,Project,Problem,2-High,41873.00,42033.00,Oper,Asia-Pacific,India
+2566,Closed,Project,Problem,2-High,41890.00,42033.00,USD ,Asia-Pacific,India
+2567,Closed,Project,Problem,2-High,41890.00,42033.00,USD ,Asia-Pacific,India
+2593,Closed,Project,Problem,2-High,41905.00,42033.00,Oper,Asia-Pacific,India
+2594,Closed,Project,Problem,2-High,41905.00,42033.00,Oper,Asia-Pacific,India
+2601,Closed,Project,Problem,1-Critical,41907.00,42033.00,USD ,Asia-Pacific,India
+2602,Closed,Project,Problem,1-Critical,41907.00,42033.00,USD ,Asia-Pacific,India
+2603,Closed,Project,Problem,1-Critical,41907.00,42033.00,USD ,Asia-Pacific,India
+2604,Closed,Project,Problem,1-Critical,41907.00,42033.00,USD ,Asia-Pacific,India
+2605,Closed,Project,Request for Fulfillment,1-Critical,41907.00,42033.00,USD ,Asia-Pacific,India
+2613,Closed,No Charge Support,Request for Fulfillment,2-High,41912.00,42033.00,USD ,Asia-Pacific,India
+2614,Closed,No Charge Support,Request for Fulfillment,2-High,41912.00,42033.00,USD ,Asia-Pacific,India
+2615,Closed,No Charge Support,Request for Fulfillment,2-High,41912.00,42033.00,USD ,Asia-Pacific,India
+2654,Closed,Project,Problem,2-High,41962.00,42033.00,Oper,Asia-Pacific,Korea South
+2655,Closed,Project,Problem,2-High,41962.00,42033.00,Oper,Asia-Pacific,Korea South
+2656,Closed,Project,Problem,2-High,41962.00,42033.00,Oper,Asia-Pacific,Korea South
+2657,Closed,Project,Problem,2-High,41962.00,42033.00,Oper,Asia-Pacific,Korea South
+2663,Closed,Project,Problem,2-High,41969.00,42033.00,USD ,Asia-Pacific,India
+2664,Closed,Project,Problem,2-High,41969.00,42033.00,USD ,Asia-Pacific,India
+2711,Closed,Project,Problem,2-High,41981.00,42033.00,USD ,Asia-Pacific,India
+2712,Closed,Project,Problem,2-High,41981.00,42033.00,USD ,Asia-Pacific,India
+2713,Closed,Project,Problem,2-High,41981.00,42033.00,USD ,Asia-Pacific,India
+2714,Closed,Project,Problem,2-High,41981.00,42033.00,USD ,Asia-Pacific,India
+2715,Closed,Project,Problem,2-High,41981.00,42033.00,USD ,Asia-Pacific,India
+2716,Closed,Project,Problem,2-High,41981.00,42033.00,USD ,Asia-Pacific,India
+2762,Closed,No Charge Support,Incident,2-High,41997.00,42033.00,USD ,Asia-Pacific,India
+2763,Closed,No Charge Support,Incident,2-High,41997.00,42033.00,USD ,Asia-Pacific,India
+2786,Closed,Project,Problem,2-High,42013.00,42033.00,Oper,Asia-Pacific,Australia
+2787,Closed,Project,Problem,2-High,42013.00,42033.00,Oper,Asia-Pacific,Australia
+2803,Closed,No Charge Support,Request for Fulfillment,3-Medium,42032.00,42033.00,USD ,Asia-Pacific,Japan
+2804,Closed,No Charge Support,Request for Fulfillment,3-Medium,42032.00,42033.00,USD ,Asia-Pacific,Japan
+2805,Closed,No Charge Support,Request for Fulfillment,3-Medium,42032.00,42033.00,USD ,Asia-Pacific,Japan
+1539,Closed,No Charge Support,Incident,1-Critical,41897.00,42034.00,Busi,Asia-Pacific,India
+1540,Closed,No Charge Support,Incident,1-Critical,41897.00,42034.00,Busi,Asia-Pacific,India
+2175,Closed,No Charge Support,Incident,1-Critical,41897.00,42034.00,Busi,Asia-Pacific,India
+2176,Closed,No Charge Support,Incident,1-Critical,41897.00,42034.00,Busi,Asia-Pacific,India
+2177,Closed,No Charge Support,Incident,1-Critical,41897.00,42034.00,Busi,Asia-Pacific,India
+2677,Closed,No Charge Support,Problem,1-Critical,41976.00,42034.00,USD ,Asia-Pacific,Indonesia
+2678,Closed,No Charge Support,Problem,1-Critical,41976.00,42034.00,USD ,Asia-Pacific,Indonesia
+2679,Closed,No Charge Support,Problem,1-Critical,41976.00,42034.00,USD ,Asia-Pacific,Indonesia
+2680,Closed,No Charge Support,Problem,1-Critical,41976.00,42034.00,USD ,Asia-Pacific,Indonesia
+2681,Closed,No Charge Support,Problem,1-Critical,41976.00,42034.00,USD ,Asia-Pacific,Indonesia
+2682,Closed,No Charge Support,Problem,1-Critical,41976.00,42034.00,USD ,Asia-Pacific,Indonesia
+2683,Closed,No Charge Support,Problem,1-Critical,41976.00,42034.00,USD ,Asia-Pacific,Indonesia
+2684,Closed,No Charge Support,Problem,1-Critical,41976.00,42034.00,USD ,Asia-Pacific,Indonesia
+1960,Closed,No Charge Support,Incident,3-Medium,42033.00,42036.00,USD ,Asia-Pacific,India
+1554,Closed,Project,Incident,4-Low,41814.00,42037.00,Unsp,Asia-Pacific,Australia
+1955,Closed,No Charge Support,Incident,2-High,42037.00,42037.00,USD ,Asia-Pacific,India
+1978,Closed,Project,Incident,2-High,42025.00,42037.00,USD ,Asia-Pacific,Korea South
+1981,Closed,Project,Incident,2-High,42025.00,42037.00,USD ,Asia-Pacific,Korea South
+1991,Closed,Project,Incident,3-Medium,42013.00,42037.00,Blen,Asia-Pacific,India
+2618,Closed,Project,Problem,2-High,41925.00,42037.00,USD ,Asia-Pacific,India
+2695,Closed,Project,Problem,2-High,41978.00,42037.00,Oper,Asia-Pacific,India
+2696,Closed,Project,Problem,2-High,41978.00,42037.00,Oper,Asia-Pacific,India
+2995,Closed,Contract,Request for Fulfillment,3-Medium,42016.00,42037.00,AAM ,Asia-Pacific,Singapore
+1048,Closed,Project,Incident,3-Medium,41852.00,42038.00,APC ,Asia-Pacific,India
+1049,Closed,Project,Incident,3-Medium,41852.00,42038.00,APC ,Asia-Pacific,India
+1050,Closed,Project,Incident,3-Medium,41852.00,42038.00,APC ,Asia-Pacific,India
+1051,Closed,Project,Incident,3-Medium,41852.00,42038.00,APC ,Asia-Pacific,India
+1052,Closed,Project,Incident,3-Medium,41852.00,42038.00,APC ,Asia-Pacific,India
+1134,Closed,Project,Incident,3-Medium,42009.00,42038.00,APC ,Asia-Pacific,Australia
+1427,Closed,Project,Incident,4-Low,42032.00,42038.00,Oper,Asia-Pacific,Taiwan
+1553,Closed,Project,Incident,3-Medium,41838.00,42038.00,Busi,Asia-Pacific,Australia
+1563,Closed,Contract,Incident,2-High,41718.00,42038.00,Busi,Asia-Pacific,Singapore
+1933,Closed,Project,Problem,3-Medium,42016.00,42038.00,Unsp,Asia-Pacific,Australia
+2757,Closed,No Charge Support,Request for Fulfillment,3-Medium,41990.00,42038.00,USD ,Asia-Pacific,Australia
+2758,Closed,No Charge Support,Request for Fulfillment,3-Medium,41990.00,42038.00,USD ,Asia-Pacific,Australia
+2759,Closed,No Charge Support,Request for Fulfillment,3-Medium,41990.00,42038.00,USD ,Asia-Pacific,Australia
+2760,Closed,No Charge Support,Request for Fulfillment,3-Medium,41990.00,42038.00,USD ,Asia-Pacific,Australia
+2806,Closed,No Charge Support,Request for Fulfillment,3-Medium,42032.00,42038.00,USD ,Asia-Pacific,Korea South
+2807,Closed,No Charge Support,Request for Fulfillment,3-Medium,42032.00,42038.00,USD ,Asia-Pacific,Korea South
+2808,Closed,Project,Incident,2-High,42037.00,42038.00,Oper,Asia-Pacific,Bangladesh
+2809,Closed,Project,Incident,2-High,42037.00,42038.00,Oper,Asia-Pacific,Bangladesh
+1073,Closed,Project,Incident,3-Medium,41912.00,42039.00,APC ,Asia-Pacific,Australia
+1074,Closed,Project,Incident,3-Medium,41912.00,42039.00,APC ,Asia-Pacific,Australia
+1075,Closed,Project,Incident,3-Medium,41912.00,42039.00,APC ,Asia-Pacific,Australia
+1136,Closed,Project,Incident,2-High,42034.00,42039.00,APC ,Asia-Pacific,Japan
+1777,Closed,Contract,Incident,2-High,42010.00,42039.00,Busi,Asia-Pacific,Australia
+1948,Closed,No Charge Support,Incident,2-High,42039.00,42039.00,USD ,Asia-Pacific,India
+1949,Closed,No Charge Support,Incident,2-High,42038.00,42039.00,USD ,Asia-Pacific,Japan
+1950,Closed,No Charge Support,Incident,2-High,42038.00,42039.00,USD ,Asia-Pacific,Japan
+1951,Closed,No Charge Support,Incident,2-High,42038.00,42039.00,USD ,Asia-Pacific,Japan
+1956,Closed,No Charge Support,Incident,3-Medium,42034.00,42039.00,USD ,Asia-Pacific,Singapore
+1957,Closed,No Charge Support,Incident,3-Medium,42034.00,42039.00,USD ,Asia-Pacific,Singapore
+1959,Closed,No Charge Support,Incident,3-Medium,42034.00,42039.00,USD ,Asia-Pacific,Singapore
+1961,Closed,No Charge Support,Incident,2-High,42033.00,42039.00,USD ,Asia-Pacific,Indonesia
+1962,Closed,No Charge Support,Incident,2-High,42033.00,42039.00,USD ,Asia-Pacific,Indonesia
+1967,Closed,No Charge Support,Incident,2-High,42033.00,42039.00,USD ,Asia-Pacific,Indonesia
+1970,Closed,No Charge Support,Incident,2-High,42033.00,42039.00,USD ,Asia-Pacific,Indonesia
+1971,Closed,No Charge Support,Incident,2-High,42033.00,42039.00,USD ,Asia-Pacific,Indonesia
+2075,Closed,Project,Incident,2-High,41985.00,42039.00,USD ,Asia-Pacific,India
+2077,Closed,Project,Incident,2-High,41985.00,42039.00,USD ,Asia-Pacific,India
+2588,Closed,Contract,Incident,1-Critical,42039.00,42039.00,Unsp,Asia-Pacific,India
+2706,Closed,Project,Problem,2-High,41981.00,42039.00,USD ,Asia-Pacific,Japan
+2707,Closed,Project,Problem,2-High,41981.00,42039.00,USD ,Asia-Pacific,Japan
+2708,Closed,Project,Problem,2-High,41981.00,42039.00,USD ,Asia-Pacific,Japan
+2709,Closed,Project,Problem,2-High,41981.00,42039.00,USD ,Asia-Pacific,Japan
+2710,Closed,Project,Problem,2-High,41981.00,42039.00,USD ,Asia-Pacific,Japan
+2810,Closed,Project,Problem,4-Low,42039.00,42039.00,USD ,Asia-Pacific,India
+1487,Closed,No Charge Support,Incident,2-High,42039.00,42040.00,Busi,Asia-Pacific,India
+1488,Closed,No Charge Support,Incident,2-High,42038.00,42040.00,Busi,Asia-Pacific,India
+1586,Closed,Contract,Incident,1-Critical,42033.00,42041.00,Busi,Asia-Pacific,India
+2253,Closed,Contract,Incident,1-Critical,42033.00,42041.00,Busi,Asia-Pacific,India
+2596,Closed,Contract,Incident,3-Medium,42010.00,42044.00,Busi,Asia-Pacific,India
+1592,Closed,Project,Incident,3-Medium,41998.00,42045.00,AAM ,Asia-Pacific,Japan
+1784,Closed,Project,Incident,3-Medium,42038.00,42045.00,Unsp,Asia-Pacific,Indonesia
+1944,Closed,No Charge Support,Incident,2-High,42041.00,42045.00,USD ,Asia-Pacific,Australia
+1946,Closed,No Charge Support,Incident,2-High,42041.00,42045.00,USD ,Asia-Pacific,Australia
+1140,Closed,Contract,Incident,3-Medium,42039.00,42046.00,APC ,Asia-Pacific,New Zealand
+1738,Closed,Contract,Incident,3-Medium,41918.00,42046.00,PHD ,Asia-Pacific,New Zealand
+1781,Closed,Contract,Problem,3-Medium,42018.00,42046.00,PHD ,Asia-Pacific,Australia
+1942,Closed,No Charge Support,Incident,3-Medium,42046.00,42046.00,USD ,Asia-Pacific,India
+1943,Closed,No Charge Support,Incident,3-Medium,42046.00,42046.00,USD ,Asia-Pacific,India
+2301,Closed,Project,Incident,3-Medium,41954.00,42046.00,Busi,Asia-Pacific,Australia
+2302,Closed,Project,Incident,3-Medium,41954.00,42046.00,Busi,Asia-Pacific,Australia
+2795,Closed,No Charge Support,Request for Fulfillment,3-Medium,42027.00,42046.00,Oper,Asia-Pacific,Singapore
+2796,Closed,No Charge Support,Request for Fulfillment,3-Medium,42027.00,42046.00,Oper,Asia-Pacific,Singapore
+2797,Closed,No Charge Support,Request for Fulfillment,3-Medium,42027.00,42046.00,Oper,Asia-Pacific,Singapore
+1757,Closed,Project,Incident,3-Medium,42031.00,42047.00,PHD ,Asia-Pacific,China
+2347,Closed,Project,Incident,3-Medium,41886.00,42047.00,Unsp,Asia-Pacific,China
+3001,Closed,Contract,Incident,3-Medium,42044.00,42047.00,AAM ,Asia-Pacific,Singapore
+1773,Closed,Project,Problem,2-High,42013.00,42048.00,PHD ,Asia-Pacific,Australia
+1251,Closed,Project,Problem,2-High,41957.00,42051.00,Oper,Asia-Pacific,China
+1252,Closed,Project,Problem,2-High,41957.00,42051.00,Oper,Asia-Pacific,China
+1257,Closed,Project,Problem,2-High,41977.00,42051.00,Oper,Asia-Pacific,Indonesia
+1387,Closed,Project,Problem,2-High,41957.00,42051.00,Oper,Asia-Pacific,China
+2622,Closed,Project,Problem,2-High,41926.00,42051.00,Oper,Asia-Pacific,China
+2642,Closed,Project,Problem,2-High,41944.00,42051.00,Oper,Asia-Pacific,India
+2643,Closed,Project,Problem,2-High,41944.00,42051.00,Oper,Asia-Pacific,India
+2704,Closed,Project,Problem,2-High,41981.00,42051.00,USD ,Asia-Pacific,India
+2705,Closed,Project,Problem,2-High,41981.00,42051.00,USD ,Asia-Pacific,India
+2775,Closed,Project,Problem,2-High,42010.00,42051.00,Oper,Asia-Pacific,Australia
+1135,Closed,Project,Incident,2-High,42019.00,42053.00,APC ,Asia-Pacific,India
+1138,Closed,Project,Problem,3-Medium,42039.00,42053.00,APC ,Asia-Pacific,Korea South
+1139,Closed,Project,Problem,3-Medium,42039.00,42053.00,APC ,Asia-Pacific,Korea South
+1235,Closed,Project,Incident,4-Low,42046.00,42053.00,USD ,Asia-Pacific,India
+1236,Closed,Project,Incident,4-Low,42046.00,42053.00,USD ,Asia-Pacific,India
+1485,Closed,No Charge Support,Incident,1-Critical,42047.00,42053.00,Busi,Asia-Pacific,India
+2243,Closed,No Charge Support,Incident,1-Critical,42047.00,42053.00,Busi,Asia-Pacific,India
+1327,Closed,Project,Problem,3-Medium,41918.00,42054.00,USD ,Asia-Pacific,India
+1337,Closed,Project,Problem,3-Medium,41918.00,42054.00,USD ,Asia-Pacific,India
+1338,Closed,Project,Problem,3-Medium,41918.00,42054.00,USD ,Asia-Pacific,India
+1339,Closed,Project,Problem,3-Medium,41918.00,42054.00,USD ,Asia-Pacific,India
+1340,Closed,Project,Problem,3-Medium,41918.00,42054.00,USD ,Asia-Pacific,India
+1341,Closed,Project,Problem,3-Medium,41918.00,42054.00,USD ,Asia-Pacific,India
+1369,Closed,Project,Problem,3-Medium,41955.00,42054.00,USD ,Asia-Pacific,China
+1370,Closed,Project,Problem,3-Medium,41955.00,42054.00,USD ,Asia-Pacific,China
+1371,Closed,Project,Problem,3-Medium,41955.00,42054.00,USD ,Asia-Pacific,China
+1372,Closed,Project,Incident,3-Medium,41955.00,42054.00,Oper,Asia-Pacific,Malaysia
+1373,Closed,Project,Incident,3-Medium,41955.00,42054.00,Oper,Asia-Pacific,Malaysia
+1374,Closed,Project,Incident,3-Medium,41955.00,42054.00,Oper,Asia-Pacific,Malaysia
+1375,Closed,Project,Incident,3-Medium,41955.00,42054.00,Oper,Asia-Pacific,Malaysia
+1379,Closed,Project,Problem,3-Medium,41955.00,42054.00,Oper,Asia-Pacific,China
+1380,Closed,Project,Problem,3-Medium,41955.00,42054.00,Oper,Asia-Pacific,China
+1463,Closed,No Charge Support,Incident,3-Medium,42033.00,42054.00,Unsp,Asia-Pacific,India
+1464,Closed,No Charge Support,Incident,3-Medium,42033.00,42054.00,Unsp,Asia-Pacific,India
+1465,Closed,No Charge Support,Incident,3-Medium,42033.00,42054.00,Unsp,Asia-Pacific,India
+2100,Closed,Project,Problem,3-Medium,41918.00,42054.00,USD ,Asia-Pacific,India
+2617,Closed,Project,Problem,3-Medium,41918.00,42054.00,USD ,Asia-Pacific,India
+1480,Closed,No Charge Support,Incident,2-High,42054.00,42058.00,Busi,Asia-Pacific,India
+1483,Closed,Contract,Incident,3-Medium,42052.00,42058.00,Busi,Asia-Pacific,India
+1696,Closed,Contract,Incident,2-High,41870.00,42058.00,PHD ,Asia-Pacific,Japan
+1748,Closed,Contract,Problem,3-Medium,41927.00,42058.00,PHD ,Asia-Pacific,Papua New Guinea
+1764,Closed,Contract,Incident,3-Medium,42017.00,42058.00,PHD ,Asia-Pacific,Japan
+1767,Closed,Contract,Problem,2-High,41962.00,42058.00,PHD ,Asia-Pacific,Japan
+2160,Closed,Contract,Incident,4-Low,41985.00,42058.00,Busi,Asia-Pacific,Australia
+2183,Closed,Contract,Incident,3-Medium,41878.00,42058.00,Busi,Asia-Pacific,Australia
+2267,Closed,Contract,Incident,4-Low,41985.00,42058.00,Busi,Asia-Pacific,Australia
+2514,Closed,Contract,Incident,3-Medium,42052.00,42058.00,Busi,Asia-Pacific,India
+2515,Closed,Contract,Incident,3-Medium,42052.00,42058.00,Busi,Asia-Pacific,India
+1292,Closed,Project,Incident,4-Low,42052.00,42059.00,Oper,Asia-Pacific,Australia
+1293,Closed,Project,Incident,4-Low,42052.00,42059.00,Oper,Asia-Pacific,Australia
+1295,Closed,Project,Incident,4-Low,42052.00,42059.00,Oper,Asia-Pacific,Australia
+1583,Closed,Project,Incident,2-High,41957.00,42059.00,AAM ,Asia-Pacific,Australia
+1388,Closed,Project,Incident,2-High,41985.00,42060.00,USD ,Asia-Pacific,India
+1389,Closed,Project,Incident,2-High,41985.00,42060.00,USD ,Asia-Pacific,India
+1393,Closed,Project,Incident,3-Medium,41981.00,42060.00,USD ,Asia-Pacific,China
+1394,Closed,Project,Incident,3-Medium,41981.00,42060.00,USD ,Asia-Pacific,China
+1395,Closed,Project,Incident,3-Medium,41981.00,42060.00,USD ,Asia-Pacific,China
+1396,Closed,Project,Incident,3-Medium,41981.00,42060.00,USD ,Asia-Pacific,China
+1397,Closed,Project,Incident,3-Medium,41981.00,42060.00,USD ,Asia-Pacific,China
+1398,Closed,Project,Incident,3-Medium,41981.00,42060.00,USD ,Asia-Pacific,China
+1749,Closed,Contract,Problem,3-Medium,42037.00,42060.00,PHD ,Asia-Pacific,Australia
+1285,Closed,Project,Incident,3-Medium,42060.00,42061.00,Oper,Asia-Pacific,India
+1286,Closed,Project,Incident,3-Medium,42060.00,42061.00,Oper,Asia-Pacific,India
+1287,Closed,Project,Incident,3-Medium,42060.00,42061.00,Oper,Asia-Pacific,India
+1288,Closed,Project,Incident,3-Medium,42060.00,42061.00,Oper,Asia-Pacific,India
+1289,Closed,Project,Incident,3-Medium,42060.00,42061.00,Oper,Asia-Pacific,India
+2946,Closed,Billable,Incident,3-Medium,42030.00,42061.00,DynA,Asia-Pacific,Malaysia
+1237,Closed,Project,Problem,3-Medium,42011.00,42062.00,USD ,Asia-Pacific,India
+1386,Closed,Project,Problem,3-Medium,42011.00,42062.00,USD ,Asia-Pacific,India
+1446,Closed,Project,Problem,3-Medium,42011.00,42062.00,USD ,Asia-Pacific,India
+1447,Closed,Project,Problem,3-Medium,42011.00,42062.00,USD ,Asia-Pacific,India
+1448,Closed,Project,Problem,3-Medium,42011.00,42062.00,USD ,Asia-Pacific,India
+1449,Closed,Project,Problem,3-Medium,42011.00,42062.00,USD ,Asia-Pacific,India
+1450,Closed,Project,Problem,3-Medium,42011.00,42062.00,USD ,Asia-Pacific,India
+1451,Closed,Project,Problem,3-Medium,42011.00,42062.00,USD ,Asia-Pacific,India
+1511,Closed,Project,Problem,3-Medium,41965.00,42062.00,Busi,Asia-Pacific,China
+1747,Closed,Contract,Problem,2-High,42038.00,42062.00,PHD ,Asia-Pacific,Papua New Guinea
+1940,Closed,No Charge Support,Incident,2-High,42062.00,42062.00,USD ,Asia-Pacific,India
+2242,Closed,Contract,Incident,3-Medium,42062.00,42062.00,Busi,Asia-Pacific,India
+2516,Closed,Contract,Problem,3-Medium,42052.00,42062.00,Busi,Asia-Pacific,India
+2852,Closed,No Charge Support,Incident,2-High,42047.00,42062.00,Blen,Asia-Pacific,India
+1085,Closed,Contract,Problem,2-High,41934.00,42065.00,APC ,Asia-Pacific,Australia
+1137,Closed,Project,Incident,2-High,42038.00,42065.00,APC ,Asia-Pacific,India
+1296,Closed,Project,Incident,3-Medium,42051.00,42065.00,Oper,Asia-Pacific,China
+1297,Closed,Project,Incident,3-Medium,42051.00,42065.00,Oper,Asia-Pacific,China
+1298,Closed,Project,Incident,3-Medium,42051.00,42065.00,Oper,Asia-Pacific,China
+1299,Closed,Project,Incident,3-Medium,42051.00,42065.00,Oper,Asia-Pacific,China
+1300,Closed,Project,Incident,3-Medium,42051.00,42065.00,Oper,Asia-Pacific,China
+1301,Closed,Project,Incident,3-Medium,42051.00,42065.00,Oper,Asia-Pacific,China
+1302,Closed,Project,Incident,3-Medium,42051.00,42065.00,Oper,Asia-Pacific,China
+1588,Closed,Contract,Request for Fulfillment,3-Medium,41970.00,42065.00,Unsp,Asia-Pacific,Singapore
+1479,Closed,Contract,Incident,2-High,42055.00,42066.00,Busi,Asia-Pacific,India
+1779,Closed,Contract,Request for Fulfillment,2-High,42018.00,42066.00,PHD ,Asia-Pacific,Australia
+1793,Closed,Contract,Problem,2-High,41953.00,42066.00,Busi,Asia-Pacific,Australia
+2066,Closed,Contract,Incident,2-High,42055.00,42066.00,Busi,Asia-Pacific,India
+2162,Closed,Contract,Problem,2-High,41953.00,42066.00,Busi,Asia-Pacific,Australia
+2249,Closed,Contract,Problem,3-Medium,42041.00,42066.00,Busi,Asia-Pacific,India
+2251,Closed,Contract,Problem,2-High,42039.00,42066.00,Busi,Asia-Pacific,India
+2256,Closed,Contract,Incident,3-Medium,42004.00,42066.00,Busi,Asia-Pacific,India
+2300,Closed,Project,Incident,2-High,41955.00,42066.00,Busi,Asia-Pacific,India
+2358,Closed,Contract,Incident,2-High,41873.00,42066.00,Busi,Asia-Pacific,India
+2381,Closed,Project,Problem,3-Medium,41764.00,42066.00,Unsp,Asia-Pacific,India
+2386,Closed,Contract,Incident,2-High,41718.00,42066.00,Busi,Asia-Pacific,India
+2518,Closed,Contract,Incident,3-Medium,42010.00,42066.00,Busi,Asia-Pacific,India
+2630,Closed,Contract,Incident,3-Medium,42010.00,42066.00,Busi,Asia-Pacific,India
+2673,Closed,Billable,Incident,3-Medium,41922.00,42066.00,Busi,Asia-Pacific,India
+1562,Closed,Project,Incident,3-Medium,41736.00,42067.00,Busi,Asia-Pacific,Australia
+2327,Closed,Contract,Problem,2-High,41927.00,42067.00,AAM ,Asia-Pacific,India
+3012,Closed,Project,Incident,3-Medium,42061.00,42067.00,AAM ,Asia-Pacific,Taiwan
+1498,Closed,Project,Incident,4-Low,42019.00,42068.00,Busi,Asia-Pacific,Australia
+1665,Closed,Billable,Incident,3-Medium,42051.00,42069.00,Proc,Asia-Pacific,Malaysia
+1939,Closed,No Charge Support,Incident,2-High,42069.00,42069.00,USD ,Asia-Pacific,Japan
+2947,Closed,Billable,Request for Fulfillment,3-Medium,42025.00,42069.00,DynA,Asia-Pacific,China
+3014,Closed,Project,Incident,2-High,42068.00,42069.00,AAM ,Asia-Pacific,India
+2320,Closed,Contract,Problem,4-Low,41940.00,42072.00,Busi,Asia-Pacific,India
+3000,Closed,Project,Incident,4-Low,42041.00,42072.00,Oper,Asia-Pacific,Taiwan
+1482,Closed,Project,Incident,3-Medium,42054.00,42073.00,Busi,Asia-Pacific,Australia
+1936,Closed,No Charge Support,Incident,2-High,42073.00,42073.00,USD ,Asia-Pacific,Singapore
+2580,Closed,Unverified,Request for Fulfillment,3-Medium,42073.00,42073.00,Busi,Asia-Pacific,India
+2581,Closed,Unverified,Request for Fulfillment,3-Medium,42073.00,42073.00,Busi,Asia-Pacific,India
+2659,Closed,Contract,Request for Fulfillment,3-Medium,41960.00,42073.00,Busi,Asia-Pacific,India
+3015,Closed,Project,Incident,3-Medium,42072.00,42073.00,AAM ,Asia-Pacific,Thailand
+1469,Closed,Project,Incident,3-Medium,42072.00,42074.00,Busi,Asia-Pacific,Australia
+1935,Closed,No Charge Support,Incident,3-Medium,42074.00,42074.00,USD ,Asia-Pacific,Korea South
+2036,Closed,No Charge Support,Incident,3-Medium,42031.00,42074.00,Blen,Asia-Pacific,Korea South
+2513,Closed,Contract,Problem,3-Medium,42073.00,42074.00,Busi,Asia-Pacific,India
+1228,Closed,Project,Incident,3-Medium,42062.00,42075.00,Oper,Asia-Pacific,India
+1229,Closed,Project,Incident,3-Medium,42062.00,42075.00,Oper,Asia-Pacific,India
+1230,Closed,Project,Incident,3-Medium,42062.00,42075.00,Oper,Asia-Pacific,India
+1233,Closed,Project,Incident,3-Medium,42046.00,42075.00,USD ,Asia-Pacific,India
+1385,Closed,Project,Incident,3-Medium,42046.00,42075.00,USD ,Asia-Pacific,India
+1746,Closed,Project,Incident,3-Medium,41926.00,42075.00,Unsp,Asia-Pacific,Singapore
+1751,Closed,Contract,Problem,2-High,42034.00,42075.00,PHD ,Asia-Pacific,Papua New Guinea
+1758,Closed,Project,Problem,3-Medium,41948.00,42075.00,Unsp,Asia-Pacific,Singapore
+1788,Closed,Project,Incident,3-Medium,41985.00,42075.00,PHD ,Asia-Pacific,Australia
+1792,Closed,Project,Incident,3-Medium,41961.00,42075.00,Unsp,Asia-Pacific,Singapore
+1930,Closed,No Charge Support,Incident,2-High,42075.00,42075.00,USD ,Asia-Pacific,India
+2252,Closed,Contract,Problem,3-Medium,42038.00,42075.00,Busi,Asia-Pacific,India
+2329,Closed,Contract,Incident,3-Medium,41927.00,42075.00,Busi,Asia-Pacific,India
+2349,Closed,Contract,Incident,4-Low,41884.00,42075.00,Busi,Asia-Pacific,India
+2576,Closed,Unverified,Problem,3-Medium,42074.00,42075.00,Busi,Asia-Pacific,India
+1270,Closed,Billable,Problem,3-Medium,41828.00,42076.00,Adva,Asia-Pacific,Malaysia
+1274,Closed,No Charge Support,Incident,3-Medium,41876.00,42076.00,Adva,Asia-Pacific,Malaysia
+1428,Closed,Billable,Incident,3-Medium,42031.00,42076.00,DynA,Asia-Pacific,Malaysia
+1561,Closed,Contract,Incident,3-Medium,41738.00,42076.00,Busi,Asia-Pacific,India
+1649,Closed,Project,Incident,3-Medium,41750.00,42076.00,PHD ,Asia-Pacific,Singapore
+1651,Closed,Project,Incident,3-Medium,41771.00,42076.00,PHD ,Asia-Pacific,Philippines
+1654,Closed,Project,Incident,3-Medium,41779.00,42076.00,PHD ,Asia-Pacific,India
+1675,Closed,Project,Request for Fulfillment,3-Medium,41838.00,42076.00,Unsp,Asia-Pacific,Indonesia
+1769,Closed,Project,Incident,3-Medium,41964.00,42076.00,Unsp,Asia-Pacific,Australia
+2037,Closed,Project,Incident,3-Medium,42061.00,42076.00,Blen,Asia-Pacific,India
+2038,Closed,Project,Incident,3-Medium,42061.00,42076.00,Blen,Asia-Pacific,India
+2039,Closed,Project,Incident,3-Medium,42061.00,42076.00,Blen,Asia-Pacific,India
+2853,Closed,Project,Incident,2-High,42061.00,42076.00,Blen,Asia-Pacific,India
+2914,Closed,No Charge Support,Incident,3-Medium,41876.00,42076.00,Adva,Asia-Pacific,Malaysia
+2945,Closed,Billable,Incident,3-Medium,42031.00,42076.00,DynA,Asia-Pacific,Malaysia
+2965,Closed,Project,Incident,3-Medium,41933.00,42076.00,AAM ,Asia-Pacific,China
+2966,Closed,Project,Incident,3-Medium,41933.00,42076.00,AAM ,Asia-Pacific,China
+1059,Closed,Project,Problem,2-High,41893.00,42079.00,APC ,Asia-Pacific,Australia
+1143,Closed,Contract,Incident,3-Medium,42058.00,42079.00,APC ,Asia-Pacific,Australia
+1381,Closed,No Charge Support,Incident,2-High,42054.00,42079.00,USD ,Asia-Pacific,China
+1382,Closed,No Charge Support,Incident,2-High,42054.00,42079.00,USD ,Asia-Pacific,China
+1383,Closed,No Charge Support,Incident,2-High,42054.00,42079.00,USD ,Asia-Pacific,China
+1384,Closed,No Charge Support,Incident,2-High,42054.00,42079.00,USD ,Asia-Pacific,China
+1613,Closed,Project,Incident,2-High,42076.00,42079.00,AAM ,Asia-Pacific,Singapore
+2332,Closed,Contract,Problem,3-Medium,41920.00,42079.00,Busi,Asia-Pacific,India
+2512,Closed,Contract,Problem,3-Medium,42075.00,42079.00,Busi,Asia-Pacific,India
+2582,Closed,Contract,Problem,3-Medium,42073.00,42079.00,Busi,Asia-Pacific,India
+1609,Closed,No Charge Support,Request for Fulfillment,2-High,42073.00,42080.00,AAM ,Asia-Pacific,Malaysia
+1734,Closed,Project,Incident,3-Medium,42075.00,42080.00,PHD ,Asia-Pacific,Japan
+1221,Closed,Project,Incident,3-Medium,42079.00,42081.00,Oper,Asia-Pacific,Korea South
+1222,Closed,Project,Incident,3-Medium,42079.00,42081.00,Oper,Asia-Pacific,Korea South
+1231,Closed,Project,Incident,3-Medium,42046.00,42081.00,USD ,Asia-Pacific,Japan
+1232,Closed,Project,Incident,3-Medium,42046.00,42081.00,USD ,Asia-Pacific,Japan
+1303,Closed,Project,Incident,3-Medium,42046.00,42081.00,USD ,Asia-Pacific,Japan
+1709,Closed,Project,Incident,3-Medium,41886.00,42081.00,PHD ,Asia-Pacific,Thailand
+1725,Closed,Project,Incident,3-Medium,41911.00,42081.00,Unsp,Asia-Pacific,Singapore
+1790,Closed,Contract,Request for Fulfillment,3-Medium,41982.00,42081.00,PHD ,Asia-Pacific,Singapore
+1927,Closed,No Charge Support,Incident,3-Medium,42081.00,42081.00,USD ,Asia-Pacific,Korea South
+1928,Closed,No Charge Support,Incident,2-High,42081.00,42081.00,USD ,Asia-Pacific,India
+1929,Closed,No Charge Support,Incident,2-High,42081.00,42081.00,USD ,Asia-Pacific,India
+2009,Closed,No Charge Support,Incident,1-Critical,42074.00,42081.00,Busi,Asia-Pacific,India
+2157,Closed,Contract,Request for Fulfillment,3-Medium,42017.00,42081.00,Busi,Asia-Pacific,Australia
+2240,Closed,No Charge Support,Problem,3-Medium,42067.00,42081.00,Busi,Asia-Pacific,Australia
+1144,Closed,Contract,Incident,3-Medium,42061.00,42082.00,APC ,Asia-Pacific,Australia
+1224,Closed,Project,Incident,3-Medium,42072.00,42082.00,Oper,Asia-Pacific,Singapore
+1225,Closed,Project,Incident,3-Medium,42072.00,42082.00,Oper,Asia-Pacific,Singapore
+1423,Closed,Contract,Incident,3-Medium,42068.00,42082.00,DynA,Asia-Pacific,Japan
+1774,Closed,Project,Incident,2-High,41990.00,42082.00,PHD ,Asia-Pacific,India
+1923,Closed,No Charge Support,Incident,2-High,42082.00,42082.00,USD ,Asia-Pacific,Japan
+2067,Closed,Contract,Problem,3-Medium,42082.00,42082.00,Busi,Asia-Pacific,India
+2488,Closed,Contract,Problem,3-Medium,42082.00,42082.00,Busi,Asia-Pacific,India
+2489,Closed,Contract,Request for Fulfillment,3-Medium,42080.00,42082.00,Busi,Asia-Pacific,India
+2490,Closed,Contract,Request for Fulfillment,3-Medium,42076.00,42082.00,Busi,Asia-Pacific,India
+1924,Closed,No Charge Support,Incident,3-Medium,42081.00,42083.00,USD ,Asia-Pacific,India
+1925,Closed,No Charge Support,Incident,3-Medium,42081.00,42083.00,USD ,Asia-Pacific,India
+1147,Closed,Project,Incident,2-High,42068.00,42086.00,APC ,Asia-Pacific,India
+1158,Closed,Project,Incident,2-High,42082.00,42086.00,APC ,Asia-Pacific,India
+1560,Closed,Project,Incident,3-Medium,41739.00,42086.00,Busi,Asia-Pacific,Singapore
+2314,Closed,Project,Incident,2-High,41764.00,42086.00,Oper,Asia-Pacific,Bangladesh
+2315,Closed,Project,Incident,2-High,41764.00,42086.00,Oper,Asia-Pacific,Bangladesh
+2316,Closed,Project,Incident,2-High,41764.00,42086.00,Oper,Asia-Pacific,Bangladesh
+2337,Closed,Project,Problem,2-High,41766.00,42086.00,Oper,Asia-Pacific,Bangladesh
+2504,Closed,Project,Problem,2-High,41850.00,42086.00,USD ,Asia-Pacific,India
+2505,Closed,Project,Problem,2-High,41850.00,42086.00,USD ,Asia-Pacific,India
+2506,Closed,Project,Problem,2-High,41850.00,42086.00,USD ,Asia-Pacific,India
+2734,Closed,No Charge Support,Incident,3-Medium,41984.00,42086.00,USD ,Asia-Pacific,Indonesia
+2735,Closed,No Charge Support,Incident,3-Medium,41984.00,42086.00,USD ,Asia-Pacific,Indonesia
+2736,Closed,No Charge Support,Incident,3-Medium,41984.00,42086.00,USD ,Asia-Pacific,Indonesia
+2737,Closed,No Charge Support,Incident,3-Medium,41984.00,42086.00,USD ,Asia-Pacific,Indonesia
+2738,Closed,No Charge Support,Incident,3-Medium,41984.00,42086.00,USD ,Asia-Pacific,Indonesia
+2739,Closed,No Charge Support,Incident,3-Medium,41984.00,42086.00,USD ,Asia-Pacific,Indonesia
+2740,Closed,No Charge Support,Incident,3-Medium,41984.00,42086.00,USD ,Asia-Pacific,Indonesia
+2741,Closed,No Charge Support,Incident,3-Medium,41984.00,42086.00,USD ,Asia-Pacific,Indonesia
+2742,Closed,No Charge Support,Incident,3-Medium,41984.00,42086.00,USD ,Asia-Pacific,Indonesia
+2788,Closed,Project,Problem,3-Medium,42024.00,42086.00,USD ,Asia-Pacific,India
+2789,Closed,Project,Problem,3-Medium,42024.00,42086.00,USD ,Asia-Pacific,India
+2790,Closed,Project,Problem,3-Medium,42024.00,42086.00,USD ,Asia-Pacific,India
+2791,Closed,Project,Problem,3-Medium,42024.00,42086.00,USD ,Asia-Pacific,India
+2792,Closed,Project,Problem,3-Medium,42024.00,42086.00,USD ,Asia-Pacific,India
+2794,Closed,No Charge Support,Request for Fulfillment,2-High,42027.00,42086.00,USD ,Asia-Pacific,Malaysia
+3002,Closed,Contract,Problem,3-Medium,42045.00,42086.00,AAM ,Asia-Pacific,Papua New Guinea
+1145,Closed,Contract,Incident,2-High,42066.00,42087.00,APC ,Asia-Pacific,Australia
+1146,Closed,Contract,Incident,2-High,42066.00,42087.00,APC ,Asia-Pacific,Australia
+1148,Closed,Contract,Incident,3-Medium,42075.00,42087.00,APC ,Asia-Pacific,Australia
+1149,Closed,Contract,Incident,3-Medium,42075.00,42087.00,APC ,Asia-Pacific,Australia
+1150,Closed,Contract,Incident,3-Medium,42075.00,42087.00,APC ,Asia-Pacific,Australia
+1151,Closed,Contract,Problem,3-Medium,42079.00,42087.00,APC ,Asia-Pacific,Australia
+1152,Closed,Contract,Problem,3-Medium,42079.00,42087.00,APC ,Asia-Pacific,Australia
+1217,Closed,Project,Problem,4-Low,42087.00,42087.00,Oper,Asia-Pacific,Unspecified
+1425,Closed,Contract,Incident,3-Medium,42062.00,42087.00,DynA,Asia-Pacific,Japan
+1486,Closed,Project,Problem,3-Medium,42045.00,42087.00,Busi,Asia-Pacific,Australia
+1506,Closed,Project,Incident,2-High,41981.00,42087.00,Unsp,Asia-Pacific,India
+1922,Closed,No Charge Support,Incident,2-High,42087.00,42087.00,USD ,Asia-Pacific,Australia
+2800,Closed,No Charge Support,Incident,3-Medium,42032.00,42087.00,USD ,Asia-Pacific,Brunei Darussalam
+1752,Closed,No Charge Support,Problem,2-High,42031.00,42088.00,PHD ,Asia-Pacific,Japan
+2341,Closed,Contract,Incident,3-Medium,41920.00,42088.00,Busi,Asia-Pacific,India
+2720,Closed,Contract,Incident,3-Medium,41920.00,42088.00,Busi,Asia-Pacific,India
+2578,Closed,No Charge Support,Problem,3-Medium,41900.00,42090.00,USD ,Asia-Pacific,India
+2579,Closed,No Charge Support,Problem,3-Medium,41900.00,42090.00,USD ,Asia-Pacific,India
+2589,Closed,Contract,Incident,3-Medium,42024.00,42090.00,Busi,Asia-Pacific,India
+2726,Closed,No Charge Support,Incident,3-Medium,41983.00,42090.00,USD ,Asia-Pacific,India
+1627,Closed,No Charge Support,Problem,3-Medium,42068.00,42093.00,Proc,Asia-Pacific,Taiwan
+1791,Closed,Project,Incident,3-Medium,41974.00,42093.00,PHD ,Asia-Pacific,Australia
+3011,Closed,Contract,Request for Fulfillment,3-Medium,42088.00,42093.00,Unsp,Asia-Pacific,Singapore
+2813,Closed,Project,Problem,3-Medium,42094.00,42094.00,Oper,Asia-Pacific,India
+1290,Closed,Project,Problem,2-High,42057.00,42095.00,Adva,Asia-Pacific,Korea South
+3003,Closed,Contract,Problem,3-Medium,42045.00,42095.00,AAM ,Asia-Pacific,Papua New Guinea
+1168,Closed,Project,Incident,3-Medium,42094.00,42096.00,APC ,Asia-Pacific,Singapore
+1283,Closed,Project,Request for Fulfillment,3-Medium,42096.00,42096.00,Oper,Asia-Pacific,Japan
+1284,Closed,Project,Request for Fulfillment,3-Medium,42096.00,42096.00,Oper,Asia-Pacific,Japan
+1919,Closed,No Charge Support,Incident,2-High,42096.00,42096.00,Oper,Asia-Pacific,Unspecified
+1921,Closed,No Charge Support,Incident,2-High,42096.00,42096.00,USD ,Asia-Pacific,Malaysia
+1164,Closed,Contract,Problem,3-Medium,42087.00,42097.00,APC ,Asia-Pacific,Australia
+1277,Closed,Project,Request for Fulfillment,3-Medium,41918.00,42097.00,Adva,Asia-Pacific,Korea South
+1291,Closed,Contract,Incident,4-Low,42068.00,42097.00,Adva,Asia-Pacific,Japan
+2854,Closed,Project,Incident,4-Low,42073.00,42097.00,Blen,Asia-Pacific,India
+2004,Closed,No Charge Support,Incident,2-High,42020.00,42100.00,Busi,Asia-Pacific,India
+2011,Closed,Contract,Incident,1-Critical,42097.00,42100.00,Busi,Asia-Pacific,India
+2111,Closed,Project,Incident,4-Low,42097.00,42100.00,Unsp,Asia-Pacific,India
+2230,Closed,Project,Problem,3-Medium,42089.00,42100.00,Busi,Asia-Pacific,Singapore
+2231,Closed,Project,Problem,3-Medium,42087.00,42100.00,Busi,Asia-Pacific,Singapore
+1218,Closed,Project,Incident,3-Medium,42083.00,42101.00,Oper,Asia-Pacific,India
+1219,Closed,Project,Incident,3-Medium,42083.00,42101.00,Oper,Asia-Pacific,India
+1220,Closed,Project,Incident,3-Medium,42083.00,42101.00,Oper,Asia-Pacific,India
+1223,Closed,Project,Incident,3-Medium,42074.00,42101.00,USD ,Asia-Pacific,India
+1280,Closed,No Charge Support,Problem,3-Medium,42096.00,42101.00,Unsp,Asia-Pacific,India
+1281,Closed,No Charge Support,Problem,3-Medium,42096.00,42101.00,Unsp,Asia-Pacific,India
+1282,Closed,No Charge Support,Problem,3-Medium,42096.00,42101.00,Unsp,Asia-Pacific,India
+1368,Closed,Project,Problem,3-Medium,42073.00,42101.00,USD ,Asia-Pacific,Japan
+1377,Closed,Project,Problem,3-Medium,42073.00,42101.00,USD ,Asia-Pacific,Japan
+1378,Closed,Project,Problem,3-Medium,42073.00,42101.00,USD ,Asia-Pacific,Japan
+1399,Closed,Project,Problem,3-Medium,41950.00,42101.00,USD ,Asia-Pacific,India
+1426,Closed,Project,Incident,4-Low,42041.00,42101.00,Oper,Asia-Pacific,Taiwan
+1452,Closed,Project,Problem,3-Medium,42013.00,42101.00,USD ,Asia-Pacific,India
+1453,Closed,Project,Problem,3-Medium,42013.00,42101.00,USD ,Asia-Pacific,India
+1454,Closed,Project,Problem,3-Medium,42013.00,42101.00,USD ,Asia-Pacific,India
+1455,Closed,Project,Problem,3-Medium,42013.00,42101.00,USD ,Asia-Pacific,India
+1474,Closed,Project,Incident,3-Medium,42074.00,42101.00,USD ,Asia-Pacific,India
+1475,Closed,Project,Incident,3-Medium,42074.00,42101.00,USD ,Asia-Pacific,India
+1476,Closed,Project,Incident,3-Medium,42074.00,42101.00,USD ,Asia-Pacific,India
+1726,Closed,Project,Problem,1-Critical,42096.00,42101.00,PHD ,Asia-Pacific,Korea South
+1418,Closed,No Charge Support,Incident,4-Low,42096.00,42102.00,DynA,Asia-Pacific,China
+1580,Closed,Contract,Incident,2-High,42102.00,42102.00,Busi,Asia-Pacific,India
+1624,Closed,Project,Incident,3-Medium,42102.00,42102.00,Proc,Asia-Pacific,India
+2136,Closed,No Charge Support,Incident,3-Medium,42045.00,42102.00,Busi,Asia-Pacific,India
+2236,Closed,No Charge Support,Problem,3-Medium,42081.00,42102.00,Busi,Asia-Pacific,Australia
+2238,Closed,Contract,Problem,3-Medium,42068.00,42102.00,Busi,Asia-Pacific,India
+2244,Closed,No Charge Support,Incident,3-Medium,42045.00,42102.00,Busi,Asia-Pacific,India
+2487,Closed,Contract,Problem,3-Medium,42102.00,42102.00,Busi,Asia-Pacific,India
+1666,Closed,Project,Incident,2-High,42022.00,42103.00,Proc,Asia-Pacific,Korea South
+1912,Closed,No Charge Support,Incident,2-High,42103.00,42103.00,USD ,Asia-Pacific,Japan
+1917,Closed,No Charge Support,Incident,2-High,42101.00,42103.00,Oper,Asia-Pacific,India
+2486,Closed,Contract,Problem,3-Medium,42103.00,42103.00,Busi,Asia-Pacific,India
+1358,Closed,Project,Problem,3-Medium,42086.00,42104.00,USD ,Asia-Pacific,New Zealand
+1359,Closed,Project,Problem,3-Medium,42086.00,42104.00,USD ,Asia-Pacific,New Zealand
+1908,Closed,No Charge Support,Incident,2-High,42104.00,42104.00,USD ,Asia-Pacific,India
+1913,Closed,No Charge Support,Incident,2-High,42103.00,42104.00,USD ,Asia-Pacific,Brunei Darussalam
+1916,Closed,No Charge Support,Incident,2-High,42103.00,42104.00,USD ,Asia-Pacific,Brunei Darussalam
+2006,Closed,Project,Problem,2-High,42024.00,42104.00,Busi,Asia-Pacific,India
+2043,Closed,Project,Incident,3-Medium,42103.00,42104.00,Blen,Asia-Pacific,India
+2948,Closed,Project,Request for Fulfillment,3-Medium,42010.00,42104.00,DynA,Asia-Pacific,China
+1356,Closed,Project,Problem,4-Low,42097.00,42107.00,USD ,Asia-Pacific,India
+1357,Closed,Project,Problem,4-Low,42097.00,42107.00,USD ,Asia-Pacific,India
+1364,Closed,Project,Problem,3-Medium,42074.00,42107.00,USD ,Asia-Pacific,New Zealand
+1365,Closed,Project,Problem,3-Medium,42074.00,42107.00,USD ,Asia-Pacific,New Zealand
+1366,Closed,Project,Problem,3-Medium,42074.00,42107.00,USD ,Asia-Pacific,New Zealand
+1367,Closed,Project,Problem,3-Medium,42074.00,42107.00,USD ,Asia-Pacific,New Zealand
+1390,Closed,Project,Problem,2-High,41985.00,42107.00,USD ,Asia-Pacific,India
+1391,Closed,Project,Problem,2-High,41985.00,42107.00,USD ,Asia-Pacific,India
+1392,Closed,Project,Problem,2-High,41985.00,42107.00,USD ,Asia-Pacific,India
+1416,Closed,No Charge Support,Request for Fulfillment,4-Low,42104.00,42107.00,DynA,Asia-Pacific,China
+1471,Closed,No Charge Support,Incident,3-Medium,42053.00,42107.00,USD ,Asia-Pacific,India
+1472,Closed,No Charge Support,Incident,3-Medium,42053.00,42107.00,USD ,Asia-Pacific,India
+1473,Closed,No Charge Support,Incident,3-Medium,42053.00,42107.00,USD ,Asia-Pacific,India
+1478,Closed,Contract,Problem,3-Medium,42060.00,42107.00,Busi,Asia-Pacific,India
+1958,Closed,Project,Incident,2-High,42102.00,42107.00,PHD ,Asia-Pacific,Korea South
+2944,Closed,Project,Request for Fulfillment,3-Medium,42103.00,42107.00,Oper,Asia-Pacific,Australia
+1294,Closed,Contract,Incident,4-Low,42083.00,42108.00,Adva,Asia-Pacific,Japan
+2133,Closed,No Charge Support,Incident,3-Medium,42059.00,42108.00,Busi,Asia-Pacific,India
+2816,Closed,Project,Incident,3-Medium,42097.00,42108.00,USD ,Asia-Pacific,India
+2817,Closed,Project,Incident,3-Medium,42097.00,42108.00,USD ,Asia-Pacific,India
+2820,Closed,Contract,Request for Fulfillment,3-Medium,42108.00,42108.00,USD ,Asia-Pacific,Japan
+1076,Closed,Contract,Incident,3-Medium,41920.00,42109.00,APC ,Asia-Pacific,Australia
+1077,Closed,Contract,Incident,3-Medium,41920.00,42109.00,APC ,Asia-Pacific,Australia
+1078,Closed,Contract,Incident,3-Medium,41920.00,42109.00,APC ,Asia-Pacific,Australia
+1086,Closed,Contract,Problem,3-Medium,41934.00,42109.00,APC ,Asia-Pacific,Australia
+1087,Closed,Contract,Problem,3-Medium,41934.00,42109.00,APC ,Asia-Pacific,Australia
+1133,Closed,Project,Incident,3-Medium,42009.00,42109.00,APC ,Asia-Pacific,New Zealand
+1419,Closed,Project,Incident,4-Low,42088.00,42109.00,Oper,Asia-Pacific,Taiwan
+1420,Closed,Project,Incident,4-Low,42088.00,42109.00,Oper,Asia-Pacific,Taiwan
+1499,Closed,Project,Problem,3-Medium,42018.00,42109.00,Busi,Asia-Pacific,India
+2254,Closed,Project,Problem,3-Medium,42018.00,42109.00,Busi,Asia-Pacific,India
+2575,Closed,Billable,Incident,3-Medium,42102.00,42109.00,Busi,Asia-Pacific,India
+2821,Closed,No Charge Support,Request for Fulfillment,4-Low,42108.00,42109.00,USD ,Asia-Pacific,Brunei Darussalam
+2822,Closed,No Charge Support,Request for Fulfillment,4-Low,42108.00,42109.00,USD ,Asia-Pacific,Brunei Darussalam
+1352,Closed,Project,Incident,3-Medium,42108.00,42110.00,USD ,Asia-Pacific,Malaysia
+1355,Closed,Project,Problem,3-Medium,42107.00,42110.00,USD ,Asia-Pacific,Malaysia
+1945,Closed,Billable,Incident,3-Medium,42072.00,42110.00,PHD ,Asia-Pacific,Japan
+2666,Closed,Project,Request for Fulfillment,3-Medium,41971.00,42110.00,USD ,Asia-Pacific,India
+2667,Closed,Project,Request for Fulfillment,3-Medium,41971.00,42110.00,USD ,Asia-Pacific,India
+2668,Closed,Project,Request for Fulfillment,3-Medium,41971.00,42110.00,USD ,Asia-Pacific,India
+3010,Closed,Project,Incident,3-Medium,42109.00,42110.00,AAM ,Asia-Pacific,Vietnam
+1462,Closed,Billable,Incident,3-Medium,42108.00,42111.00,PHD ,Asia-Pacific,Philippines
+1622,Closed,Project,Incident,3-Medium,42108.00,42111.00,Proc,Asia-Pacific,Oman
+1700,Closed,Contract,Incident,3-Medium,41876.00,42111.00,PHD ,Asia-Pacific,Australia
+1783,Closed,Contract,Problem,3-Medium,42019.00,42111.00,PHD ,Asia-Pacific,Australia
+1795,Closed,Contract,Problem,2-High,42081.00,42111.00,PHD ,Asia-Pacific,Australia
+1953,Closed,Project,Incident,3-Medium,42089.00,42111.00,PHD ,Asia-Pacific,Australia
+2268,Closed,Contract,Incident,3-Medium,41982.00,42111.00,Busi,Asia-Pacific,Australia
+2323,Closed,Contract,Incident,2-High,41929.00,42111.00,Busi,Asia-Pacific,Australia
+1304,Closed,Project,Request for Fulfillment,4-Low,42044.00,42114.00,Oper,Asia-Pacific,China
+1305,Closed,Project,Request for Fulfillment,4-Low,42044.00,42114.00,Oper,Asia-Pacific,China
+1306,Closed,Project,Request for Fulfillment,4-Low,42044.00,42114.00,Oper,Asia-Pacific,China
+1307,Closed,Project,Request for Fulfillment,4-Low,42044.00,42114.00,Oper,Asia-Pacific,China
+1308,Closed,Project,Request for Fulfillment,4-Low,42044.00,42114.00,Oper,Asia-Pacific,China
+1309,Closed,Project,Request for Fulfillment,4-Low,42044.00,42114.00,Oper,Asia-Pacific,China
+1310,Closed,Project,Request for Fulfillment,4-Low,42044.00,42114.00,Oper,Asia-Pacific,China
+1311,Closed,Project,Request for Fulfillment,4-Low,42044.00,42114.00,Oper,Asia-Pacific,China
+1907,Closed,No Charge Support,Incident,2-High,42114.00,42114.00,USD ,Asia-Pacific,Vietnam
+1458,Closed,Contract,Problem,3-Medium,42111.00,42115.00,Busi,Asia-Pacific,India
+1584,Closed,Project,Problem,3-Medium,41957.00,42115.00,AAM ,Asia-Pacific,Australia
+1756,Closed,Contract,Incident,3-Medium,41942.00,42115.00,Unsp,Asia-Pacific,Japan
+1763,Closed,Contract,Incident,2-High,42027.00,42115.00,PHD ,Asia-Pacific,Japan
+1906,Closed,No Charge Support,Incident,2-High,42115.00,42115.00,USD ,Asia-Pacific,Singapore
+2392,Closed,Project,Incident,4-Low,42097.00,42115.00,Blen,Asia-Pacific,India
+1457,Closed,Contract,Problem,3-Medium,42116.00,42116.00,Busi,Asia-Pacific,India
+2046,Closed,Project,Incident,2-High,42109.00,42116.00,Blen,Asia-Pacific,India
+2485,Closed,Contract,Incident,2-High,42116.00,42116.00,Busi,Asia-Pacific,India
+1509,Closed,Project,Incident,2-High,41981.00,42117.00,Busi,Asia-Pacific,India
+2130,Closed,Project,Incident,2-High,42116.00,42117.00,Busi,Asia-Pacific,Singapore
+2467,Closed,Contract,Incident,2-High,42117.00,42117.00,Busi,Asia-Pacific,India
+2468,Closed,Contract,Incident,2-High,42117.00,42117.00,Busi,Asia-Pacific,India
+2606,Closed,No Charge Support,Problem,3-Medium,41911.00,42117.00,USD ,Asia-Pacific,India
+2607,Closed,No Charge Support,Problem,3-Medium,41911.00,42117.00,USD ,Asia-Pacific,India
+2608,Closed,No Charge Support,Problem,3-Medium,41911.00,42117.00,USD ,Asia-Pacific,India
+2609,Closed,No Charge Support,Problem,3-Medium,41911.00,42117.00,USD ,Asia-Pacific,India
+2610,Closed,No Charge Support,Problem,3-Medium,41911.00,42117.00,USD ,Asia-Pacific,India
+2611,Closed,No Charge Support,Problem,3-Medium,41911.00,42117.00,USD ,Asia-Pacific,India
+1716,Closed,Contract,Incident,3-Medium,42102.00,42118.00,PHD ,Asia-Pacific,Japan
+1905,Closed,No Charge Support,Incident,2-High,42118.00,42118.00,Oper,Asia-Pacific,India
+1909,Closed,No Charge Support,Incident,2-High,42103.00,42118.00,Oper,Asia-Pacific,India
+1910,Closed,No Charge Support,Incident,2-High,42103.00,42118.00,Oper,Asia-Pacific,India
+1911,Closed,No Charge Support,Incident,2-High,42103.00,42118.00,Oper,Asia-Pacific,India
+1141,Closed,Project,Problem,2-High,42046.00,42121.00,APC ,Asia-Pacific,Korea South
+1620,Closed,Project,Incident,4-Low,42116.00,42121.00,Proc,Asia-Pacific,Oman
+1201,Closed,Project,Incident,3-Medium,42121.00,42122.00,USD ,Asia-Pacific,India
+1202,Closed,Project,Incident,3-Medium,42121.00,42122.00,USD ,Asia-Pacific,India
+1421,Closed,Project,Incident,4-Low,42082.00,42122.00,Oper,Asia-Pacific,Taiwan
+1422,Closed,Project,Incident,4-Low,42082.00,42122.00,Oper,Asia-Pacific,Taiwan
+2465,Closed,Contract,Incident,2-High,42121.00,42122.00,Busi,Asia-Pacific,India
+3008,Closed,Contract,Incident,3-Medium,42117.00,42122.00,AAM ,Asia-Pacific,Singapore
+1156,Closed,No Charge Support,Incident,2-High,42082.00,42123.00,APC ,Asia-Pacific,Australia
+1157,Closed,No Charge Support,Incident,2-High,42082.00,42123.00,APC ,Asia-Pacific,Australia
+1615,Closed,Project,Incident,2-High,42082.00,42123.00,AAM ,Asia-Pacific,Thailand
+1759,Closed,Project,Incident,2-High,41949.00,42123.00,PHD ,Asia-Pacific,Australia
+1901,Closed,Project,Incident,3-Medium,42118.00,42123.00,USD ,Asia-Pacific,Australia
+1903,Closed,Project,Incident,3-Medium,42118.00,42123.00,USD ,Asia-Pacific,Australia
+1904,Closed,Project,Incident,3-Medium,42118.00,42123.00,USD ,Asia-Pacific,Australia
+2073,Closed,Project,Incident,2-High,42118.00,42123.00,Busi,Asia-Pacific,Indonesia
+2129,Closed,Project,Incident,2-High,42118.00,42123.00,Busi,Asia-Pacific,Indonesia
+2463,Closed,Contract,Problem,3-Medium,42123.00,42123.00,Busi,Asia-Pacific,India
+2464,Closed,Contract,Problem,3-Medium,42122.00,42123.00,Busi,Asia-Pacific,India
+2943,Closed,Project,Incident,3-Medium,42107.00,42123.00,Unsp,Asia-Pacific,Philippines
+1900,Closed,No Charge Support,Incident,2-High,42124.00,42124.00,USD ,Asia-Pacific,India
+2044,Closed,Project,Incident,4-Low,42104.00,42124.00,Blen,Asia-Pacific,India
+2391,Closed,Project,Incident,3-Medium,42116.00,42124.00,Blen,Asia-Pacific,India
+2450,Closed,Contract,Problem,3-Medium,42124.00,42124.00,Busi,Asia-Pacific,India
+2798,Closed,No Charge Support,Request for Fulfillment,4-Low,42031.00,42124.00,USD ,Asia-Pacific,Japan
+2799,Closed,No Charge Support,Request for Fulfillment,4-Low,42031.00,42124.00,USD ,Asia-Pacific,Japan
+2801,Closed,Project,Problem,4-Low,42032.00,42124.00,Oper,Asia-Pacific,Australia
+2802,Closed,Project,Problem,4-Low,42032.00,42124.00,Oper,Asia-Pacific,Australia
+2823,Closed,No Charge Support,Request for Fulfillment,3-Medium,42109.00,42124.00,USD ,Asia-Pacific,Korea South
+2824,Closed,Project,Request for Fulfillment,3-Medium,42110.00,42124.00,USD ,Asia-Pacific,Singapore
+2825,Closed,No Charge Support,Request for Fulfillment,3-Medium,42110.00,42124.00,USD ,Asia-Pacific,Indonesia
+1216,Closed,Project,Problem,3-Medium,42088.00,42127.00,Oper,Asia-Pacific,India
+2818,Closed,Project,Problem,3-Medium,42097.00,42127.00,USD ,Asia-Pacific,India
+2819,Closed,Project,Problem,3-Medium,42097.00,42127.00,USD ,Asia-Pacific,India
+1494,Closed,Project,Problem,4-Low,42031.00,42128.00,Busi,Asia-Pacific,Singapore
+2041,Closed,Project,Problem,2-High,42072.00,42128.00,Blen,Asia-Pacific,India
+2108,Closed,No Charge Support,Incident,4-Low,42109.00,42128.00,Proc,Asia-Pacific,China
+2241,Closed,Contract,Problem,4-Low,42062.00,42128.00,Busi,Asia-Pacific,India
+2433,Closed,Contract,Request for Fulfillment,3-Medium,42128.00,42128.00,Busi,Asia-Pacific,India
+2449,Closed,Contract,Problem,3-Medium,42124.00,42128.00,Busi,Asia-Pacific,India
+2855,Closed,Project,Incident,2-High,42094.00,42128.00,Blen,Asia-Pacific,India
+3009,Closed,Project,Incident,3-Medium,42109.00,42128.00,AAM ,Asia-Pacific,Vietnam
+1208,Closed,Project,Problem,2-High,42108.00,42129.00,USD ,Asia-Pacific,India
+1209,Closed,Project,Problem,2-High,42108.00,42129.00,USD ,Asia-Pacific,India
+1210,Closed,Project,Problem,2-High,42108.00,42129.00,USD ,Asia-Pacific,India
+1211,Closed,Project,Problem,2-High,42108.00,42129.00,USD ,Asia-Pacific,India
+1213,Closed,Project,Incident,3-Medium,42101.00,42129.00,USD ,Asia-Pacific,India
+1214,Closed,Project,Incident,3-Medium,42101.00,42129.00,USD ,Asia-Pacific,India
+1215,Closed,Project,Incident,3-Medium,42101.00,42129.00,USD ,Asia-Pacific,India
+1576,Closed,Contract,Problem,3-Medium,42129.00,42129.00,Busi,Asia-Pacific,India
+1745,Closed,Project,Request for Fulfillment,4-Low,42044.00,42129.00,PHD ,Asia-Pacific,Taiwan
+1753,Closed,Project,Request for Fulfillment,3-Medium,42031.00,42129.00,PHD ,Asia-Pacific,Taiwan
+2432,Closed,Contract,Problem,3-Medium,42129.00,42129.00,Busi,Asia-Pacific,India
+2661,Closed,Project,Problem,4-Low,41969.00,42129.00,USD ,Asia-Pacific,India
+2662,Closed,Project,Problem,4-Low,41969.00,42129.00,USD ,Asia-Pacific,India
+2938,Closed,Contract,Incident,3-Medium,42062.00,42129.00,DynA,Asia-Pacific,Japan
+1618,Closed,No Charge Support,Incident,3-Medium,42102.00,42130.00,AAM ,Asia-Pacific,Singapore
+2012,Closed,Contract,Incident,2-High,42097.00,42130.00,Busi,Asia-Pacific,India
+2040,Closed,Project,Incident,3-Medium,42067.00,42130.00,Blen,Asia-Pacific,Singapore
+2102,Closed,Project,Problem,4-Low,41907.00,42130.00,USD ,Asia-Pacific,India
+2451,Closed,Contract,Problem,3-Medium,42124.00,42130.00,Busi,Asia-Pacific,India
+2600,Closed,Project,Problem,4-Low,41907.00,42130.00,USD ,Asia-Pacific,India
+1199,Closed,Project,Incident,3-Medium,42130.00,42131.00,USD ,Asia-Pacific,India
+1200,Closed,Project,Incident,3-Medium,42130.00,42131.00,USD ,Asia-Pacific,India
+1212,Closed,Project,Incident,3-Medium,42107.00,42131.00,Oper,Asia-Pacific,Malaysia
+1269,Closed,Project,Incident,3-Medium,42107.00,42131.00,Oper,Asia-Pacific,Malaysia
+1271,Closed,Project,Incident,3-Medium,42107.00,42131.00,Oper,Asia-Pacific,Malaysia
+1272,Closed,Project,Incident,3-Medium,42107.00,42131.00,Oper,Asia-Pacific,Malaysia
+1273,Closed,Project,Incident,3-Medium,42107.00,42131.00,Oper,Asia-Pacific,Malaysia
+1275,Closed,Project,Incident,3-Medium,42107.00,42131.00,Oper,Asia-Pacific,Malaysia
+1279,Closed,Project,Incident,3-Medium,42107.00,42131.00,Oper,Asia-Pacific,Malaysia
+1460,Closed,Contract,Incident,2-High,42109.00,42131.00,Busi,Asia-Pacific,India
+1481,Closed,Contract,Problem,2-High,42054.00,42131.00,Busi,Asia-Pacific,India
+1612,Closed,Project,Incident,3-Medium,42131.00,42131.00,Proc,Asia-Pacific,Thailand
+1617,Closed,Project,Incident,4-Low,42121.00,42131.00,Proc,Asia-Pacific,Thailand
+2045,Closed,Project,Incident,4-Low,42107.00,42131.00,Blen,Asia-Pacific,India
+2049,Closed,Project,Incident,4-Low,42124.00,42131.00,Blen,Asia-Pacific,India
+2070,Closed,Contract,Incident,2-High,42109.00,42131.00,Busi,Asia-Pacific,India
+2076,Closed,Contract,Incident,3-Medium,42129.00,42131.00,Busi,Asia-Pacific,India
+2128,Closed,Contract,Incident,3-Medium,42129.00,42131.00,Busi,Asia-Pacific,India
+2226,Closed,Contract,Incident,2-High,42109.00,42131.00,Busi,Asia-Pacific,India
+2431,Closed,Contract,Incident,3-Medium,42129.00,42131.00,Busi,Asia-Pacific,India
+1616,Closed,Billable,Incident,3-Medium,42122.00,42132.00,DynA,Asia-Pacific,Malaysia
+1619,Closed,Project,Incident,4-Low,42121.00,42132.00,Proc,Asia-Pacific,Thailand
+1621,Closed,Project,Problem,4-Low,42111.00,42132.00,Proc,Asia-Pacific,Thailand
+1626,Closed,Project,Problem,4-Low,42100.00,42132.00,Proc,Asia-Pacific,Thailand
+1888,Closed,No Charge Support,Incident,2-High,42132.00,42132.00,USD ,Asia-Pacific,India
+1896,Closed,No Charge Support,Incident,3-Medium,42124.00,42132.00,USD ,Asia-Pacific,India
+1897,Closed,No Charge Support,Incident,2-High,42124.00,42132.00,Oper,Asia-Pacific,India
+1899,Closed,No Charge Support,Incident,2-High,42124.00,42132.00,Oper,Asia-Pacific,India
+1947,Closed,Project,Incident,3-Medium,42075.00,42132.00,PHD ,Asia-Pacific,Singapore
+1965,Closed,Project,Incident,3-Medium,42128.00,42132.00,Unsp,Asia-Pacific,Thailand
+2048,Closed,Project,Incident,3-Medium,42118.00,42132.00,Blen,Asia-Pacific,Malaysia
+2941,Closed,Billable,Incident,3-Medium,42122.00,42132.00,DynA,Asia-Pacific,Malaysia
+1614,Closed,Project,Problem,3-Medium,42130.00,42133.00,Proc,Asia-Pacific,India
+1424,Closed,No Charge Support,Request for Fulfillment,3-Medium,42068.00,42135.00,Oper,Asia-Pacific,China
+1607,Closed,Project,Incident,4-Low,42135.00,42135.00,Proc,Asia-Pacific,India
+1628,Closed,No Charge Support,Request for Fulfillment,3-Medium,42068.00,42135.00,Oper,Asia-Pacific,China
+1664,Closed,No Charge Support,Request for Fulfillment,3-Medium,42068.00,42135.00,Oper,Asia-Pacific,China
+1885,Closed,Project,Incident,2-High,42135.00,42135.00,Oper,Asia-Pacific,India
+1886,Closed,Project,Incident,2-High,42132.00,42135.00,USD ,Asia-Pacific,India
+1887,Closed,Project,Incident,2-High,42132.00,42135.00,USD ,Asia-Pacific,India
+1998,Closed,No Charge Support,Incident,3-Medium,41928.00,42135.00,Busi,Asia-Pacific,India
+2060,Closed,No Charge Support,Incident,3-Medium,41928.00,42135.00,Busi,Asia-Pacific,India
+2114,Closed,Project,Problem,3-Medium,42013.00,42135.00,Proc,Asia-Pacific,Taiwan
+2430,Closed,Contract,Incident,2-High,42135.00,42135.00,Busi,Asia-Pacific,India
+2587,Closed,Project,Problem,3-Medium,41901.00,42135.00,USD ,Asia-Pacific,Korea South
+2826,Closed,No Charge Support,Request for Fulfillment,4-Low,42130.00,42135.00,USD ,Asia-Pacific,Brunei Darussalam
+1171,Closed,Project,Request for Fulfillment,3-Medium,42117.00,42136.00,APC ,Asia-Pacific,Korea South
+1414,Closed,No Charge Support,Incident,3-Medium,42124.00,42136.00,DynA,Asia-Pacific,Japan
+1415,Closed,No Charge Support,Incident,3-Medium,42124.00,42136.00,DynA,Asia-Pacific,Japan
+1442,Closed,Project,Incident,2-High,42132.00,42136.00,PHD ,Asia-Pacific,Singapore
+1963,Closed,Project,Problem,3-Medium,42116.00,42136.00,PHD ,Asia-Pacific,Vietnam
+2113,Closed,Project,Incident,3-Medium,42024.00,42136.00,Proc,Asia-Pacific,Malaysia
+2390,Closed,Project,Incident,3-Medium,42135.00,42136.00,Unsp,Asia-Pacific,India
+2425,Closed,Contract,Request for Fulfillment,3-Medium,42136.00,42136.00,Busi,Asia-Pacific,India
+2942,Closed,Billable,Incident,2-High,42118.00,42136.00,Prod,Asia-Pacific,Malaysia
+1153,Closed,Project,Incident,2-High,42080.00,42138.00,APC ,Asia-Pacific,India
+1197,Closed,Project,Problem,3-Medium,42132.00,42138.00,Oper,Asia-Pacific,India
+1198,Closed,Project,Problem,3-Medium,42132.00,42138.00,Oper,Asia-Pacific,India
+1260,Closed,Project,Problem,3-Medium,42132.00,42138.00,Oper,Asia-Pacific,India
+1261,Closed,Project,Problem,3-Medium,42132.00,42138.00,Oper,Asia-Pacific,India
+1262,Closed,Project,Problem,3-Medium,42132.00,42138.00,Oper,Asia-Pacific,India
+1880,Closed,Project,Incident,2-High,42138.00,42138.00,Oper,Asia-Pacific,India
+1881,Closed,Project,Incident,2-High,42138.00,42138.00,Oper,Asia-Pacific,India
+1882,Closed,Project,Incident,2-High,42138.00,42138.00,Oper,Asia-Pacific,India
+1889,Closed,Project,Incident,2-High,42132.00,42138.00,USD ,Asia-Pacific,India
+1890,Closed,Project,Incident,2-High,42132.00,42138.00,USD ,Asia-Pacific,India
+1894,Closed,Project,Incident,2-High,42132.00,42138.00,USD ,Asia-Pacific,India
+1895,Closed,Project,Incident,2-High,42132.00,42138.00,USD ,Asia-Pacific,India
+1966,Closed,Billable,Incident,3-Medium,42131.00,42138.00,PHD ,Asia-Pacific,Philippines
+1969,Closed,Project,Request for Fulfillment,3-Medium,42137.00,42138.00,PHD ,Asia-Pacific,Vietnam
+1604,Closed,Project,Incident,3-Medium,42139.00,42139.00,Proc,Asia-Pacific,India
+1605,Closed,Project,Incident,3-Medium,42136.00,42139.00,Proc,Asia-Pacific,Oman
+1878,Closed,No Charge Support,Incident,2-High,42139.00,42139.00,USD ,Asia-Pacific,Singapore
+1879,Closed,No Charge Support,Incident,2-High,42139.00,42139.00,USD ,Asia-Pacific,India
+2127,Closed,Project,Incident,1-Critical,42136.00,42139.00,Busi,Asia-Pacific,Malaysia
+2422,Closed,Contract,Problem,3-Medium,42139.00,42139.00,Busi,Asia-Pacific,India
+2423,Closed,Contract,Incident,3-Medium,42139.00,42139.00,Busi,Asia-Pacific,India
+1165,Closed,Contract,Incident,3-Medium,42087.00,42142.00,APC ,Asia-Pacific,New Zealand
+1166,Closed,Contract,Incident,3-Medium,42087.00,42142.00,APC ,Asia-Pacific,New Zealand
+1167,Closed,Contract,Incident,3-Medium,42087.00,42142.00,APC ,Asia-Pacific,New Zealand
+1179,Closed,Contract,Incident,2-High,42132.00,42142.00,APC ,Asia-Pacific,Australia
+1713,Closed,Project,Problem,3-Medium,42130.00,42142.00,PHD ,Asia-Pacific,India
+1750,Closed,Contract,Request for Fulfillment,3-Medium,42037.00,42142.00,PHD ,Asia-Pacific,Vietnam
+1872,Closed,No Charge Support,Incident,2-High,42142.00,42142.00,USD ,Asia-Pacific,Singapore
+1937,Closed,Project,Request for Fulfillment,3-Medium,42047.00,42142.00,PHD ,Asia-Pacific,Korea South
+2131,Closed,Billable,Incident,3-Medium,42110.00,42142.00,Busi,Asia-Pacific,India
+2132,Closed,Billable,Incident,3-Medium,42079.00,42142.00,Busi,Asia-Pacific,Philippines
+2416,Closed,Project,Problem,3-Medium,41814.00,42142.00,Oper,Asia-Pacific,Indonesia
+2417,Closed,Project,Problem,3-Medium,41814.00,42142.00,Oper,Asia-Pacific,Indonesia
+2418,Closed,Project,Problem,3-Medium,41814.00,42142.00,Oper,Asia-Pacific,Indonesia
+2419,Closed,Project,Problem,3-Medium,41814.00,42142.00,Oper,Asia-Pacific,Indonesia
+2466,Closed,Contract,Request for Fulfillment,3-Medium,42121.00,42142.00,Busi,Asia-Pacific,India
+2560,Closed,Contract,Request for Fulfillment,3-Medium,42107.00,42142.00,Busi,Asia-Pacific,India
+2812,Closed,Project,Problem,3-Medium,42089.00,42142.00,USD ,Asia-Pacific,India
+2828,Closed,No Charge Support,Request for Fulfillment,3-Medium,42131.00,42142.00,USD ,Asia-Pacific,India
+2829,Closed,Contract,Incident,2-High,42132.00,42142.00,USD ,Asia-Pacific,Malaysia
+1735,Closed,Billable,Incident,3-Medium,42073.00,42143.00,PHD ,Asia-Pacific,Philippines
+1992,Closed,Contract,Incident,4-Low,41821.00,42143.00,Busi,Asia-Pacific,Japan
+2000,Closed,No Charge Support,Request for Fulfillment,3-Medium,41968.00,42143.00,Busi,Asia-Pacific,Japan
+2035,Closed,Project,Request for Fulfillment,3-Medium,42017.00,42143.00,Blen,Asia-Pacific,Korea South
+2135,Closed,Project,Request for Fulfillment,3-Medium,42053.00,42143.00,Busi,Asia-Pacific,Australia
+2830,Closed,No Charge Support,Request for Fulfillment,3-Medium,42143.00,42143.00,USD ,Asia-Pacific,India
+2939,Closed,Contract,Problem,3-Medium,42128.00,42143.00,AAM ,Asia-Pacific,Australia
+1083,Closed,Contract,Problem,3-Medium,41934.00,42144.00,APC ,Asia-Pacific,Australia
+1084,Closed,Contract,Problem,3-Medium,41934.00,42144.00,APC ,Asia-Pacific,Australia
+1088,Closed,Contract,Problem,3-Medium,41934.00,42144.00,APC ,Asia-Pacific,Australia
+1104,Closed,Contract,Problem,3-Medium,41946.00,42144.00,APC ,Asia-Pacific,New Zealand
+1105,Closed,Contract,Problem,3-Medium,41946.00,42144.00,APC ,Asia-Pacific,New Zealand
+1112,Closed,Contract,Incident,3-Medium,41960.00,42144.00,APC ,Asia-Pacific,Japan
+1113,Closed,Contract,Incident,3-Medium,41960.00,42144.00,APC ,Asia-Pacific,Japan
+1162,Closed,No Charge Support,Problem,3-Medium,42083.00,42144.00,APC ,Asia-Pacific,Australia
+1163,Closed,No Charge Support,Problem,3-Medium,42083.00,42144.00,APC ,Asia-Pacific,Australia
+1603,Closed,Project,Incident,4-Low,42142.00,42144.00,Proc,Asia-Pacific,India
+2134,Closed,Contract,Request for Fulfillment,3-Medium,42055.00,42144.00,Busi,Asia-Pacific,Australia
+1180,Closed,Project,Incident,3-Medium,42136.00,42145.00,APC ,Asia-Pacific,India
+1412,Closed,No Charge Support,Incident,3-Medium,42143.00,42145.00,Proc,Asia-Pacific,China
+1602,Closed,No Charge Support,Incident,3-Medium,42143.00,42145.00,Proc,Asia-Pacific,China
+1871,Closed,No Charge Support,Incident,2-High,42144.00,42145.00,USD ,Asia-Pacific,Australia
+1873,Closed,No Charge Support,Incident,3-Medium,42139.00,42145.00,USD ,Asia-Pacific,India
+1874,Closed,No Charge Support,Incident,3-Medium,42139.00,42145.00,USD ,Asia-Pacific,India
+1875,Closed,No Charge Support,Incident,3-Medium,42139.00,42145.00,USD ,Asia-Pacific,India
+2050,Closed,Project,Incident,2-High,42144.00,42145.00,Blen,Asia-Pacific,India
+1154,Closed,Contract,Problem,3-Medium,42081.00,42146.00,APC ,Asia-Pacific,Australia
+1155,Closed,Contract,Problem,3-Medium,42081.00,42146.00,APC ,Asia-Pacific,Australia
+1175,Closed,No Charge Support,Problem,3-Medium,42122.00,42146.00,APC ,Asia-Pacific,Australia
+1177,Closed,Contract,Incident,2-High,42128.00,42146.00,APC ,Asia-Pacific,Australia
+1178,Closed,Contract,Incident,2-High,42128.00,42146.00,APC ,Asia-Pacific,Australia
+1203,Closed,Project,Problem,3-Medium,42117.00,42146.00,Oper,Asia-Pacific,Unspecified
+1204,Closed,Project,Problem,3-Medium,42117.00,42146.00,Oper,Asia-Pacific,Unspecified
+1205,Closed,Project,Problem,3-Medium,42117.00,42146.00,Oper,Asia-Pacific,Unspecified
+1263,Closed,Project,Request for Fulfillment,4-Low,42117.00,42146.00,Oper,Asia-Pacific,Korea South
+1264,Closed,Project,Request for Fulfillment,4-Low,42117.00,42146.00,Oper,Asia-Pacific,Korea South
+1265,Closed,Project,Request for Fulfillment,4-Low,42117.00,42146.00,Oper,Asia-Pacific,Korea South
+1266,Closed,Project,Request for Fulfillment,4-Low,42117.00,42146.00,Oper,Asia-Pacific,Korea South
+1267,Closed,Project,Request for Fulfillment,4-Low,42117.00,42146.00,Oper,Asia-Pacific,Korea South
+1268,Closed,Project,Request for Fulfillment,4-Low,42117.00,42146.00,Oper,Asia-Pacific,Korea South
+1597,Closed,Project,Incident,3-Medium,42146.00,42146.00,Proc,Asia-Pacific,Singapore
+1968,Closed,No Charge Support,Incident,2-High,42136.00,42146.00,PHD ,Asia-Pacific,Australia
+2112,Closed,Billable,Incident,3-Medium,42054.00,42146.00,Proc,Asia-Pacific,Malaysia
+2357,Closed,Contract,Request for Fulfillment,3-Medium,41876.00,42146.00,Busi,Asia-Pacific,India
+2559,Closed,Contract,Incident,3-Medium,42144.00,42146.00,Busi,Asia-Pacific,India
+2923,Closed,Project,Problem,3-Medium,42101.00,42146.00,Blen,Asia-Pacific,Vietnam
+1406,Closed,No Charge Support,Incident,3-Medium,42144.00,42149.00,Proc,Asia-Pacific,China
+1445,Closed,Contract,Problem,2-High,42131.00,42149.00,Busi,Asia-Pacific,India
+1501,Closed,Project,Incident,4-Low,42009.00,42149.00,Busi,Asia-Pacific,Australia
+1598,Closed,No Charge Support,Incident,3-Medium,42144.00,42149.00,Proc,Asia-Pacific,China
+3006,Closed,Billable,Request for Fulfillment,3-Medium,42149.00,42149.00,AAM ,Asia-Pacific,Australia
+1278,Closed,Project,Problem,3-Medium,41919.00,42150.00,Adva,Asia-Pacific,Korea South
+1470,Closed,Contract,Problem,2-High,42060.00,42150.00,Busi,Asia-Pacific,India
+2227,Closed,Contract,Problem,2-High,42104.00,42150.00,AAM ,Asia-Pacific,India
+2565,Closed,Contract,Problem,2-High,42104.00,42150.00,AAM ,Asia-Pacific,India
+1176,Closed,Contract,Incident,3-Medium,42128.00,42151.00,APC ,Asia-Pacific,Australia
+1185,Closed,Project,Incident,2-High,42143.00,42151.00,APC ,Asia-Pacific,India
+1186,Closed,Project,Incident,2-High,42143.00,42151.00,APC ,Asia-Pacific,India
+1206,Closed,Project,Problem,3-Medium,42111.00,42151.00,Oper,Asia-Pacific,Korea South
+1207,Closed,Project,Problem,3-Medium,42111.00,42151.00,Oper,Asia-Pacific,Korea South
+1730,Closed,No Charge Support,Problem,2-High,42093.00,42151.00,PHD ,Asia-Pacific,India
+1797,Closed,No Charge Support,Problem,2-High,42093.00,42151.00,PHD ,Asia-Pacific,India
+1870,Closed,No Charge Support,Incident,2-High,42151.00,42151.00,USD ,Asia-Pacific,India
+1172,Closed,Project,Incident,2-High,42118.00,42152.00,APC ,Asia-Pacific,India
+1435,Closed,Billable,Incident,3-Medium,42152.00,42152.00,Busi,Asia-Pacific,Philippines
+1596,Closed,Project,Incident,3-Medium,42152.00,42152.00,DynA,Asia-Pacific,Thailand
+2015,Closed,Project,Incident,2-High,42118.00,42152.00,APC ,Asia-Pacific,India
+2220,Closed,Project,Incident,3-Medium,42152.00,42152.00,Busi,Asia-Pacific,Singapore
+2228,Closed,Project,Request for Fulfillment,4-Low,42100.00,42152.00,Busi,Asia-Pacific,Singapore
+2926,Closed,Contract,Incident,3-Medium,42145.00,42152.00,Busi,Asia-Pacific,Japan
+1159,Closed,Project,Incident,2-High,42082.00,42153.00,APC ,Asia-Pacific,India
+1181,Closed,No Charge Support,Incident,2-High,42137.00,42153.00,APC ,Asia-Pacific,Japan
+1182,Closed,No Charge Support,Incident,2-High,42137.00,42153.00,APC ,Asia-Pacific,Japan
+1183,Closed,No Charge Support,Incident,2-High,42137.00,42153.00,APC ,Asia-Pacific,Japan
+1184,Closed,No Charge Support,Incident,2-High,42137.00,42153.00,APC ,Asia-Pacific,Japan
+1187,Closed,Contract,Incident,3-Medium,42144.00,42153.00,APC ,Asia-Pacific,Australia
+1191,Closed,Project,Incident,2-High,42152.00,42153.00,APC ,Asia-Pacific,India
+1867,Closed,No Charge Support,Incident,2-High,42153.00,42153.00,USD ,Asia-Pacific,India
+1868,Closed,No Charge Support,Incident,2-High,42153.00,42153.00,USD ,Asia-Pacific,Singapore
+2109,Closed,No Charge Support,Incident,4-Low,42108.00,42153.00,Proc,Asia-Pacific,China
+2110,Closed,No Charge Support,Incident,4-Low,42108.00,42153.00,Proc,Asia-Pacific,China
+2237,Closed,Contract,Incident,3-Medium,42079.00,42153.00,Busi,Asia-Pacific,India
+1142,Closed,Project,Incident,3-Medium,42048.00,42156.00,APC ,Asia-Pacific,India
+1413,Closed,Project,Incident,3-Medium,42134.00,42156.00,DynA,Asia-Pacific,Malaysia
+1869,Closed,No Charge Support,Incident,2-High,42153.00,42156.00,Oper,Asia-Pacific,India
+2936,Closed,Project,Incident,3-Medium,42144.00,42156.00,Prod,Asia-Pacific,Malaysia
+2940,Closed,Project,Request for Fulfillment,3-Medium,42124.00,42156.00,Prod,Asia-Pacific,Malaysia
+1194,Closed,No Charge Support,Problem,3-Medium,42153.00,42157.00,APC ,Asia-Pacific,Japan
+1438,Closed,Project,Incident,2-High,42144.00,42157.00,Busi,Asia-Pacific,Singapore
+1443,Closed,Project,Incident,3-Medium,42132.00,42157.00,Busi,Asia-Pacific,Singapore
+1444,Closed,Project,Incident,3-Medium,42132.00,42157.00,PHD ,Asia-Pacific,Singapore
+2053,Closed,Project,Incident,2-High,42153.00,42157.00,Blen,Asia-Pacific,Korea South
+2414,Closed,Contract,Problem,3-Medium,42157.00,42157.00,Busi,Asia-Pacific,India
+3013,Closed,Project,Incident,3-Medium,42067.00,42157.00,AAM ,Asia-Pacific,Papua New Guinea
+1564,Closed,Project,Incident,3-Medium,41680.00,42158.00,Busi,Asia-Pacific,Australia
+1866,Closed,No Charge Support,Incident,2-High,42158.00,42158.00,USD ,Asia-Pacific,India
+2217,Closed,No Charge Support,Incident,2-High,42157.00,42158.00,Busi,Asia-Pacific,India
+2413,Closed,Contract,Incident,2-High,42158.00,42158.00,Busi,Asia-Pacific,India
+3007,Closed,Contract,Incident,3-Medium,42125.00,42158.00,AAM ,Asia-Pacific,New Zealand
+1128,Closed,Project,Problem,3-Medium,42157.00,42159.00,USD ,Asia-Pacific,Australia
+1129,Closed,Project,Problem,3-Medium,42157.00,42159.00,USD ,Asia-Pacific,Australia
+1332,Closed,Project,Problem,2-High,42138.00,42159.00,USD ,Asia-Pacific,India
+1403,Closed,No Charge Support,Request for Fulfillment,3-Medium,42157.00,42159.00,DynA,Asia-Pacific,Taiwan
+1595,Closed,Project,Incident,3-Medium,42158.00,42159.00,Proc,Asia-Pacific,Thailand
+1606,Closed,Project,Incident,4-Low,42136.00,42159.00,Proc,Asia-Pacific,China
+2412,Closed,Contract,Problem,3-Medium,42159.00,42159.00,Busi,Asia-Pacific,India
+1242,Closed,Project,Problem,3-Medium,42143.00,42160.00,Oper,Asia-Pacific,Japan
+1243,Closed,Project,Problem,3-Medium,42143.00,42160.00,Oper,Asia-Pacific,Japan
+1244,Closed,Project,Problem,3-Medium,42143.00,42160.00,Oper,Asia-Pacific,Japan
+1245,Closed,Project,Problem,3-Medium,42143.00,42160.00,Oper,Asia-Pacific,Japan
+1246,Closed,Project,Problem,3-Medium,42143.00,42160.00,Oper,Asia-Pacific,Japan
+1247,Closed,Project,Problem,3-Medium,42143.00,42160.00,Oper,Asia-Pacific,Japan
+1248,Closed,Project,Problem,3-Medium,42143.00,42160.00,Oper,Asia-Pacific,Japan
+1249,Closed,Project,Problem,3-Medium,42143.00,42160.00,Oper,Asia-Pacific,Japan
+1250,Closed,Project,Problem,3-Medium,42143.00,42160.00,Oper,Asia-Pacific,Japan
+1253,Closed,Project,Problem,3-Medium,42143.00,42160.00,Oper,Asia-Pacific,Japan
+1254,Closed,Project,Problem,3-Medium,42143.00,42160.00,Oper,Asia-Pacific,Japan
+1255,Closed,Project,Problem,3-Medium,42143.00,42160.00,Oper,Asia-Pacific,Japan
+1256,Closed,Project,Problem,3-Medium,42143.00,42160.00,Oper,Asia-Pacific,Japan
+1258,Closed,Project,Problem,3-Medium,42143.00,42160.00,Oper,Asia-Pacific,Japan
+1259,Closed,Project,Problem,3-Medium,42143.00,42160.00,Oper,Asia-Pacific,Japan
+1594,Closed,Project,Incident,3-Medium,42159.00,42160.00,Proc,Asia-Pacific,Thailand
+1865,Closed,No Charge Support,Incident,2-High,42160.00,42160.00,USD ,Asia-Pacific,China
+2415,Closed,Contract,Problem,3-Medium,42152.00,42160.00,Busi,Asia-Pacific,India
+2558,Closed,Contract,Problem,3-Medium,42152.00,42160.00,Busi,Asia-Pacific,India
+2838,Closed,Contract,Request for Fulfillment,3-Medium,41676.00,42160.00,AAM ,Asia-Pacific,India
+3005,Closed,Project,Incident,3-Medium,42152.00,42160.00,AAM ,Asia-Pacific,Thailand
+1766,Closed,Project,Request for Fulfillment,3-Medium,42013.00,42161.00,PHD ,Asia-Pacific,Singapore
+2065,Closed,Project,Incident,4-Low,41992.00,42161.00,AAM ,Asia-Pacific,Singapore
+1130,Closed,Project,Problem,3-Medium,42144.00,42163.00,USD ,Asia-Pacific,Malaysia
+1131,Closed,Project,Problem,3-Medium,42144.00,42163.00,USD ,Asia-Pacific,Malaysia
+1132,Closed,Project,Problem,3-Medium,42144.00,42163.00,USD ,Asia-Pacific,Malaysia
+1173,Closed,No Charge Support,Problem,3-Medium,42121.00,42163.00,APC ,Asia-Pacific,Australia
+1174,Closed,No Charge Support,Problem,3-Medium,42121.00,42163.00,APC ,Asia-Pacific,Australia
+1593,Closed,Project,Incident,4-Low,42160.00,42163.00,Proc,Asia-Pacific,Thailand
+1699,Closed,No Charge Support,Incident,4-Low,42158.00,42163.00,PHD ,Asia-Pacific,Japan
+1729,Closed,Contract,Request for Fulfillment,3-Medium,42093.00,42163.00,PHD ,Asia-Pacific,New Zealand
+2411,Closed,Contract,Problem,3-Medium,42163.00,42163.00,Busi,Asia-Pacific,India
+1169,Closed,Contract,Incident,3-Medium,42107.00,42164.00,APC ,Asia-Pacific,Australia
+1347,Closed,Project,Problem,3-Medium,42116.00,42164.00,USD ,Asia-Pacific,India
+1349,Closed,Project,Problem,3-Medium,42116.00,42164.00,USD ,Asia-Pacific,India
+1350,Closed,Project,Problem,3-Medium,42116.00,42164.00,USD ,Asia-Pacific,India
+1351,Closed,Project,Problem,3-Medium,42116.00,42164.00,USD ,Asia-Pacific,India
+1707,Closed,No Charge Support,Incident,2-High,42156.00,42164.00,Unsp,Asia-Pacific,India
+1938,Closed,Contract,Incident,3-Medium,42047.00,42164.00,PHD ,Asia-Pacific,Japan
+1976,Closed,Contract,Request for Fulfillment,3-Medium,42153.00,42164.00,PHD ,Asia-Pacific,Vietnam
+1857,Closed,No Charge Support,Incident,2-High,42166.00,42166.00,USD ,Asia-Pacific,Japan
+1861,Closed,No Charge Support,Incident,3-Medium,42166.00,42166.00,USD ,Asia-Pacific,Korea South
+1862,Closed,No Charge Support,Incident,2-High,42166.00,42166.00,USD ,Asia-Pacific,Malaysia
+1863,Closed,No Charge Support,Incident,2-High,42166.00,42166.00,USD ,Asia-Pacific,Singapore
+1864,Closed,No Charge Support,Incident,2-High,42166.00,42166.00,USD ,Asia-Pacific,Australia
+2122,Closed,Project,Incident,2-High,42163.00,42166.00,Busi,Asia-Pacific,Malaysia
+2214,Closed,Project,Incident,2-High,42164.00,42166.00,Busi,Asia-Pacific,Singapore
+1461,Closed,Project,Problem,3-Medium,42109.00,42167.00,Busi,Asia-Pacific,Australia
+1856,Closed,No Charge Support,Incident,2-High,42167.00,42167.00,Oper,Asia-Pacific,Korea South
+2055,Closed,Project,Incident,2-High,42167.00,42167.00,Blen,Asia-Pacific,India
+2410,Closed,Contract,Request for Fulfillment,3-Medium,42167.00,42167.00,Busi,Asia-Pacific,India
+1589,Closed,Project,Problem,2-High,42165.00,42170.00,Proc,Asia-Pacific,Unspecified
+2054,Closed,Project,Incident,1-Critical,42164.00,42170.00,Blen,Asia-Pacific,India
+2107,Closed,Project,Incident,3-Medium,42144.00,42170.00,Proc,Asia-Pacific,Malaysia
+2125,Closed,Contract,Request for Fulfillment,4-Low,42144.00,42170.00,Busi,Asia-Pacific,Australia
+1322,Closed,Project,Problem,3-Medium,42152.00,42171.00,USD ,Asia-Pacific,India
+1323,Closed,Project,Problem,3-Medium,42152.00,42171.00,USD ,Asia-Pacific,India
+1324,Closed,Project,Problem,3-Medium,42152.00,42171.00,USD ,Asia-Pacific,India
+1325,Closed,Project,Problem,3-Medium,42152.00,42171.00,USD ,Asia-Pacific,India
+1326,Closed,Project,Problem,3-Medium,42152.00,42171.00,USD ,Asia-Pacific,India
+1333,Closed,No Charge Support,Request for Fulfillment,3-Medium,42129.00,42171.00,USD ,Asia-Pacific,India
+1334,Closed,No Charge Support,Request for Fulfillment,3-Medium,42129.00,42171.00,USD ,Asia-Pacific,India
+1335,Closed,No Charge Support,Request for Fulfillment,3-Medium,42129.00,42171.00,USD ,Asia-Pacific,India
+1336,Closed,No Charge Support,Request for Fulfillment,3-Medium,42129.00,42171.00,USD ,Asia-Pacific,India
+1342,Closed,No Charge Support,Request for Fulfillment,3-Medium,42129.00,42171.00,USD ,Asia-Pacific,India
+1343,Closed,No Charge Support,Request for Fulfillment,3-Medium,42129.00,42171.00,USD ,Asia-Pacific,India
+1344,Closed,No Charge Support,Request for Fulfillment,3-Medium,42129.00,42171.00,USD ,Asia-Pacific,India
+1345,Closed,No Charge Support,Request for Fulfillment,3-Medium,42129.00,42171.00,USD ,Asia-Pacific,India
+1400,Closed,Contract,Request for Fulfillment,3-Medium,42170.00,42171.00,AAM ,Asia-Pacific,Australia
+1703,Closed,Project,Incident,3-Medium,41880.00,42171.00,PHD ,Asia-Pacific,Singapore
+1717,Closed,Project,Incident,3-Medium,41900.00,42171.00,PHD ,Asia-Pacific,Singapore
+1732,Closed,Project,Incident,3-Medium,42088.00,42171.00,PHD ,Asia-Pacific,Singapore
+1796,Closed,Project,Incident,3-Medium,42081.00,42171.00,PHD ,Asia-Pacific,Singapore
+2120,Closed,No Charge Support,Incident,2-High,42170.00,42171.00,Busi,Asia-Pacific,India
+2216,Closed,Contract,Request for Fulfillment,3-Medium,42157.00,42171.00,Busi,Asia-Pacific,India
+2229,Closed,Project,Incident,3-Medium,42093.00,42171.00,Busi,Asia-Pacific,Singapore
+2409,Closed,Contract,Request for Fulfillment,3-Medium,42167.00,42171.00,Busi,Asia-Pacific,India
+1328,Closed,Project,Problem,3-Medium,42149.00,42172.00,USD ,Asia-Pacific,India
+1329,Closed,Project,Problem,3-Medium,42149.00,42172.00,USD ,Asia-Pacific,India
+1330,Closed,Project,Problem,3-Medium,42149.00,42172.00,USD ,Asia-Pacific,India
+1331,Closed,Project,Problem,3-Medium,42149.00,42172.00,USD ,Asia-Pacific,India
+1360,Closed,Project,Problem,3-Medium,42075.00,42172.00,USD ,Asia-Pacific,India
+1361,Closed,Project,Problem,3-Medium,42075.00,42172.00,USD ,Asia-Pacific,India
+1838,Closed,No Charge Support,Incident,2-High,42172.00,42172.00,USD ,Asia-Pacific,India
+2121,Closed,Project,Request for Fulfillment,3-Medium,42166.00,42172.00,Busi,Asia-Pacific,Singapore
+2407,Closed,Contract,Problem,3-Medium,42172.00,42172.00,Busi,Asia-Pacific,India
+2408,Closed,Contract,Problem,3-Medium,42172.00,42172.00,Busi,Asia-Pacific,India
+2999,Closed,Contract,Incident,4-Low,42164.00,42172.00,AAM ,Asia-Pacific,Japan
+1489,Closed,Project,Problem,4-Low,42031.00,42173.00,Busi,Asia-Pacific,Singapore
+1490,Closed,Project,Problem,4-Low,42031.00,42173.00,Busi,Asia-Pacific,Singapore
+1491,Closed,Project,Problem,4-Low,42031.00,42173.00,Busi,Asia-Pacific,Singapore
+1493,Closed,Project,Problem,3-Medium,42031.00,42173.00,Busi,Asia-Pacific,Singapore
+1495,Closed,Project,Problem,4-Low,42031.00,42173.00,Busi,Asia-Pacific,Singapore
+1496,Closed,Project,Problem,3-Medium,42031.00,42173.00,Busi,Asia-Pacific,Singapore
+1590,Closed,Project,Incident,3-Medium,42163.00,42173.00,DynA,Asia-Pacific,Thailand
+2056,Closed,Project,Incident,3-Medium,42173.00,42173.00,Blen,Asia-Pacific,India
+2406,Closed,Contract,Incident,2-High,42173.00,42173.00,Busi,Asia-Pacific,India
+1568,Closed,Contract,Problem,3-Medium,42157.00,42174.00,Busi,Asia-Pacific,India
+1569,Closed,Contract,Request for Fulfillment,3-Medium,42151.00,42174.00,Busi,Asia-Pacific,India
+1572,Closed,Contract,Request for Fulfillment,3-Medium,42151.00,42174.00,Busi,Asia-Pacific,India
+1574,Closed,Contract,Request for Fulfillment,3-Medium,42151.00,42174.00,Busi,Asia-Pacific,India
+1575,Closed,Contract,Request for Fulfillment,3-Medium,42151.00,42174.00,Busi,Asia-Pacific,India
+1705,Closed,Project,Incident,3-Medium,42157.00,42174.00,Unsp,Asia-Pacific,Philippines
+2218,Closed,No Charge Support,Incident,4-Low,42156.00,42174.00,Busi,Asia-Pacific,India
+2389,Closed,Project,Problem,3-Medium,42173.00,42174.00,Unsp,Asia-Pacific,India
+2404,Closed,Contract,Problem,2-High,42174.00,42174.00,Busi,Asia-Pacific,India
+2405,Closed,Contract,Problem,3-Medium,42174.00,42174.00,Busi,Asia-Pacific,India
+1695,Closed,Billable,Incident,3-Medium,41869.00,42177.00,PHD ,Asia-Pacific,Australia
+2203,Closed,Project,Incident,2-High,42171.00,42177.00,Busi,Asia-Pacific,Singapore
+1319,Closed,Contract,Incident,3-Medium,42167.00,42178.00,Adva,Asia-Pacific,Japan
+1430,Closed,Project,Incident,3-Medium,42165.00,42178.00,Busi,Asia-Pacific,Malaysia
+2831,Closed,Project,Incident,2-High,42157.00,42178.00,USD ,Asia-Pacific,India
+2832,Closed,No Charge Support,Request for Fulfillment,3-Medium,42172.00,42178.00,USD ,Asia-Pacific,Brunei Darussalam
+2833,Closed,No Charge Support,Request for Fulfillment,3-Medium,42172.00,42178.00,USD ,Asia-Pacific,Brunei Darussalam
+1776,Closed,Project,Incident,4-Low,41991.00,42179.00,PHD ,Asia-Pacific,Singapore
+1835,Closed,No Charge Support,Incident,2-High,42179.00,42179.00,USD ,Asia-Pacific,Singapore
+1836,Closed,No Charge Support,Incident,2-High,42178.00,42179.00,USD ,Asia-Pacific,Korea South
+1853,Closed,No Charge Support,Incident,3-Medium,42170.00,42179.00,USD ,Asia-Pacific,China
+2047,Closed,Project,Incident,3-Medium,42117.00,42179.00,Blen,Asia-Pacific,Korea South
+1831,Closed,No Charge Support,Incident,2-High,42180.00,42180.00,USD ,Asia-Pacific,Korea South
+1832,Closed,No Charge Support,Incident,2-High,42180.00,42180.00,USD ,Asia-Pacific,Korea South
+1833,Closed,No Charge Support,Incident,2-High,42180.00,42180.00,USD ,Asia-Pacific,Korea South
+1834,Closed,No Charge Support,Incident,3-Medium,42180.00,42180.00,USD ,Asia-Pacific,Singapore
+2399,Closed,Contract,Incident,2-High,42180.00,42180.00,Busi,Asia-Pacific,India
+2400,Closed,Contract,Problem,3-Medium,42180.00,42180.00,Busi,Asia-Pacific,India
+2401,Closed,Contract,Problem,3-Medium,42180.00,42180.00,Busi,Asia-Pacific,India
+2402,Closed,Contract,Problem,3-Medium,42180.00,42180.00,Busi,Asia-Pacific,India
+2403,Closed,Contract,Problem,3-Medium,42180.00,42180.00,Busi,Asia-Pacific,India
+1401,Closed,Project,Incident,4-Low,42165.00,42184.00,AAM ,Asia-Pacific,Taiwan
+1402,Closed,No Charge Support,Incident,3-Medium,42160.00,42184.00,DynA,Asia-Pacific,Australia
+2118,Closed,Project,Problem,2-High,42181.00,42186.00,Busi,Asia-Pacific,Malaysia
+2998,Closed,Project,Request for Fulfillment,4-Low,42165.00,42186.00,AAM ,Asia-Pacific,Taiwan
+1800,Closed,No Charge Support,Incident,2-High,42188.00,42188.00,USD ,Asia-Pacific,Singapore
+1837,Closed,No Charge Support,Incident,4-Low,42172.00,42188.00,USD ,Asia-Pacific,India
+2117,Closed,Project,Incident,2-High,42188.00,42188.00,Busi,Asia-Pacific,Singapore
+1068,In Progress,Contract,Incident,3-Medium,41906.00,,APC ,Asia-Pacific,Japan
+1069,In Progress,Contract,Incident,3-Medium,41906.00,,APC ,Asia-Pacific,Japan
+1070,In Progress,Contract,Incident,3-Medium,41906.00,,APC ,Asia-Pacific,Japan
+1071,In Progress,Contract,Incident,3-Medium,41906.00,,APC ,Asia-Pacific,Japan
+1072,In Progress,Contract,Incident,3-Medium,41906.00,,APC ,Asia-Pacific,Japan
+1089,In Progress,Contract,Incident,3-Medium,41941.00,,APC ,Asia-Pacific,Australia
+1090,In Progress,Contract,Incident,3-Medium,41941.00,,APC ,Asia-Pacific,Australia
+1091,In Progress,Contract,Incident,3-Medium,41941.00,,APC ,Asia-Pacific,Australia
+1125,In Progress,No Charge Support,Incident,3-Medium,42166.00,,Oper,Asia-Pacific,India
+1126,Pending,Project,Incident,4-Low,42165.00,,Oper,Asia-Pacific,New Zealand
+1127,In Progress,Project,Incident,3-Medium,42165.00,,Oper,Asia-Pacific,China
+1160,In Progress,Project,Incident,3-Medium,42083.00,,APC ,Asia-Pacific,Australia
+1161,In Progress,Project,Incident,3-Medium,42083.00,,APC ,Asia-Pacific,Australia
+1170,In Progress,Contract,Incident,3-Medium,42109.00,,APC ,Asia-Pacific,New Zealand
+1188,In Progress,Contract,Problem,2-High,42144.00,,APC ,Asia-Pacific,Japan
+1189,In Progress,Project,Problem,2-High,42146.00,,APC ,Asia-Pacific,India
+1190,In Progress,Project,Problem,2-High,42146.00,,APC ,Asia-Pacific,India
+1192,In Progress,Project,Incident,3-Medium,42152.00,,APC ,Asia-Pacific,India
+1193,In Progress,Project,Incident,3-Medium,42152.00,,APC ,Asia-Pacific,India
+1195,In Progress,Contract,Incident,3-Medium,42157.00,,APC ,Asia-Pacific,New Zealand
+1238,In Progress,Project,Problem,3-Medium,42173.00,,Oper,Asia-Pacific,India
+1239,In Progress,Project,Problem,3-Medium,42173.00,,Oper,Asia-Pacific,India
+1240,In Progress,Project,Problem,3-Medium,42173.00,,Oper,Asia-Pacific,India
+1241,In Progress,Project,Problem,3-Medium,42173.00,,Oper,Asia-Pacific,India
+1276,In Progress,Project,Problem,3-Medium,41914.00,,Adva,Asia-Pacific,Korea South
+1312,In Progress,Project,Problem,3-Medium,42181.00,,USD ,Asia-Pacific,India
+1313,In Progress,Project,Problem,3-Medium,42181.00,,USD ,Asia-Pacific,India
+1314,In Progress,Project,Problem,2-High,42180.00,,USD ,Asia-Pacific,India
+1315,In Progress,Project,Problem,3-Medium,42152.00,,Adva,Asia-Pacific,Philippines
+1316,In Progress,Project,Incident,4-Low,42152.00,,Adva,Asia-Pacific,Japan
+1317,In Progress,Project,Incident,4-Low,42152.00,,Adva,Asia-Pacific,Japan
+1318,In Progress,Project,Problem,2-High,42180.00,,USD ,Asia-Pacific,India
+1320,In Progress,Project,Problem,1-Critical,42170.00,,USD ,Asia-Pacific,India
+1321,In Progress,Project,Problem,1-Critical,42170.00,,USD ,Asia-Pacific,India
+1346,Canceled,No Charge Support,Request for Fulfillment,3-Medium,42117.00,,USD ,Asia-Pacific,Indonesia
+1362,In Progress,Project,Problem,3-Medium,42075.00,,USD ,Asia-Pacific,Vietnam
+1363,In Progress,Project,Problem,3-Medium,42075.00,,USD ,Asia-Pacific,Vietnam
+1404,In Progress,Project,Problem,3-Medium,42153.00,,DynA,Asia-Pacific,Singapore
+1405,In Progress,Project,Problem,2-High,42149.00,,DynA,Asia-Pacific,Malaysia
+1407,In Progress,No Charge Support,Problem,3-Medium,42143.00,,Proc,Asia-Pacific,China
+1408,In Progress,No Charge Support,Incident,3-Medium,42143.00,,Proc,Asia-Pacific,China
+1409,In Progress,No Charge Support,Problem,3-Medium,42143.00,,Proc,Asia-Pacific,China
+1410,In Progress,No Charge Support,Problem,3-Medium,42143.00,,Proc,Asia-Pacific,China
+1411,In Progress,No Charge Support,Incident,3-Medium,42143.00,,DynA,Asia-Pacific,China
+1417,In Progress,No Charge Support,Incident,4-Low,42096.00,,DynA,Asia-Pacific,China
+1429,In Progress,Project,Incident,3-Medium,42173.00,,Busi,Asia-Pacific,Singapore
+1431,In Progress,Contract,Problem,2-High,42164.00,,Busi,Asia-Pacific,India
+1432,In Progress,Project,Problem,3-Medium,42157.00,,Busi,Asia-Pacific,Singapore
+1433,In Progress,Project,Problem,3-Medium,42157.00,,PHD ,Asia-Pacific,Singapore
+1434,In Progress,Project,Problem,3-Medium,42156.00,,Busi,Asia-Pacific,Singapore
+1436,In Progress,Project,Problem,4-Low,42149.00,,Busi,Asia-Pacific,Australia
+1437,In Progress,Project,Problem,4-Low,42146.00,,Busi,Asia-Pacific,Australia
+1439,In Progress,Project,Problem,4-Low,42144.00,,Busi,Asia-Pacific,Singapore
+1440,In Progress,Project,Problem,2-High,42144.00,,PHD ,Asia-Pacific,Singapore
+1441,In Progress,Contract,Problem,3-Medium,42138.00,,Busi,Asia-Pacific,India
+1456,In Progress,Project,Problem,3-Medium,42117.00,,Busi,Asia-Pacific,India
+1459,In Progress,No Charge Support,Problem,3-Medium,42110.00,,Busi,Asia-Pacific,Australia
+1466,In Progress,Project,Problem,4-Low,42073.00,,Busi,Asia-Pacific,Australia
+1467,In Progress,Project,Problem,3-Medium,42072.00,,Busi,Asia-Pacific,Australia
+1468,In Progress,Project,Problem,4-Low,42072.00,,Busi,Asia-Pacific,Australia
+1477,In Progress,Project,Problem,3-Medium,42060.00,,Busi,Asia-Pacific,Australia
+1484,In Progress,Contract,Problem,4-Low,42051.00,,Busi,Asia-Pacific,India
+1492,In Progress,Project,Problem,4-Low,42031.00,,Busi,Asia-Pacific,Singapore
+1497,In Progress,No Charge Support,Problem,2-High,42027.00,,Busi,Asia-Pacific,Australia
+1502,In Progress,Project,Problem,3-Medium,41992.00,,Busi,Asia-Pacific,Singapore
+1507,In Progress,No Charge Support,Incident,3-Medium,42166.00,,Oper,Asia-Pacific,India
+1508,In Progress,No Charge Support,Incident,3-Medium,42166.00,,Oper,Asia-Pacific,India
+1512,In Progress,Project,Problem,4-Low,41960.00,,Busi,Asia-Pacific,Australia
+1531,In Progress,Contract,Problem,3-Medium,41920.00,,Busi,Asia-Pacific,India
+1538,In Progress,Project,Problem,3-Medium,41898.00,,Busi,Asia-Pacific,Australia
+1542,Request for Closure,Project,Problem,2-High,41744.00,,AAM ,Asia-Pacific,Australia
+1559,In Progress,Contract,Problem,3-Medium,41761.00,,Busi,Asia-Pacific,Australia
+1565,In Progress,Project,Problem,3-Medium,41675.00,,Busi,Asia-Pacific,Australia
+1567,Request for Closure,No Charge Support,Incident,3-Medium,42163.00,,Busi,Asia-Pacific,India
+1587,In Progress,Project,Incident,3-Medium,42188.00,,DynA,Asia-Pacific,Thailand
+1599,In Progress,No Charge Support,Problem,3-Medium,42143.00,,Proc,Asia-Pacific,China
+1600,In Progress,No Charge Support,Problem,3-Medium,42143.00,,Proc,Asia-Pacific,China
+1601,In Progress,No Charge Support,Problem,3-Medium,42143.00,,Proc,Asia-Pacific,China
+1608,Request for Closure,Project,Problem,4-Low,42073.00,,AAM ,Asia-Pacific,Australia
+1610,Canceled,Project,Incident,2-High,42074.00,,AAM ,Asia-Pacific,Singapore
+1611,In Progress,Project,Problem,3-Medium,42075.00,,AAM ,Asia-Pacific,Singapore
+1623,In Progress,Project,Problem,4-Low,42102.00,,Proc,Asia-Pacific,Korea South
+1625,In Progress,No Charge Support,Problem,4-Low,42100.00,,Proc,Asia-Pacific,Thailand
+1647,In Progress,Project,Incident,3-Medium,41731.00,,PHD ,Asia-Pacific,Singapore
+1672,Closed,Contract,Incident,3-Medium,41828.00,,PHD ,Asia-Pacific,Japan
+1683,Open,Project,Incident,4-Low,42181.00,,PHD ,Asia-Pacific,Taiwan
+1688,Open,Contract,Problem,4-Low,42173.00,,PHD ,Asia-Pacific,Australia
+1690,Request for Closure,Contract,Incident,3-Medium,42170.00,,PHD ,Asia-Pacific,Japan
+1693,In Progress,Contract,Incident,2-High,42167.00,,PHD ,Asia-Pacific,Australia
+1694,Open,Contract,Problem,2-High,42166.00,,PHD ,Asia-Pacific,Australia
+1697,In Progress,No Charge Support,Problem,3-Medium,42164.00,,PHD ,Asia-Pacific,India
+1704,In Progress,Project,Incident,4-Low,42157.00,,PHD ,Asia-Pacific,Singapore
+1706,In Progress,Contract,Problem,2-High,41883.00,,PHD ,Asia-Pacific,Australia
+1708,In Progress,Project,Incident,3-Medium,42152.00,,PHD ,Asia-Pacific,India
+1710,In Progress,Project,Problem,3-Medium,42145.00,,PHD ,Asia-Pacific,Singapore
+1712,In Progress,Project,Problem,2-High,42138.00,,PHD ,Asia-Pacific,Korea South
+1714,In Progress,Billable,Incident,3-Medium,42118.00,,PHD ,Asia-Pacific,Australia
+1715,In Progress,Contract,Problem,2-High,42102.00,,PHD ,Asia-Pacific,Japan
+1724,In Progress,Contract,Problem,2-High,42102.00,,PHD ,Asia-Pacific,Japan
+1731,In Progress,Project,Incident,3-Medium,42087.00,,PHD ,Asia-Pacific,New Zealand
+1733,In Progress,Project,Problem,3-Medium,42083.00,,PHD ,Asia-Pacific,Australia
+1740,In Progress,Project,Incident,3-Medium,42069.00,,PHD ,Asia-Pacific,Thailand
+1741,In Progress,Contract,Incident,3-Medium,42068.00,,PHD ,Asia-Pacific,New Zealand
+1742,In Progress,Billable,Problem,3-Medium,42062.00,,PHD ,Asia-Pacific,Philippines
+1743,In Progress,Contract,Problem,3-Medium,42062.00,,PHD ,Asia-Pacific,Japan
+1744,Request for Closure,Project,Request for Fulfillment,3-Medium,42060.00,,PHD ,Asia-Pacific,Singapore
+1754,In Progress,Contract,Incident,3-Medium,41939.00,,PHD ,Asia-Pacific,Japan
+1760,Request for Closure,Contract,Incident,2-High,42031.00,,PHD ,Asia-Pacific,Japan
+1762,Pending,Project,Problem,3-Medium,41954.00,,PHD ,Asia-Pacific,Australia
+1770,In Progress,No Charge Support,Incident,3-Medium,41964.00,,PHD ,Asia-Pacific,Japan
+1775,Request for Closure,Project,Incident,4-Low,41991.00,,Unsp,Asia-Pacific,Australia
+1778,Request for Closure,Project,Incident,3-Medium,42011.00,,Unsp,Asia-Pacific,Australia
+1782,In Progress,Contract,Problem,3-Medium,42019.00,,PHD ,Asia-Pacific,Australia
+1794,In Progress,Project,Problem,3-Medium,41949.00,,PHD ,Asia-Pacific,Australia
+1798,In Progress,Contract,Problem,3-Medium,41921.00,,PHD ,Asia-Pacific,Australia
+1799,In Progress,Project,Incident,3-Medium,42117.00,,PHD ,Asia-Pacific,Singapore
+1801,In Progress,No Charge Support,Incident,3-Medium,42186.00,,USD ,Asia-Pacific,Korea South
+1803,Canceled,Project,Incident,2-High,41646.00,,Oper,Asia-Pacific,Korea South
+1809,In Progress,No Charge Support,Incident,3-Medium,42186.00,,USD ,Asia-Pacific,Korea South
+1810,Request for Closure,No Charge Support,Incident,3-Medium,42186.00,,USD ,Asia-Pacific,Unspecified
+1813,Request for Closure,No Charge Support,Incident,3-Medium,42186.00,,USD ,Asia-Pacific,Unspecified
+1934,In Progress,Project,Incident,3-Medium,42018.00,,PHD ,Asia-Pacific,Singapore
+1941,In Progress,Project,Incident,3-Medium,42060.00,,PHD ,Asia-Pacific,Indonesia
+1952,In Progress,Contract,Problem,3-Medium,42087.00,,PHD ,Asia-Pacific,Australia
+1954,In Progress,Project,Incident,3-Medium,42095.00,,PHD ,Asia-Pacific,Singapore
+1964,In Progress,Project,Request for Fulfillment,4-Low,42121.00,,PHD ,Asia-Pacific,Australia
+1974,In Progress,Project,Problem,2-High,42145.00,,PHD ,Asia-Pacific,Australia
+1979,In Progress,Contract,Incident,2-High,42169.00,,PHD ,Asia-Pacific,Australia
+1980,Request for Closure,Contract,Incident,3-Medium,42172.00,,PHD ,Asia-Pacific,Australia
+1983,Open,Billable,Incident,3-Medium,42180.00,,PHD ,Asia-Pacific,Australia
+1985,In Progress,No Charge Support,Problem,3-Medium,42184.00,,PHD ,Asia-Pacific,Australia
+1987,In Progress,Contract,Problem,3-Medium,42187.00,,PHD ,Asia-Pacific,Papua New Guinea
+1988,In Progress,Project,Incident,3-Medium,42188.00,,PHD ,Asia-Pacific,Singapore
+1990,In Progress,Billable,Request for Fulfillment,3-Medium,41893.00,,Unsp,Asia-Pacific,Malaysia
+1995,Canceled,No Charge Support,Incident,2-High,41838.00,,Busi,Asia-Pacific,India
+1997,In Progress,Contract,Incident,3-Medium,41906.00,,APC ,Asia-Pacific,Japan
+1999,In Progress,Contract,Incident,3-Medium,41941.00,,APC ,Asia-Pacific,Australia
+2007,In Progress,No Charge Support,Problem,2-High,42039.00,,Busi,Asia-Pacific,India
+2010,In Progress,Project,Incident,3-Medium,42083.00,,APC ,Asia-Pacific,Australia
+2013,In Progress,Contract,Incident,3-Medium,42109.00,,APC ,Asia-Pacific,New Zealand
+2017,In Progress,No Charge Support,Problem,3-Medium,42135.00,,Busi,Asia-Pacific,India
+2018,In Progress,Project,Problem,4-Low,42142.00,,Busi,Asia-Pacific,Japan
+2019,In Progress,Contract,Problem,2-High,42144.00,,APC ,Asia-Pacific,Japan
+2020,In Progress,No Charge Support,Incident,3-Medium,42167.00,,APC ,Asia-Pacific,Australia
+2021,In Progress,Project,Incident,2-High,42174.00,,APC ,Asia-Pacific,New Zealand
+2034,In Progress,Project,Request for Fulfillment,3-Medium,42017.00,,Blen,Asia-Pacific,India
+2042,In Progress,Project,Incident,3-Medium,42072.00,,Blen,Asia-Pacific,India
+2051,In Progress,Project,Problem,2-High,42145.00,,Blen,Asia-Pacific,Korea South
+2052,In Progress,Project,Incident,4-Low,42151.00,,Blen,Asia-Pacific,India
+2057,In Progress,Project,Incident,3-Medium,42177.00,,Blen,Asia-Pacific,India
+2058,In Progress,Project,Request for Fulfillment,3-Medium,42178.00,,Blen,Asia-Pacific,Korea South
+2059,In Progress,Project,Incident,2-High,42178.00,,Blen,Asia-Pacific,India
+2080,In Progress,Contract,Problem,3-Medium,42138.00,,Busi,Asia-Pacific,India
+2081,In Progress,Project,Problem,3-Medium,42145.00,,Busi,Asia-Pacific,Singapore
+2082,In Progress,Project,Request for Fulfillment,3-Medium,42180.00,,Busi,Asia-Pacific,Singapore
+2083,In Progress,Project,Request for Fulfillment,3-Medium,42180.00,,Busi,Asia-Pacific,Singapore
+2087,Canceled,Project,Incident,2-High,41646.00,,Oper,Asia-Pacific,Korea South
+2105,In Progress,No Charge Support,Problem,4-Low,42153.00,,Proc,Asia-Pacific,China
+2106,In Progress,No Charge Support,Problem,4-Low,42153.00,,Proc,Asia-Pacific,China
+2116,In Progress,Project,Incident,3-Medium,42188.00,,Busi,Asia-Pacific,Singapore
+2119,In Progress,Project,Incident,2-High,42170.00,,Busi,Asia-Pacific,Singapore
+2123,Request for Closure,No Charge Support,Incident,3-Medium,42163.00,,Busi,Asia-Pacific,India
+2124,In Progress,Project,Problem,3-Medium,42145.00,,Busi,Asia-Pacific,Singapore
+2126,In Progress,Project,Problem,4-Low,42142.00,,Busi,Asia-Pacific,Australia
+2155,In Progress,Project,Problem,3-Medium,42033.00,,Busi,Asia-Pacific,Australia
+2156,In Progress,No Charge Support,Problem,2-High,42027.00,,Busi,Asia-Pacific,Australia
+2180,In Progress,Contract,Problem,3-Medium,41886.00,,Busi,Asia-Pacific,India
+2200,In Progress,Project,Problem,3-Medium,42179.00,,Busi,Asia-Pacific,Singapore
+2201,In Progress,Project,Problem,2-High,42177.00,,Busi,Asia-Pacific,Singapore
+2202,In Progress,No Charge Support,Incident,2-High,42171.00,,Busi,Asia-Pacific,India
+2212,In Progress,Contract,Problem,2-High,42164.00,,Busi,Asia-Pacific,India
+2213,In Progress,Contract,Problem,3-Medium,42164.00,,Busi,Asia-Pacific,India
+2215,In Progress,No Charge Support,Problem,2-High,42158.00,,Busi,Asia-Pacific,India
+2219,In Progress,Project,Problem,3-Medium,42153.00,,Busi,Asia-Pacific,India
+2221,In Progress,Contract,Problem,3-Medium,42138.00,,Busi,Asia-Pacific,India
+2222,In Progress,No Charge Support,Problem,3-Medium,42110.00,,Busi,Asia-Pacific,Australia
+2239,Pending,Contract,Problem,3-Medium,42067.00,,Busi,Asia-Pacific,India
+2250,In Progress,Contract,Problem,3-Medium,42039.00,,Busi,Asia-Pacific,India
+2255,In Progress,Contract,Problem,3-Medium,42006.00,,Busi,Asia-Pacific,India
+2265,In Progress,Project,Problem,3-Medium,41992.00,,Busi,Asia-Pacific,Singapore
+2299,In Progress,Project,Problem,4-Low,41956.00,,Busi,Asia-Pacific,Australia
+2321,In Progress,Contract,Problem,3-Medium,41940.00,,AAM ,Asia-Pacific,India
+2331,In Progress,Contract,Problem,3-Medium,41920.00,,AAM ,Asia-Pacific,India
+2335,In Progress,Contract,Problem,3-Medium,41920.00,,Busi,Asia-Pacific,India
+2382,In Progress,Contract,Problem,3-Medium,41761.00,,Busi,Asia-Pacific,Australia
+2394,In Progress,Billable,Problem,3-Medium,42181.00,,Busi,Asia-Pacific,India
+2395,In Progress,Billable,Request for Fulfillment,4-Low,42181.00,,Busi,Asia-Pacific,India
+2396,In Progress,Billable,Request for Fulfillment,3-Medium,42181.00,,Busi,Asia-Pacific,India
+2397,In Progress,Billable,Request for Fulfillment,3-Medium,42181.00,,Busi,Asia-Pacific,India
+2398,In Progress,Billable,Problem,3-Medium,42181.00,,Busi,Asia-Pacific,India
+2421,In Progress,Contract,Problem,3-Medium,42144.00,,Busi,Asia-Pacific,India
+2424,In Progress,Contract,Problem,3-Medium,42138.00,,Busi,Asia-Pacific,India
+2426,In Progress,Project,Problem,3-Medium,41823.00,,USD ,Asia-Pacific,India
+2590,Request for Closure,No Charge Support,Problem,4-Low,41904.00,,Oper,Asia-Pacific,Singapore
+2591,Request for Closure,No Charge Support,Problem,4-Low,41904.00,,Oper,Asia-Pacific,Singapore
+2592,Request for Closure,No Charge Support,Problem,4-Low,41904.00,,Oper,Asia-Pacific,Singapore
+2669,Request for Closure,Project,Problem,4-Low,41971.00,,Oper,Asia-Pacific,Singapore
+2690,Request for Closure,No Charge Support,Problem,4-Low,41978.00,,USD ,Asia-Pacific,Brunei Darussalam
+2691,Request for Closure,No Charge Support,Problem,4-Low,41978.00,,USD ,Asia-Pacific,Brunei Darussalam
+2692,Request for Closure,No Charge Support,Problem,4-Low,41978.00,,USD ,Asia-Pacific,Brunei Darussalam
+2693,Request for Closure,No Charge Support,Problem,4-Low,41978.00,,USD ,Asia-Pacific,Brunei Darussalam
+2694,Request for Closure,No Charge Support,Problem,4-Low,41978.00,,USD ,Asia-Pacific,Brunei Darussalam
+2727,Request for Closure,No Charge Support,Problem,4-Low,41983.00,,USD ,Asia-Pacific,Malaysia
+2728,Request for Closure,No Charge Support,Problem,4-Low,41983.00,,USD ,Asia-Pacific,Malaysia
+2729,Request for Closure,No Charge Support,Problem,4-Low,41983.00,,USD ,Asia-Pacific,Malaysia
+2730,Request for Closure,No Charge Support,Problem,4-Low,41983.00,,USD ,Asia-Pacific,Malaysia
+2731,Request for Closure,No Charge Support,Problem,4-Low,41983.00,,USD ,Asia-Pacific,Malaysia
+2732,Request for Closure,No Charge Support,Problem,4-Low,41983.00,,USD ,Asia-Pacific,Malaysia
+2733,Request for Closure,No Charge Support,Problem,4-Low,41983.00,,USD ,Asia-Pacific,Malaysia
+2811,In Progress,No Charge Support,Problem,3-Medium,42087.00,,USD ,Asia-Pacific,China
+2834,Request for Closure,No Charge Support,Incident,3-Medium,42174.00,,USD ,Asia-Pacific,India
+2835,Request for Closure,No Charge Support,Incident,3-Medium,42174.00,,USD ,Asia-Pacific,India
+2836,Request for Closure,No Charge Support,Incident,3-Medium,42174.00,,USD ,Asia-Pacific,India
+2837,In Progress,Project,Problem,3-Medium,42186.00,,USD ,Asia-Pacific,India
+2867,Closed,Contract,Incident,1-Critical,41667.00,,Busi,Asia-Pacific,India
+2924,Request for Closure,No Charge Support,Problem,2-High,42124.00,,Blen,Asia-Pacific,India
+2927,In Progress,Project,Incident,3-Medium,42167.00,,Blen,Asia-Pacific,China
+2932,In Progress,Project,Problem,2-High,41988.00,,DynA,Asia-Pacific,Japan
+2935,In Progress,Project,Problem,2-High,42149.00,,DynA,Asia-Pacific,Malaysia
+2937,In Progress,No Charge Support,Problem,3-Medium,42129.00,,DynA,Asia-Pacific,Japan
+2957,In Progress,Project,Problem,2-High,41988.00,,DynA,Asia-Pacific,Japan
+2978,Closed,Contract,Problem,3-Medium,41837.00,,AAM ,Asia-Pacific,Australia
+2997,In Progress,Contract,Problem,4-Low,42172.00,,AAM ,Asia-Pacific,Australia
+3004,In Progress,Contract,Incident,3-Medium,42158.00,,AAM ,Asia-Pacific,Thailand

@@ -1,0 +1,109 @@
+/* IMPORT DATA*/
+
+DATA WORK.STARTUP;
+    LENGTH
+        X1                 8
+        X2                 8
+        X3                 8
+        X4                 8
+        X5                 8 ;
+    FORMAT
+        X1               BEST3.
+        X2               BEST3.
+        X3               BEST3.
+        X4               BEST3.
+        X5               BEST3. ;
+    INFORMAT
+        X1               BEST3.
+        X2               BEST3.
+        X3               BEST3.
+        X4               BEST3.
+        X5               BEST3. ;
+    INFILE '/home/subhashini1/my_content/startupcost.csv'
+        DLM=','
+        MISSOVER
+        DSD ; 
+    INPUT
+        X1               : ?? BEST3.
+        X2               : ?? BEST3.
+        X3               : ?? BEST3.
+        X4               : ?? BEST3.
+        X5               : ?? BEST3. ;
+RUN;
+/*UNDERSTAND THE DATA */
+
+PROC CONTENTS DATA = WORK.STARTUP; RUN ; 
+
+PROC PRINT DATA=WORK.STARTUP (OBS= 10) ; RUN ; 
+
+
+
+PROC UNIVARIATE DATA= WORK.STARTUP NORMAL PLOT; 
+VAR  X1 X2 X3 X4;
+HISTOGRAM X2 X3 X4 / NORMAL ; RUN ;
+
+/* STRUCTURE THE DATA FOR T TEST X1 VS X2 */
+
+DATA WORK.STARTUP_X1; 
+SET WORK.STARTUP; 
+KEEP X1; RUN ;
+
+DATA WORK.STARTUP_X1; 
+SET  WORK.STARTUP_X1;
+SEGMENT = 1; 
+RENAME X1 = VALUE;RUN ; 
+
+PROC PRINT DATA=WORK.STARTUP_X1 (OBS=10) ; RUN ;
+
+DATA WORK.STARTUP_X2; 
+SET WORK.STARTUP; 
+KEEP X2;
+ RUN ;
+
+
+DATA WORK.STARTUP_X2; 
+SET  WORK.STARTUP_X2;
+SEGMENT = 2;
+RENAME X2 = VALUE;
+RUN ; 
+
+PROC PRINT DATA=WORK.STARTUP_X2 (OBS=10) ; RUN ;
+
+DATA TOTAL_X1_X2;
+SET WORK.STARTUP_X1 WORK.STARTUP_X2;RUN ; 
+
+PROC SORT DATA= TOTAL_X1_X2;
+BY SEGMENT; RUN ; 
+/* UNDERSTAND MISSING VALUES */
+PROC MEANS DATA=TOTAL_X1_X2 N NMISS MEAN STDDEV MEDIAN MIN MAX;
+CLASS SEGMENT ; RUN ;
+
+/* REMOVE MISSING VALUES*/
+
+DATA FINAL_X1_X2;
+SET TOTAL_X1_X2;
+WHERE VALUE NE .; RUN ; 
+PROC MEANS DATA=FINAL_X1_X2 N NMISS MEAN STDDEV MEDIAN MIN MAX;
+CLASS SEGMENT ; RUN ;
+
+
+/* CHECK NORMALITY */
+
+PROC UNIVARIATE DATA=FINAL_X1_X2 NORMAL;
+QQPLOT VALUE / NORMAL (mu=est sigma=est color=red l=1);
+BY SEGMENT; RUN ; 
+
+
+/* RUN T TEST FOR 2 SAMPLES, INDEPENDENT GROUP */
+
+PROC TTEST DATA=FINAL_X1_X2;
+CLASS SEGMENT;
+VAR VALUE; RUN ; 
+ 
+
+/* RUN ANOVA*/
+
+PROC ANOVA DATA=WORK.FINAL_X1_X2;
+CLASS SEGMENT; 
+MODEL VALUE = SEGMENT ; 
+MEANS SEGMENT /HOVTEST=LEVENE WELCH;RUN;
